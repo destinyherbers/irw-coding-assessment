@@ -38,7 +38,7 @@ review/
 
 ---
 
-## Part 1 — A quick analysis  *(~25 min)*
+## Part 1 — A quick analysis
 
 Pick any dataset from [opendata.dc.gov](https://opendata.dc.gov) (311 requests,
 building permits, crime, evictions, whatever grabs you) and produce **one
@@ -58,7 +58,7 @@ Deliver:
 
 ---
 
-## Part 2 — Edit the work  *(~20 min)*
+## Part 2 — Edit the work
 
 `review/flawed_analysis.py` and `review/flawed_analysis.R` are the **same**
 flawed analysis in two languages. It was drafted with an AI assistant and
@@ -84,7 +84,7 @@ issues the way you did.
 
 ---
 
-## Part 3 — Explain it  *(~10 min)*
+## Part 3 — Explain it
 
 Write **`explainer.md`**: your Part 1 finding in **~100 words**, for a
 co-reporter or publication partner. Then one sentence: if you had a student reporter with limited time and one more week, what
