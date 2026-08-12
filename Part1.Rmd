@@ -4,16 +4,77 @@ output: html_document
 date: "2026-08-12"
 ---
 
+# setting up packages
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 install.packages("dplyr")
 install.packages("tidyverse")
+install.packages("janitor")
+install.packages("lubridate")
 library(dplyr)
 library(tidyverse)
+library(janitor)
+library(lubridate)
 ```
 
+# reading in juvenile arrest data
+```{r}
+juvenile_arrests <- read_csv("data/Juvenile_Arrests.csv")
+```
+
+# basic cleaning on column names, then collapses white space and turns characters lowercase
+```{r}
+juvenile_arrests <- juvenile_arrests %>%
+  clean_names() %>%
+  mutate(across(where(is.character), ~ str_to_lower(str_squish(.x))))
+```
+
+# fixing arrest date column into real dates
+```{r}
+juvenile_arrests <- juvenile_arrests %>%
+  mutate(arrest_date = as_date(ymd_hms(arrest_date)))
+```
+
+# visually checking data coverage, are there values for all months for each year?
+```{r}
+monthly_counts <- juvenile_arrests %>%
+  mutate(year_month = floor_date(arrest_date, "month")) %>%
+  count(year_month, name = "total_arrests") %>%
+  arrange(year_month)
+```
+
+## There's good data coverage for all months from 2011 to 2024. I think it would be interesting to see if there is any relationship between juvenile arrests and the month of the year, to then see if the school year impacts arrests. 
+
+# extracting the month from the dates and getting counts
+```{r}
+monthly_totals <- juvenile_arrests %>%
+  mutate(month = month(arrest_date, label = TRUE, abbr = TRUE)) %>%
+  group_by(month) %>%
+  summarize(total_arrests = n(), .groups = "drop") %>%
+  arrange(desc(total_arrests))
+
+print(monthly_totals)
+```
+
+# chart
+```{r}
+ggplot(monthly_totals, aes(x = month, y = total_arrests)) +
+  geom_col(fill = "blue") +
+  geom_text(aes(label = scales::comma(total_arrests)), vjust = -0.5, size = 3.5) +
+  labs(
+    title = "Total Juvenile Arrests by Month (All Years Combined)",
+    x = "Month",
+    y = "Total Arrests"
+  ) +
+  theme_minimal() +
+  scale_y_continuous(labels = scales::comma, expand = expansion(mult = c(0, 0.1)))
+```
+
+
+# I don't see a strong relationship between season and number of juvenile arrests, except for a November/December decrease. I'll move on to looking at counts per year to see if there have been overall changes in the number of arrests over time.
 
 ```{r}
-read_csv()
+
 ```
+
 
