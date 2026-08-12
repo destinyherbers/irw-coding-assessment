@@ -14,9 +14,19 @@ In the chart code, the y-axis is set to start at 150, which creates a misleading
 #The claim
 The headline of the claim is not supported, and I would advise against using the language. Claiming a ward to be "most neglected" is editorializing because neglect is a loaded term that could have factors beyond the data analyzed. I would stick to clearly presenting what the data does show, "Our analysis of 311 service requests found Ward 7 generates more complaints than any other ward." But the analysis does not take into account Ward 7 having significantly more people, so this claim would be much stronger with a number of complaints per capita. 
 
-#Feedback for the reporter:
-This is a great start, and looking for areas of DC that have more 311 calls, what calls are happening most often and how long it takes the city to respond to a request are all great ideas for questions. Calling an area "neglected" is a big swing, so we need to make sure we have the strongest possible case to support it. 
+Most of the sentences are supported by the data after some fixes, but because the analysis of closed cases and response days isn't specific to the ward, those data points should not be used to support the claim that "residents in the city's east end are being left behind."
 
-First, the data needs cleaning. At a glance, there's variation in title case in multiple columns, so I would recommend setting the entire data set to uppercase or lowercase, trimming any extra spaces, and making sure the N/A values are consistent. 
+#Feedback for the reporter:
+This is a great start, and looking for areas of DC that have more 311 calls, what calls are happening most often and how long it takes the city to respond to a request are all great ideas for questions. 
+
+Calling an area "neglected", though, is editorializing the issue because it's a loaded word that the data can't completely back up. Update the headline to be as factual as possible. We can say something like "Ward X made the most calls to 311 per capita."
+
+Then there are some changes we need to make sure we have the strongest possible case to support the headline. 
+
+First, the data needs cleaning. At a glance, there's variation in title case in multiple columns, so I would recommend setting the entire data set to uppercase or lowercase, trimming any extra spaces, and making sure the N/A values are consistent. Then rerun the service type count and update your claim. 
+
+The status column also has a couple phrases that would mean it's been completed, closed and resolved. To look for any other values we should include, you can count the values for the status column like you did for the wards and print the count. Then you'll be able to see all of the options for the status and make changes to your code to catch them all. It would be a good idea to also run a median on the response days to make sure the average isn't being skewed by extreme outliers.
 
 Next, the data needs to be normalized for the populations of the wards to account for places like Ward 7 where there are many more people, so there naturally would be more calls. I would suggest looking for the call rate per 1,000 people and using that rate instead to determine which ward is making the most calls.
+
+Finally, rerun the chart, but this time with the rates, and set the y-axis to zero. When the y-axis starts higher, it can distort how the chart looks to readers and make the gaps between bars appear larger.
