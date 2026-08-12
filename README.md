@@ -115,15 +115,15 @@ and the packages you used.
 
 We're upfront about what we're grading:
 
-- **Finding & framing**: how you explore a dataset and decide what's worth a
-  reader's attention (Part 1)
-- **Data-journalism judgment**: denominators, normalization, uncertainty, and
-  knowing what a dataset can and can't support
-- **Editing & critical reading**: catching what's wrong in the flawed analysis
-  (Part 2), the reasoning behind it, and leading with what matters
-- **Communication & teaching**: explaining clearly to non-technical people, and
-  giving feedback the way a good editor at a teaching newsroom would
-- **Code literacy in both languages**: clean, runnable code in Part 1, and
-  reading the other language competently in Part 2
+- how you explore a dataset and decide what's worth a reader's attention
+  (Part 1)
+- denominators, normalization, uncertainty, and knowing what a dataset can and
+  can't support
+- catching what's wrong in the flawed analysis (Part 2), the reasoning behind
+  it, and leading with what matters
+- explaining clearly to non-technical people, and giving feedback the way a good
+  editor at a teaching newsroom would
+- clean, runnable code in Part 1, and reading the other language competently in
+  Part 2
 
 Good luck.
