@@ -1,121 +1,129 @@
-# IRW-coding-assessment
-## overview
+# IRW Data Editor Coding Assessment
 
-you may complete this in either **python** or **r**.
+## Overview
 
----
+This is a short exercise for the **data editor** role at the Investigative
+Reporting Workshop. It should take about **60–75 minutes**. Please don't spend
+your whole weekend on it. 
 
-## submission requirements
+A data editor here does two jobs. You do data work (clean, analyze, visualize,
+write), and you edit other people's work (reporters, students, freelancers) and
+decide what's solid enough to publish. This exercise tests both, plus whether
+you can explain what the numbers do and don't say to people who don't code.
 
-you will submit your work via a **public github repository** that you create. your repository should include:
+You may code in **Python** or **R**. You'll write in the language you pick
+(Part 1) and read and edit the other one (Part 2), so we see how you work in
+both.
 
-1. **your code** (python or r, commented and runnable)
-2. **1-3 visualizations** as png or pdf files in a `visualizations/` folder
-3. **a findings document** (300-500 words) as a markdown file named `findings.md`
-4. **a methodology note** (200-300 words) as a markdown file named `methodology.md`
-5. **a README.md** with:
-   - your name
-   - brief project description  
-   - instructions on how to run your code
-   - list of required packages/libraries
-   - link to your data source
-6. **at least 2-3 commits** showing your work progression (not just one at the end)
-
-**final submission:** email us your github repository url
-
----
-
-## part 0: github setup 
-
-create a repository for your work.
-
-**we're looking for at least 2-3 commits showing your progression, not just one at the end.**
-
-the repository needs to be public so we can access it for evaluation. after we complete our review, you can make it private or delete it if you prefer. we'll let you know when we're done!
+> **On AI tools.** Use whatever you'd normally use, including AI (Claude,
+> Copilot, ChatGPT). Just be honest about it: add a line to your README saying
+> where you did and didn't use it.
+>
+> Part 2 is where we look at your own editorial
+> judgment, especially whether you can catch what a confident draft (human or
+> AI) gets wrong.
 
 ---
 
-## dataset options
+## What's in this repo
 
-choose **one** of the following datasets from [opendata.dc.gov](https://opendata.dc.gov). some of these have multiple datasets over years, so feel free to use one year or multiple years. 
-
-### option 1: 311 service requests
-
-### option 2: building permits 
-
-### option 3: your choice
-
-browse [opendata.dc.gov](https://opendata.dc.gov) and choose any other dataset that interests you. 
-
-**if choosing this option:** include a brief explanation in your methodology note of why you chose this dataset.
+```
+data/
+  sample_311.csv          # fixed dataset for Part 2 (synthetic, DC-style 311 data)
+review/
+  flawed_analysis.py      # a flawed first-draft analysis, in Python
+  flawed_analysis.R       # the SAME flawed analysis, in R
+  claim.md                # the claim that draft is being used to support
+```
 
 ---
 
-## required tasks
+## Part 1 — A quick analysis  *(~25 min)*
 
-### part 1: data acquisition and cleaning
+Pick any dataset from [opendata.dc.gov](https://opendata.dc.gov) (311 requests,
+building permits, crime, evictions, whatever grabs you) and produce **one
+finding you can actually support**. 
 
-**1. grab the dataset**
+We also want to see how you got there, how you poke at a dataset and decide
+what's worth a reader's attention.
 
-**2. load and examine the data**
+Deliver:
 
-**3. clean and prepare the data**
+- **Your code** (`.py`, `.R`, `.Rmd`, or a notebook), runnable
+- **One visualization** (PNG or PDF)
+- **`finding.md`** (~150 words): what you found, a sentence or
+  two on how you got there (what you looked at, why you stopped on this), limitations and anything else you want us to know. 
 
----
-
-### part 2: explore!
-
-**4. descriptive analysis**
-
-**5. analyze geographic patterns** (if applicable)
-
-**6. trends over time** (if applicable)
-
-**7. dig deeper** - find something interesting!
+*(Don't use `data/sample_311.csv` here. That one's for Part 2.)*
 
 ---
 
-### part 3: data visualization
+## Part 2 — Edit the work  *(~20 min)*
 
-**8. create 1-3 visualizations** 
+`review/flawed_analysis.py` and `review/flawed_analysis.R` are the **same**
+flawed analysis in two languages. It was drafted with an AI assistant and
+lightly edited. It runs, and the output looks clean. A reporter wants to use it
+to support the claim in `review/claim.md` and file today.
 
-**save all visualizations as png or pdf files in your `visualizations/` folder.**
+**Read the version in the language you did *not* use in Part 1** (built in
+Python? Review the R, and vice versa). Editors read code they didn't write, in
+languages they don't always live in. Run it against `data/sample_311.csv` if
+you want.
 
----
+Write **`review/code_review.md`** covering:
 
-### part 4: written analysis 
+1. **What's wrong**: the bugs and analytical mistakes that change the answer
+   (correctness and methodology).
+2. **The claim**: is the headline in `claim.md` actually supported? If not, why? what do you think?
+3. **Your note to the reporter**: We're a teaching newsroom, so how you give
+   feedback matters.
 
-**9. write some findings (300-500 words)** based on your analysis. can be written in story format, or however you would like to present it.
-
-**save as `findings.md`**
-
----
-
-**10. write a methodology note (200-300 words)** that explains:
-- what data you used and any limitations
-- how you cleaned or transformed the data
-- key decisions you made in your analysis
-- what the data can and cannot tell us
-- any caveats people should know
-
-**save as `methodology.md`**
-
----
-
-## final submission checklist
-
-before submitting, make sure your repository includes:
-
-- [ ] well-commented code file with parts 1-3 (`.py` or `.R` / `.Rmd`)
-- [ ] 1-3 visualization files in `visualizations/` folder
-- [ ] `findings.md` with your findings (300-500 words)
-- [ ] `methodology.md` with methodology note (200-300 words)
-- [ ] updated `README.md` with your name, project description, setup instructions and package requirements
-- [ ] at least 2-3 commits showing your work progression
-- [ ] all changes pushed to github
-
-**submit by emailing us your github repository url.**
+And show your thinking, not just conclusions. Tell us how you approached the
+code, what you checked or ran to confirm a problem, and why you ranked the
+issues the way you did. 
 
 ---
 
-good luck!
+## Part 3 — Explain it  *(~10 min)*
+
+Write **`explainer.md`**: your Part 1 finding in **~100 words**, for a
+co-reporter or publication partner. Then one sentence: if you had a student reporter with limited time and one more week, what
+would you chase next?
+
+---
+
+## Submission
+
+Put everything in a **GitHub repo** and email us the link. A private repo is
+fine — just add **`aarushisahejpal`** as a collaborator so we can see it. We
+want to see your **commit history**, so commit as you go rather than dumping
+everything at the end. Include a short README with your name, how to run Part 1,
+and the packages you used.
+
+### Checklist
+
+- [ ] Part 1: code + one visualization + `finding.md`
+- [ ] Part 2: `review/code_review.md`
+- [ ] Part 3: `explainer.md`
+- [ ] GitHub repo (public, or private with `aarushisahejpal` added) + commit
+      history (not one final commit)
+- [ ] Short README (+ one line on where you did and didn't use AI)
+
+---
+
+## How we'll evaluate
+
+We're upfront about what we're grading:
+
+- **Finding & framing**: how you explore a dataset and decide what's worth a
+  reader's attention (Part 1)
+- **Data-journalism judgment**: denominators, normalization, uncertainty, and
+  knowing what a dataset can and can't support
+- **Editing & critical reading**: catching what's wrong in the flawed analysis
+  (Part 2), the reasoning behind it, and leading with what matters
+- **Communication & teaching**: explaining clearly to non-technical people, and
+  giving feedback the way a good editor at a teaching newsroom would
+- **Code literacy in both languages**: clean, runnable code in Part 1, and
+  reading the other language competently in Part 2
+
+Good luck.

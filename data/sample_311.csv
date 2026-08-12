@@ -1,0 +1,3694 @@
+service_request_id,date_received,ward,service_type,status,response_days
+SR-103256,,8,Rodent Inspection,In Progress,11
+SR-103234,2023-09-24,8,pothole,Resolved,4
+SR-101381,2023-05-20,5,Noise Complaint,In Progress,5
+SR-100337,2023-09-06,2,Streetlight Out,Closed,4
+SR-101566,2023-11-10,5,Noise Complaint,Closed,5
+SR-103191,2023-01-04,8,Noise Complaint,Closed,11
+SR-100980,2023-10-17,4,Noise Complaint,Closed,11
+SR-103203,2023-12-15,8,Trash Collection,In Progress,9
+SR-101882,2023-02-08,6,Illegal Dumping,In Progress,1
+SR-102646,2023-07-13,7,Trash Collection,Resolved,26
+SR-100064,2023-05-13,1,Rodent Inspection,closed,19
+SR-102503,2023-05-14,7,Noise Complaint,closed,2
+SR-103041,2023-02-26,7,Streetlight Out,Closed,25
+SR-102457,2023-05-19,7,Trash Collection,Closed,10
+SR-102200,2023-01-12,6,Trash Collection,In Progress,28
+SR-102689,2023-04-06,7,Noise Complaint,Open,2
+SR-100812,2023-05-17,3,Rodent Inspection,In Progress,1
+SR-102958,2023-07-13,7,pothole,Closed,7
+SR-100112,2023-07-07,1,Illegal Dumping,Open,6
+SR-101522,2023-01-26,5,Trash Collection,Closed,439
+SR-100505,2023-11-16,3,Noise Complaint,Closed,16
+SR-101988,N/A,6,Rodent Inspection,In Progress,1
+SR-100549,2023-08-26,3,POTHOLE,Open,9
+SR-101747,2023-09-06,5,Streetlight Out,Open,20
+SR-101020,2023-12-04,4,Trash Collection,In Progress,11
+SR-103314,2023-08-13,8,Illegal Dumping,closed,21
+SR-103367,2023-07-15,,POTHOLE,In Progress,4
+SR-101393,2023-01-21,5,Illegal Dumping,Closed,560
+SR-100620,2023-08-10,3,Illegal Dumping,In Progress,8
+SR-101370,2023-04-04,5,Streetlight Out,Closed,21
+SR-100121,2023-02-21,1,Noise Complaint,closed,28
+SR-103114,2023-12-06,7,Noise Complaint,Closed,4
+SR-100648,2023-01-22,3,Pothole,closed,29
+SR-102635,2023-03-07,7,Illegal Dumping,Closed,15
+SR-101339,2023-11-11,5,Pothole,closed,10
+SR-101839,2023-12-28,6,Trash Collection,closed,30
+SR-101499,2023-08-14,5,Illegal Dumping,Closed,3
+SR-100964,2023-04-26,4,Illegal Dumping,In Progress,27
+SR-102554,2023-03-19,7,Rodent Inspection,closed,769
+SR-102556,2023-06-19,7,POTHOLE,In Progress,9
+SR-100082,2023-06-07,1,pothole,Open,24
+SR-101594,2023-02-10,5,pothole,Closed,10
+SR-102598,2023-08-15,7,Noise Complaint,closed,30
+SR-100814,2023-11-25,3,Illegal Dumping,Closed,12
+SR-102630,2023-05-18,7,Noise Complaint,Open,479
+SR-100807,2023-09-22,3,Trash Collection,Closed,22
+SR-100061,2023-11-18,1,Noise Complaint,Closed,16
+SR-102318,2023-04-13,6,Noise Complaint,In Progress,9
+SR-101425,2023-11-02,5,Illegal Dumping,Closed,28
+SR-101371,2023-04-09,5,Streetlight Out,Open,2
+SR-102289,2023-03-19,6,Illegal Dumping,closed,17
+SR-101619,2023-04-25,5,Noise Complaint,closed,29
+SR-101636,2023-08-18,5,POTHOLE,Open,18
+SR-100525,2023-10-18,3,Pothole,In Progress,5
+SR-101290,2023-10-05,5,Trash Collection,closed,1
+SR-101791,2023-08-15,6,Rodent Inspection,Open,26
+SR-100923,2023-05-15,,pothole,In Progress,12
+SR-100799,2023-04-05,3,Noise Complaint,Open,30
+SR-100622,2023-09-08,,pothole,In Progress,25
+SR-102169,2023-08-19,6,Noise Complaint,Open,3
+SR-100139,2023-12-25,1,Noise Complaint,closed,5
+SR-102913,2023-05-01,7,Streetlight Out,Closed,1
+SR-102999,2023-08-10,7,Illegal Dumping,In Progress,19
+SR-100547,2023-06-08,3,POTHOLE,Resolved,15
+SR-100297,2023-05-04,,pothole,Resolved,5
+SR-102514,2023-03-21,7,pothole,Open,11
+SR-101165,2023-03-06,4,POTHOLE,In Progress,23
+SR-102442,2023-02-15,7,Pothole,Open,14
+SR-102108,2023-10-24,6,Trash Collection,In Progress,16
+SR-102685,2023-06-25,7,Illegal Dumping,Resolved,5
+SR-103279,2023-10-01,8,Illegal Dumping,Closed,15
+SR-103299,2023-03-20,8,pothole,closed,19
+SR-102749,2023-12-09,7,Pothole,Closed,27
+SR-101008,2023-11-19,4,Streetlight Out,closed,21
+SR-102080,2023-09-25,6,Trash Collection,In Progress,9
+SR-101675,2023-06-26,5,Illegal Dumping,In Progress,30
+SR-100339,2023-05-26,2,Illegal Dumping,Resolved,5
+SR-100822,2023-05-14,3,Pothole,In Progress,22
+SR-101824,2023-04-14,6,Pothole,In Progress,7
+SR-100447,2023-01-04,2,POTHOLE,Closed,5
+SR-102977,2023-05-25,7,Rodent Inspection,In Progress,27
+SR-101535,2023-02-08,5,pothole,closed,28
+SR-100856,2023-12-11,3,Illegal Dumping,Resolved,17
+SR-101424,2023-02-14,5,Streetlight Out,closed,14
+SR-101223,2023-03-13,4,Trash Collection,Open,20
+SR-102086,2023-03-05,6,Pothole,In Progress,5
+SR-100145,2023-07-26,1,Streetlight Out,Open,17
+SR-102020,2023-11-15,6,Trash Collection,closed,8
+SR-100221,2023-02-10,2,Trash Collection,Resolved,2
+SR-100029,2023-04-04,1,Illegal Dumping,Resolved,1
+SR-101754,2023-04-08,5,Pothole,Closed,13
+SR-102247,2023-03-21,6,Streetlight Out,closed,20
+SR-101528,2023-04-25,5,Rodent Inspection,Resolved,14
+SR-101555,2023-10-19,5,Illegal Dumping,In Progress,13
+SR-102898,2023-07-01,7,Noise Complaint,Open,29
+SR-102098,2023-02-20,6,Noise Complaint,closed,2
+SR-100498,2023-06-21,3,Trash Collection,Resolved,4
+SR-100574,2023-11-09,3,Noise Complaint,Open,6
+SR-103350,2023-07-18,8,Pothole,Resolved,17
+SR-103396,2023-03-04,8,Illegal Dumping,Resolved,15
+SR-103409,2023-08-18,8,Streetlight Out,Resolved,21
+SR-100901,2023-05-08,4,Illegal Dumping,Closed,22
+SR-101456,2023-08-17,5,Streetlight Out,Open,15
+SR-100666,2023-10-11,3,Streetlight Out,closed,11
+SR-100464,,2,POTHOLE,Open,10
+SR-100083,2023-10-22,1,Trash Collection,Open,22
+SR-100033,2023-04-22,1,pothole,closed,20
+SR-100910,2023-12-26,4,Streetlight Out,closed,29
+SR-100243,2023-10-22,2,Pothole,Resolved,3
+SR-103056,2023-02-14,7,pothole,closed,19
+SR-100576,2023-08-04,3,Trash Collection,Resolved,13
+SR-102997,2023-03-07,7,Noise Complaint,Resolved,4
+SR-102740,2023-12-28,7,Streetlight Out,Closed,27
+SR-100560,2023-12-05,3,POTHOLE,Resolved,11
+SR-102655,2023-03-24,7,pothole,Resolved,7
+SR-100214,2023-09-12,2,Trash Collection,Closed,5
+SR-102057,2023-04-06,6,Trash Collection,Closed,16
+SR-102153,2023-01-10,,Noise Complaint,Closed,24
+SR-101992,2023-09-07,6,Trash Collection,In Progress,30
+SR-102132,2023-03-16,6,Rodent Inspection,closed,24
+SR-102425,2023-09-15,7,Illegal Dumping,Resolved,18
+SR-102807,2023-03-14,7,POTHOLE,Open,679
+SR-100627,2023-06-15,3,Noise Complaint,Open,13
+SR-102790,2023-12-18,7,POTHOLE,closed,28
+SR-100858,2023-06-12,3,Noise Complaint,Open,14
+SR-101322,2023-06-28,5,Noise Complaint,In Progress,20
+SR-102060,2023-02-22,6,pothole,Resolved,6
+SR-102300,2023-12-12,6,Streetlight Out,Closed,11
+SR-100229,2023-11-25,2,Streetlight Out,Resolved,30
+SR-102541,2023-02-14,7,pothole,Closed,9
+SR-100764,,3,POTHOLE,Resolved,24
+SR-102395,2023-04-08,6,Streetlight Out,Closed,355
+SR-101039,2023-10-12,4,Noise Complaint,Resolved,28
+SR-101214,2023-01-02,4,Noise Complaint,closed,27
+SR-101829,2023-03-20,6,Illegal Dumping,Open,19
+SR-100875,2023-07-04,3,Trash Collection,closed,17
+SR-101038,2023-05-25,4,Illegal Dumping,closed,6
+SR-101336,2023-08-22,5,Trash Collection,Closed,18
+SR-100404,2023-06-21,2,Illegal Dumping,Closed,22
+SR-101257,0000-00-00,4,Noise Complaint,Resolved,14
+SR-102139,2023-11-28,6,Noise Complaint,Open,8
+SR-103033,2023-02-07,7,Trash Collection,Open,18
+SR-100085,2023-02-09,1,Rodent Inspection,In Progress,15
+SR-100622,2023-09-08,,pothole,In Progress,25
+SR-101400,2023-05-28,5,Streetlight Out,Resolved,29
+SR-102131,2023-04-16,6,POTHOLE,Closed,8
+SR-102625,2023-03-05,7,Streetlight Out,Resolved,23
+SR-101222,2023-06-24,4,pothole,Closed,12
+SR-101289,2023-10-20,5,Streetlight Out,Closed,20
+SR-101146,2023-01-08,4,Noise Complaint,Closed,21
+SR-101672,2023-05-13,5,POTHOLE,In Progress,25
+SR-101003,2023-06-23,4,Streetlight Out,Resolved,24
+SR-101922,2023-09-04,6,Trash Collection,Closed,7
+SR-100282,2023-08-02,2,POTHOLE,Open,3
+SR-100494,2023-12-23,3,Illegal Dumping,Open,27
+SR-103354,2023-03-21,8,Pothole,Closed,27
+SR-101216,2023-04-09,4,Trash Collection,In Progress,10
+SR-102608,2023-08-10,7,Noise Complaint,Open,25
+SR-102291,0000-00-00,6,Streetlight Out,closed,19
+SR-100796,2023-01-16,3,Noise Complaint,closed,25
+SR-100804,2023-01-27,3,Trash Collection,Closed,8
+SR-102886,2023-12-25,7,Streetlight Out,Open,12
+SR-100125,2023-01-06,1,Streetlight Out,Open,26
+SR-102355,2023-02-08,6,Streetlight Out,Closed,5
+SR-101303,2023-01-01,5,Noise Complaint,In Progress,26
+SR-100232,2023-10-05,2,Illegal Dumping,In Progress,13
+SR-100454,2023-06-19,2,Trash Collection,Open,20
+SR-102326,2023-10-21,6,Pothole,Resolved,13
+SR-101919,2023-03-20,6,Streetlight Out,Open,22
+SR-101012,2023-02-13,4,Rodent Inspection,closed,27
+SR-101366,2023-03-03,5,Streetlight Out,closed,26
+SR-101798,2023-08-20,6,pothole,In Progress,16
+SR-100960,2023-03-05,4,Noise Complaint,Resolved,12
+SR-102827,2023-10-01,7,Trash Collection,closed,24
+SR-103111,,7,Streetlight Out,Resolved,2
+SR-100184,2023-02-06,2,pothole,closed,4
+SR-100625,2023-01-14,3,Streetlight Out,Resolved,16
+SR-102262,2023-11-03,6,Illegal Dumping,closed,8
+SR-100272,2023-03-07,2,Noise Complaint,Open,23
+SR-103390,2023-12-03,8,POTHOLE,In Progress,11
+SR-100832,2023-06-26,3,Pothole,In Progress,19
+SR-102418,2023-12-26,7,Noise Complaint,closed,26
+SR-100114,2023-08-16,1,Illegal Dumping,closed,4
+SR-102453,2023-09-25,7,Trash Collection,In Progress,16
+SR-103157,2023-06-04,8,POTHOLE,In Progress,21
+SR-102146,2023-01-24,6,pothole,Resolved,28
+SR-102817,2023-05-12,,Trash Collection,closed,20
+SR-100742,2023-03-18,3,pothole,closed,13
+SR-102067,2023-02-08,6,Trash Collection,In Progress,24
+SR-102733,2023-06-07,7,Streetlight Out,In Progress,17
+SR-103138,2023-07-02,8,Noise Complaint,Resolved,12
+SR-102407,2023-04-18,7,Streetlight Out,closed,14
+SR-100466,2023-11-27,2,Illegal Dumping,Closed,24
+SR-103239,2023-07-09,8,Pothole,In Progress,7
+SR-102431,2023-12-20,7,Rodent Inspection,In Progress,10
+SR-101477,0000-00-00,5,Trash Collection,Resolved,9
+SR-102605,2023-04-13,7,Noise Complaint,Closed,10
+SR-101965,2023-11-16,6,Noise Complaint,Closed,7
+SR-100786,2023-06-26,3,Rodent Inspection,closed,17
+SR-102445,2023-08-16,7,Pothole,Closed,8
+SR-100753,2023-06-08,3,Trash Collection,In Progress,26
+SR-101361,2023-10-08,5,Noise Complaint,Closed,6
+SR-102855,2023-08-05,7,Rodent Inspection,Resolved,8
+SR-102226,2023-12-01,6,Noise Complaint,Resolved,13
+SR-100016,2023-11-26,1,POTHOLE,Open,3
+SR-102553,2023-11-06,7,Streetlight Out,closed,15
+SR-103419,2023-11-25,8,pothole,Resolved,7
+SR-102950,2023-03-07,7,Illegal Dumping,Closed,4
+SR-102222,2023-12-02,6,Illegal Dumping,In Progress,29
+SR-100271,2023-08-12,2,Noise Complaint,Closed,3
+SR-102480,2023-12-26,7,Noise Complaint,In Progress,3
+SR-103078,2023-07-08,7,Streetlight Out,Closed,20
+SR-102207,2023-08-06,6,Illegal Dumping,closed,27
+SR-103327,2023-06-10,8,Rodent Inspection,Resolved,29
+SR-101823,2023-04-24,6,Pothole,Open,1
+SR-102315,2023-11-26,6,Pothole,closed,20
+SR-102925,2023-01-28,7,pothole,closed,24
+SR-103144,2023-10-12,8,Trash Collection,Resolved,18
+SR-102245,2023-11-06,6,Noise Complaint,Closed,3
+SR-100265,2023-02-15,2,Noise Complaint,Closed,6
+SR-100561,2023-08-17,3,Streetlight Out,Resolved,5
+SR-102178,2023-04-16,6,Illegal Dumping,closed,29
+SR-103069,2023-11-16,7,Streetlight Out,closed,15
+SR-101393,2023-01-21,5,Illegal Dumping,Closed,560
+SR-102165,2023-03-09,6,Noise Complaint,Open,11
+SR-102900,2023-05-07,7,Noise Complaint,Closed,5
+SR-102727,2023-09-13,7,Pothole,Closed,7
+SR-103108,2023-10-09,7,Noise Complaint,Resolved,384
+SR-102027,2023-09-08,6,Streetlight Out,Open,408
+SR-102995,2023-05-20,7,Pothole,Resolved,24
+SR-101793,2023-12-08,6,POTHOLE,In Progress,30
+SR-102866,2023-11-25,7,Pothole,Open,25
+SR-100131,2023-06-18,1,Noise Complaint,Resolved,13
+SR-102839,2023-02-23,7,Streetlight Out,Closed,25
+SR-100522,2023-01-19,,Illegal Dumping,Open,11
+SR-100409,2023-07-01,2,Rodent Inspection,In Progress,27
+SR-102778,2023-10-10,7,pothole,Closed,6
+SR-100153,2023-01-26,1,Streetlight Out,Open,11
+SR-102006,2023-11-21,6,Trash Collection,Resolved,3
+SR-101092,2023-06-27,4,Rodent Inspection,closed,23
+SR-100459,0000-00-00,2,POTHOLE,In Progress,5
+SR-100021,2023-11-18,1,Rodent Inspection,closed,3
+SR-102033,2023-02-27,6,Streetlight Out,closed,6
+SR-100477,2023-11-27,2,Streetlight Out,In Progress,10
+SR-103251,2023-01-04,8,Pothole,Open,1
+SR-103408,2023-06-01,8,Illegal Dumping,Resolved,18
+SR-101991,2023-08-22,6,Illegal Dumping,Resolved,16
+SR-100827,N/A,3,Pothole,Closed,19
+SR-100245,2023-10-06,2,Streetlight Out,In Progress,5
+SR-101913,2023-08-22,6,Noise Complaint,Open,17
+SR-103034,2023-11-02,7,Illegal Dumping,Resolved,4
+SR-100685,2023-11-27,3,pothole,In Progress,29
+SR-102648,2023-01-25,7,Noise Complaint,closed,30
+SR-100585,2023-06-14,3,Illegal Dumping,Open,18
+SR-100208,2023-11-07,,POTHOLE,Resolved,15
+SR-101359,2023-04-23,5,Pothole,closed,10
+SR-101052,2023-05-05,4,Pothole,Closed,24
+SR-100928,2023-08-16,4,Streetlight Out,In Progress,21
+SR-101239,2023-04-01,4,POTHOLE,Closed,1
+SR-100236,2023-01-24,2,pothole,Closed,12
+SR-102663,2023-09-28,7,Noise Complaint,Open,12
+SR-100461,2023-04-10,2,Streetlight Out,closed,12
+SR-101072,2023-01-22,4,Noise Complaint,In Progress,5
+SR-102459,0000-00-00,7,Trash Collection,Closed,5
+SR-102732,2023-11-20,7,Pothole,In Progress,13
+SR-101497,2023-04-19,5,Noise Complaint,closed,9
+SR-101690,2023-07-04,5,Rodent Inspection,Resolved,26
+SR-103303,2023-03-18,8,Pothole,Resolved,14
+SR-101567,2023-01-28,5,Noise Complaint,Closed,12
+SR-102478,2023-09-04,7,Illegal Dumping,closed,4
+SR-101274,2023-05-21,,POTHOLE,In Progress,23
+SR-100609,2023-05-09,3,POTHOLE,closed,22
+SR-101505,2023-03-22,5,Trash Collection,closed,447
+SR-102566,,7,Illegal Dumping,closed,629
+SR-102048,2023-05-22,6,pothole,In Progress,11
+SR-100581,2023-11-01,3,Streetlight Out,closed,18
+SR-101080,2023-12-10,4,Noise Complaint,In Progress,19
+SR-102263,2023-03-20,6,Illegal Dumping,Closed,18
+SR-101475,2023-01-12,5,pothole,closed,675
+SR-100039,2023-08-23,1,pothole,closed,17
+SR-100411,2023-02-27,2,Trash Collection,closed,9
+SR-102550,0000-00-00,7,Streetlight Out,Resolved,16
+SR-102350,2023-02-06,6,pothole,In Progress,25
+SR-102947,2023-12-06,7,Illegal Dumping,In Progress,27
+SR-101723,2023-11-27,5,Pothole,Open,4
+SR-100322,2023-01-27,2,pothole,Closed,3
+SR-103135,2023-12-28,8,Trash Collection,In Progress,18
+SR-103399,2023-05-17,8,Pothole,Open,2
+SR-101085,2023-08-21,4,Pothole,Open,30
+SR-101034,2023-03-20,4,pothole,closed,12
+SR-101668,2023-03-26,,Illegal Dumping,In Progress,12
+SR-101032,2023-06-02,4,Rodent Inspection,Open,19
+SR-103049,2023-09-02,,Streetlight Out,Resolved,28
+SR-102371,2023-09-14,6,Noise Complaint,closed,23
+SR-101292,2023-01-03,5,Streetlight Out,closed,30
+SR-103340,2023-01-06,8,Trash Collection,Closed,10
+SR-101190,2023-01-01,4,Noise Complaint,Open,10
+SR-103202,2023-06-13,8,Trash Collection,In Progress,17
+SR-103154,2023-05-25,8,Trash Collection,Closed,18
+SR-100502,2023-08-20,3,Illegal Dumping,Open,19
+SR-100565,2023-02-26,3,Illegal Dumping,Closed,5
+SR-100821,2023-09-21,3,Illegal Dumping,closed,24
+SR-102513,2023-07-22,7,Illegal Dumping,Open,11
+SR-100670,2023-04-14,3,Illegal Dumping,In Progress,22
+SR-100613,2023-12-25,3,Illegal Dumping,Resolved,11
+SR-101037,2023-12-03,4,Rodent Inspection,Resolved,24
+SR-100935,2023-11-09,4,Streetlight Out,In Progress,360
+SR-103016,2023-05-28,7,Noise Complaint,closed,11
+SR-100306,2023-11-24,2,Pothole,Open,428
+SR-102064,2023-08-26,6,Illegal Dumping,Closed,21
+SR-102917,2023-01-05,7,Streetlight Out,Open,29
+SR-100549,2023-08-26,3,POTHOLE,Open,9
+SR-102043,2023-11-02,6,Noise Complaint,closed,24
+SR-101794,2023-09-09,6,POTHOLE,closed,606
+SR-101795,2023-03-23,6,Streetlight Out,Open,6
+SR-101202,2023-05-20,4,Trash Collection,closed,5
+SR-102982,2023-09-25,7,Trash Collection,closed,2
+SR-103217,2023-05-15,8,Trash Collection,Closed,4
+SR-102543,2023-02-17,7,Illegal Dumping,Closed,3
+SR-102036,2023-05-23,6,Trash Collection,Closed,4
+SR-101276,2023-08-16,5,Streetlight Out,Closed,22
+SR-100899,2023-07-10,3,Streetlight Out,Resolved,29
+SR-100940,N/A,4,POTHOLE,closed,26
+SR-103337,2023-12-18,8,Streetlight Out,closed,14
+SR-100835,2023-08-26,3,POTHOLE,In Progress,2
+SR-100169,2023-05-20,1,Illegal Dumping,Closed,784
+SR-100986,2023-02-16,4,Noise Complaint,Closed,26
+SR-103105,2023-12-11,7,Illegal Dumping,In Progress,27
+SR-101396,2023-12-14,5,Rodent Inspection,closed,25
+SR-101438,2023-10-19,5,Streetlight Out,Open,23
+SR-102045,2023-02-22,6,Illegal Dumping,Closed,6
+SR-100955,2023-01-25,4,Rodent Inspection,closed,22
+SR-100776,2023-03-08,3,Rodent Inspection,closed,3
+SR-103028,2023-06-01,,Trash Collection,In Progress,13
+SR-101706,2023-04-24,5,Streetlight Out,Resolved,23
+SR-100513,2023-12-24,3,Noise Complaint,In Progress,7
+SR-100990,2023-12-13,4,Trash Collection,Resolved,26
+SR-101218,N/A,4,pothole,In Progress,3
+SR-101693,2023-06-14,5,Illegal Dumping,Open,12
+SR-100778,2023-07-13,3,pothole,In Progress,26
+SR-100114,2023-08-16,1,Illegal Dumping,closed,4
+SR-102099,2023-02-05,6,Trash Collection,Closed,13
+SR-100056,2023-09-08,1,Noise Complaint,closed,17
+SR-100003,2023-11-11,1,Trash Collection,closed,18
+SR-102114,2023-09-07,6,Noise Complaint,Closed,5
+SR-100405,2023-10-21,2,Pothole,In Progress,1
+SR-100159,2023-02-23,1,Illegal Dumping,Resolved,21
+SR-102843,2023-10-28,7,pothole,Closed,20
+SR-101975,2023-12-24,6,Noise Complaint,Open,470
+SR-100564,2023-11-08,3,POTHOLE,Resolved,22
+SR-102539,2023-03-15,7,Trash Collection,Resolved,27
+SR-102136,2023-12-18,6,POTHOLE,Closed,1
+SR-102123,2023-06-11,6,Noise Complaint,closed,5
+SR-101439,2023-04-13,5,Rodent Inspection,Resolved,4
+SR-103119,N/A,7,pothole,Open,25
+SR-100518,2023-07-24,3,pothole,Resolved,29
+SR-100692,2023-05-16,3,Noise Complaint,Closed,11
+SR-101820,2023-01-04,6,Noise Complaint,In Progress,27
+SR-100762,2023-06-10,3,Illegal Dumping,Open,23
+SR-100957,2023-08-11,4,Noise Complaint,Closed,25
+SR-103333,2023-08-02,8,POTHOLE,Closed,29
+SR-102532,2023-10-08,7,Trash Collection,Resolved,20
+SR-100412,2023-07-14,2,Streetlight Out,Closed,19
+SR-101665,2023-01-11,5,Noise Complaint,closed,16
+SR-102564,2023-03-05,7,Pothole,Closed,9
+SR-103266,2023-09-06,8,Trash Collection,Open,21
+SR-102221,2023-07-04,6,Streetlight Out,closed,11
+SR-100871,2023-02-11,3,Noise Complaint,In Progress,28
+SR-101875,2023-08-25,6,Trash Collection,Open,573
+SR-103257,2023-11-19,8,Trash Collection,Resolved,12
+SR-102694,2023-01-12,7,Rodent Inspection,In Progress,29
+SR-101865,2023-05-18,6,Noise Complaint,closed,20
+SR-100227,2023-04-09,2,Illegal Dumping,Closed,26
+SR-100504,2023-10-21,3,Noise Complaint,Closed,5
+SR-103322,2023-01-22,8,Trash Collection,closed,27
+SR-103071,2023-04-08,7,POTHOLE,Open,20
+SR-102470,2023-11-18,7,Streetlight Out,closed,4
+SR-101484,2023-04-07,5,Illegal Dumping,Resolved,19
+SR-101150,2023-03-20,4,POTHOLE,closed,19
+SR-102304,2023-07-10,6,Illegal Dumping,In Progress,12
+SR-101247,2023-12-18,4,Illegal Dumping,In Progress,24
+SR-102690,2023-04-11,7,Illegal Dumping,Closed,1
+SR-101582,2023-12-23,5,Illegal Dumping,In Progress,1
+SR-100993,2023-03-24,4,POTHOLE,Open,17
+SR-101089,2023-11-10,4,Illegal Dumping,In Progress,8
+SR-101337,2023-12-11,5,Pothole,Closed,21
+SR-102097,2023-04-23,6,Noise Complaint,In Progress,27
+SR-101984,2023-12-28,6,POTHOLE,Resolved,20
+SR-101178,2023-08-02,4,Streetlight Out,Closed,23
+SR-102896,2023-06-08,7,Noise Complaint,Closed,19
+SR-103295,2023-03-14,8,pothole,Resolved,23
+SR-103059,2023-08-23,7,POTHOLE,closed,14
+SR-101742,2023-08-23,5,Rodent Inspection,Open,25
+SR-101896,2023-06-20,6,Streetlight Out,Closed,30
+SR-101958,2023-01-07,,Illegal Dumping,Resolved,9
+SR-103036,2023-09-20,7,Rodent Inspection,closed,9
+SR-100920,2023-06-02,4,Pothole,Closed,24
+SR-100144,2023-08-09,1,Rodent Inspection,Closed,25
+SR-100732,2023-12-27,3,Rodent Inspection,closed,1
+SR-100913,2023-02-10,4,Rodent Inspection,closed,22
+SR-101692,2023-02-08,5,Trash Collection,Resolved,18
+SR-100746,2023-09-04,3,Pothole,In Progress,26
+SR-102270,2023-03-14,6,Trash Collection,Closed,7
+SR-101141,2023-06-27,4,Noise Complaint,In Progress,17
+SR-102572,,,Noise Complaint,Open,12
+SR-102880,2023-04-19,7,Illegal Dumping,Open,26
+SR-100572,2023-02-25,3,Streetlight Out,Closed,21
+SR-100951,2023-02-21,4,Noise Complaint,In Progress,2
+SR-103027,2023-06-09,7,Illegal Dumping,Closed,6
+SR-101784,2023-10-19,6,Streetlight Out,Resolved,523
+SR-102216,2023-04-06,6,Trash Collection,Resolved,23
+SR-102211,2023-08-24,6,Streetlight Out,Open,29
+SR-100060,2023-03-13,1,POTHOLE,Open,24
+SR-103184,2023-08-27,8,Noise Complaint,Closed,6
+SR-100959,2023-10-13,4,Rodent Inspection,closed,6
+SR-101364,2023-09-12,5,Illegal Dumping,Closed,6
+SR-103020,2023-10-12,7,Noise Complaint,Resolved,28
+SR-100444,2023-08-07,2,Illegal Dumping,closed,310
+SR-100334,2023-08-01,2,Illegal Dumping,Resolved,25
+SR-102839,2023-02-23,7,Streetlight Out,Closed,25
+SR-101462,2023-04-27,5,Noise Complaint,Resolved,26
+SR-102629,2023-11-09,7,Illegal Dumping,In Progress,1
+SR-101211,2023-12-10,4,Illegal Dumping,In Progress,27
+SR-103107,2023-08-04,7,Trash Collection,closed,28
+SR-100864,2023-06-13,3,Trash Collection,Resolved,709
+SR-102142,N/A,6,Noise Complaint,Open,25
+SR-101297,2023-08-17,5,Illegal Dumping,In Progress,9
+SR-100413,2023-02-11,2,Rodent Inspection,Closed,18
+SR-101513,2023-05-24,5,Trash Collection,closed,26
+SR-100819,2023-11-22,3,POTHOLE,Closed,25
+SR-102614,2023-12-21,7,Rodent Inspection,Resolved,24
+SR-100067,2023-02-01,1,Illegal Dumping,Open,7
+SR-101643,2023-01-19,5,POTHOLE,Resolved,8
+SR-101744,2023-12-24,5,Rodent Inspection,Open,22
+SR-101064,2023-10-09,4,Trash Collection,Closed,12
+SR-101163,2023-01-19,4,Trash Collection,Resolved,3
+SR-101282,2023-12-06,5,Illegal Dumping,Closed,4
+SR-100628,2023-08-28,,Streetlight Out,closed,22
+SR-102927,2023-07-14,,Streetlight Out,Closed,21
+SR-101527,2023-01-27,5,Pothole,Open,22
+SR-102011,2023-09-13,,Noise Complaint,In Progress,483
+SR-100238,2023-01-03,2,Illegal Dumping,closed,24
+SR-100493,,3,POTHOLE,Resolved,24
+SR-100736,2023-11-03,3,Rodent Inspection,Resolved,8
+SR-103289,2023-05-24,8,Illegal Dumping,Resolved,21
+SR-100747,2023-07-10,3,Illegal Dumping,Resolved,12
+SR-102003,N/A,6,Pothole,In Progress,768
+SR-102698,2023-07-10,7,Streetlight Out,closed,24
+SR-102458,2023-08-05,7,Streetlight Out,Closed,23
+SR-102451,2023-08-15,7,Streetlight Out,closed,25
+SR-102225,2023-06-26,6,Trash Collection,Open,23
+SR-103046,2023-03-04,7,Rodent Inspection,Resolved,4
+SR-101014,2023-11-26,4,Streetlight Out,closed,26
+SR-101599,2023-01-24,5,Trash Collection,Open,14
+SR-102931,2023-05-18,7,Noise Complaint,closed,3
+SR-102837,2023-04-05,7,Noise Complaint,Closed,3
+SR-100320,2023-08-01,2,Noise Complaint,Open,2
+SR-100166,2023-12-15,1,Pothole,Closed,21
+SR-101779,2023-02-10,6,Streetlight Out,Closed,6
+SR-100752,2023-02-11,3,Illegal Dumping,Resolved,30
+SR-103245,2023-09-10,8,Streetlight Out,Closed,14
+SR-101269,2023-05-28,5,Trash Collection,Closed,9
+SR-102703,2023-02-16,7,Streetlight Out,In Progress,24
+SR-100668,2023-08-23,3,Illegal Dumping,In Progress,18
+SR-100455,2023-02-13,2,Noise Complaint,Resolved,28
+SR-101250,2023-01-25,4,Noise Complaint,Open,25
+SR-101927,2023-02-20,6,Noise Complaint,closed,19
+SR-102223,2023-10-07,6,Pothole,Closed,22
+SR-101701,2023-06-06,,Noise Complaint,closed,27
+SR-100961,2023-01-09,4,Illegal Dumping,Resolved,30
+SR-102454,,7,Illegal Dumping,In Progress,3
+SR-103180,2023-02-08,8,Trash Collection,closed,17
+SR-100996,2023-11-09,4,POTHOLE,closed,27
+SR-101004,2023-04-18,4,Illegal Dumping,Resolved,6
+SR-101836,,6,Noise Complaint,In Progress,5
+SR-100420,2023-09-10,2,Noise Complaint,Resolved,4
+SR-100865,N/A,3,Trash Collection,Closed,21
+SR-102825,2023-03-24,7,Pothole,In Progress,10
+SR-102235,2023-09-22,6,POTHOLE,In Progress,14
+SR-100185,2023-05-17,2,Noise Complaint,closed,10
+SR-101215,2023-08-10,4,Trash Collection,Open,3
+SR-103021,2023-02-08,7,Streetlight Out,Resolved,12
+SR-102664,2023-02-19,7,Illegal Dumping,In Progress,2
+SR-103170,2023-10-19,8,Illegal Dumping,In Progress,29
+SR-102867,2023-04-11,7,Trash Collection,Closed,23
+SR-103291,2023-09-01,,pothole,In Progress,8
+SR-100914,2023-10-02,4,Illegal Dumping,In Progress,18
+SR-102582,2023-03-08,7,Trash Collection,closed,5
+SR-102815,2023-12-02,7,Streetlight Out,In Progress,28
+SR-101153,2023-09-17,4,POTHOLE,Resolved,1
+SR-102325,2023-11-02,6,Pothole,Open,24
+SR-102024,2023-11-17,6,Streetlight Out,In Progress,2
+SR-103332,2023-06-28,8,Pothole,Resolved,29
+SR-102484,2023-11-15,7,Trash Collection,In Progress,28
+SR-101426,2023-08-13,5,pothole,Closed,4
+SR-103055,2023-11-14,7,Trash Collection,closed,12
+SR-100928,2023-08-16,4,Streetlight Out,In Progress,21
+SR-103134,2023-04-24,8,Streetlight Out,closed,3
+SR-103288,2023-02-27,8,Rodent Inspection,Closed,26
+SR-100289,2023-04-19,2,Streetlight Out,Open,16
+SR-102619,2023-12-21,7,Trash Collection,Resolved,13
+SR-102788,2023-12-08,7,Streetlight Out,Open,11
+SR-101032,2023-06-02,4,Rodent Inspection,Open,19
+SR-100948,2023-02-28,4,POTHOLE,Closed,12
+SR-101525,2023-05-25,5,Streetlight Out,In Progress,11
+SR-102590,2023-02-03,7,POTHOLE,closed,23
+SR-100827,N/A,3,Pothole,Closed,19
+SR-103243,2023-01-24,8,Trash Collection,closed,4
+SR-102918,2023-06-21,7,Illegal Dumping,Open,9
+SR-102022,2023-12-17,6,POTHOLE,Closed,21
+SR-101683,2023-05-10,5,Streetlight Out,Open,649
+SR-100688,2023-11-17,3,Pothole,Closed,15
+SR-101344,2023-07-21,5,pothole,closed,14
+SR-101010,2023-12-08,4,Trash Collection,Resolved,25
+SR-100514,2023-09-19,3,POTHOLE,Closed,4
+SR-101765,2023-06-13,6,Trash Collection,Resolved,19
+SR-101774,N/A,6,Streetlight Out,In Progress,22
+SR-102387,2023-01-04,6,Noise Complaint,Open,20
+SR-100164,2023-03-22,1,Noise Complaint,Resolved,28
+SR-100690,2023-03-10,3,Pothole,closed,19
+SR-101903,2023-01-19,6,Pothole,closed,600
+SR-102238,2023-08-26,6,Illegal Dumping,In Progress,28
+SR-102472,2023-01-03,7,Noise Complaint,In Progress,15
+SR-102686,2023-06-14,7,Noise Complaint,Open,28
+SR-102261,2023-06-25,6,Streetlight Out,Closed,13
+SR-103309,2023-08-03,8,Rodent Inspection,closed,26
+SR-102386,2023-10-18,6,Trash Collection,In Progress,7
+SR-102147,2023-07-21,6,Streetlight Out,Closed,5
+SR-100543,2023-06-13,3,Pothole,Open,12
+SR-102906,2023-06-25,7,pothole,Resolved,6
+SR-100013,2023-10-23,1,Rodent Inspection,In Progress,7
+SR-100310,2023-03-22,2,Noise Complaint,In Progress,27
+SR-101434,2023-10-07,5,Streetlight Out,In Progress,9
+SR-100621,2023-06-26,3,Trash Collection,In Progress,24
+SR-101812,2023-01-10,6,pothole,Open,12
+SR-102243,2023-02-16,6,Rodent Inspection,Open,11
+SR-101189,2023-02-25,4,Illegal Dumping,Resolved,9
+SR-102747,2023-01-26,7,pothole,closed,23
+SR-102323,,,Pothole,Closed,20
+SR-102784,2023-09-15,7,Noise Complaint,Resolved,26
+SR-101342,2023-06-14,5,Pothole,Closed,7
+SR-102329,N/A,6,POTHOLE,Resolved,21
+SR-103280,2023-02-04,8,Trash Collection,Open,23
+SR-102654,2023-06-17,7,pothole,In Progress,4
+SR-102505,2023-01-10,7,Trash Collection,In Progress,1
+SR-100195,2023-09-20,2,Trash Collection,Open,23
+SR-103170,2023-10-19,8,Illegal Dumping,In Progress,29
+SR-102120,2023-01-21,6,Illegal Dumping,closed,23
+SR-102121,2023-05-24,6,Pothole,closed,22
+SR-101967,2023-02-06,6,Noise Complaint,In Progress,18
+SR-100594,0000-00-00,3,Trash Collection,In Progress,27
+SR-103125,2023-11-04,8,pothole,Closed,29
+SR-101712,2023-07-24,5,Streetlight Out,Closed,10
+SR-103352,2023-12-15,8,Illegal Dumping,closed,4
+SR-102742,2023-01-10,7,Illegal Dumping,Resolved,23
+SR-101936,2023-04-19,6,pothole,closed,16
+SR-101187,2023-03-07,4,Rodent Inspection,In Progress,30
+SR-102615,2023-11-16,7,Pothole,Closed,4
+SR-100014,2023-03-06,1,Illegal Dumping,Open,17
+SR-100924,2023-04-05,4,Rodent Inspection,In Progress,18
+SR-100959,2023-10-13,4,Rodent Inspection,closed,6
+SR-101193,2023-06-19,4,pothole,Resolved,3
+SR-102846,2023-12-18,7,Streetlight Out,closed,30
+SR-101894,2023-07-07,6,Trash Collection,Open,26
+SR-100532,2023-10-20,3,Trash Collection,Open,20
+SR-102591,2023-06-17,7,Illegal Dumping,In Progress,23
+SR-102177,2023-03-07,6,Streetlight Out,Open,1
+SR-101428,2023-12-03,5,POTHOLE,closed,20
+SR-100058,2023-04-20,1,pothole,Closed,692
+SR-102764,2023-05-25,7,Illegal Dumping,Open,14
+SR-103126,2023-08-28,8,Noise Complaint,Open,8
+SR-103214,2023-08-16,8,Rodent Inspection,Resolved,11
+SR-103005,2023-07-23,7,Streetlight Out,Open,20
+SR-102089,2023-03-06,6,Noise Complaint,In Progress,19
+SR-102084,2023-03-01,6,Pothole,Resolved,2
+SR-100717,2023-11-26,3,Illegal Dumping,Resolved,19
+SR-101980,2023-12-16,6,pothole,closed,22
+SR-102786,2023-01-02,7,pothole,Resolved,8
+SR-102654,2023-06-17,7,pothole,In Progress,4
+SR-100861,2023-10-28,3,Streetlight Out,Closed,22
+SR-101638,2023-04-02,5,Rodent Inspection,Closed,23
+SR-102945,2023-05-09,7,Illegal Dumping,Closed,20
+SR-102066,2023-02-07,6,Pothole,Resolved,10
+SR-100146,2023-06-12,1,Streetlight Out,Closed,14
+SR-101918,2023-07-01,6,Rodent Inspection,In Progress,10
+SR-101878,2023-07-27,6,Rodent Inspection,In Progress,10
+SR-101996,2023-07-04,6,pothole,Open,5
+SR-100070,2023-12-26,1,Illegal Dumping,Open,27
+SR-101587,2023-06-15,5,POTHOLE,In Progress,7
+SR-103090,0000-00-00,7,pothole,In Progress,508
+SR-100859,2023-06-15,3,Noise Complaint,closed,19
+SR-101468,2023-08-27,5,Illegal Dumping,Closed,23
+SR-100047,2023-09-11,1,Illegal Dumping,closed,545
+SR-102240,2023-06-16,6,Streetlight Out,Open,6
+SR-101514,2023-11-09,5,Noise Complaint,closed,30
+SR-103123,2023-03-07,8,pothole,In Progress,21
+SR-101838,2023-09-28,6,Rodent Inspection,Open,6
+SR-102559,2023-02-08,7,Noise Complaint,Resolved,27
+SR-100962,2023-07-18,4,Trash Collection,In Progress,27
+SR-100539,2023-03-16,3,Illegal Dumping,Closed,20
+SR-101284,2023-11-04,5,Trash Collection,In Progress,24
+SR-101989,2023-08-02,6,Rodent Inspection,In Progress,4
+SR-101022,2023-07-18,4,Pothole,Open,794
+SR-101496,2023-01-25,5,Rodent Inspection,Open,12
+SR-100108,2023-01-07,1,Streetlight Out,Closed,16
+SR-100338,2023-08-05,2,Rodent Inspection,In Progress,9
+SR-101842,2023-09-24,,Streetlight Out,Open,29
+SR-101708,2023-10-07,5,POTHOLE,Open,24
+SR-102385,2023-03-09,6,Rodent Inspection,In Progress,4
+SR-103215,2023-02-01,8,POTHOLE,In Progress,9
+SR-102758,2023-04-16,7,Illegal Dumping,Closed,8
+SR-103148,2023-12-03,8,Illegal Dumping,Resolved,5
+SR-100898,2023-02-10,3,Trash Collection,Closed,28
+SR-100289,2023-04-19,2,Streetlight Out,Open,16
+SR-103388,2023-07-04,8,Rodent Inspection,Resolved,20
+SR-101229,2023-03-17,4,POTHOLE,Resolved,2
+SR-103010,2023-04-18,7,Illegal Dumping,Resolved,565
+SR-100173,2023-01-20,,Illegal Dumping,closed,15
+SR-102805,2023-11-20,7,Rodent Inspection,closed,18
+SR-101749,2023-11-07,5,Noise Complaint,Closed,19
+SR-101762,2023-03-15,6,Streetlight Out,closed,22
+SR-101766,2023-04-11,6,Pothole,Resolved,3
+SR-100506,0000-00-00,3,Noise Complaint,Resolved,26
+SR-101856,2023-10-16,6,Rodent Inspection,Open,25
+SR-101138,2023-09-14,4,Noise Complaint,In Progress,9
+SR-100045,2023-11-21,1,Rodent Inspection,closed,18
+SR-103196,2023-09-19,8,Illegal Dumping,Open,4
+SR-101846,2023-08-28,6,Rodent Inspection,closed,20
+SR-100937,2023-04-26,4,Streetlight Out,closed,27
+SR-102290,2023-11-17,6,Noise Complaint,closed,1
+SR-101735,2023-05-26,5,pothole,Closed,2
+SR-103404,N/A,8,Noise Complaint,In Progress,23
+SR-103219,2023-11-26,8,Pothole,Resolved,1
+SR-100659,2023-10-21,,POTHOLE,closed,10
+SR-100739,2023-11-08,3,Streetlight Out,Closed,24
+SR-103145,2023-08-10,8,Streetlight Out,Closed,11
+SR-103385,2023-09-05,,Trash Collection,In Progress,4
+SR-100710,2023-02-17,3,Noise Complaint,In Progress,9
+SR-100445,2023-11-18,2,Illegal Dumping,closed,23
+SR-102162,2023-07-03,6,Illegal Dumping,In Progress,3
+SR-102475,2023-05-13,7,Noise Complaint,Open,9
+SR-103342,2023-06-17,8,pothole,In Progress,28
+SR-101985,2023-08-25,6,Trash Collection,Open,21
+SR-102121,2023-05-24,6,Pothole,closed,22
+SR-100255,2023-06-15,2,Noise Complaint,Resolved,21
+SR-102670,0000-00-00,,Noise Complaint,Closed,25
+SR-101800,2023-02-07,,pothole,closed,20
+SR-101662,2023-11-14,5,Rodent Inspection,In Progress,6
+SR-101347,2023-08-09,5,Noise Complaint,In Progress,11
+SR-103187,2023-12-03,8,pothole,Closed,6
+SR-102906,2023-06-25,7,pothole,Resolved,6
+SR-100399,,2,Illegal Dumping,Closed,25
+SR-103371,2023-06-02,8,POTHOLE,Open,28
+SR-101783,2023-09-23,6,Rodent Inspection,Open,30
+SR-100430,2023-02-13,2,Illegal Dumping,Closed,14
+SR-100537,2023-05-03,3,Noise Complaint,In Progress,22
+SR-100009,2023-02-11,1,Illegal Dumping,Open,23
+SR-102878,2023-05-16,7,Trash Collection,Closed,7
+SR-100575,2023-10-13,3,Illegal Dumping,closed,3
+SR-101160,2023-10-06,4,Trash Collection,Closed,22
+SR-101945,2023-04-06,6,Noise Complaint,Closed,3
+SR-102943,2023-12-09,7,Illegal Dumping,closed,22
+SR-100035,2023-09-25,1,Trash Collection,Open,23
+SR-100530,2023-10-22,3,Illegal Dumping,Resolved,2
+SR-101449,2023-01-11,5,Rodent Inspection,Resolved,21
+SR-101597,2023-12-16,5,POTHOLE,Open,29
+SR-100750,2023-04-18,3,pothole,In Progress,12
+SR-101097,2023-01-10,4,Streetlight Out,Open,12
+SR-100592,2023-03-09,3,Illegal Dumping,closed,9
+SR-101373,2023-06-05,5,Trash Collection,closed,10
+SR-101674,2023-07-14,5,Trash Collection,Open,29
+SR-100704,2023-01-09,3,Streetlight Out,Closed,8
+SR-102734,2023-10-09,7,Trash Collection,Open,23
+SR-102726,2023-08-26,7,Rodent Inspection,In Progress,22
+SR-101541,2023-09-27,5,Streetlight Out,closed,30
+SR-103022,2023-07-18,7,Trash Collection,Resolved,23
+SR-100333,2023-03-16,2,Pothole,Open,15
+SR-102593,2023-10-09,7,Noise Complaint,Open,15
+SR-100857,2023-01-28,3,Pothole,Open,2
+SR-100037,2023-05-06,1,Noise Complaint,closed,7
+SR-102236,2023-12-19,6,Noise Complaint,closed,7
+SR-100614,2023-05-23,3,Pothole,Open,27
+SR-100237,,2,Rodent Inspection,Open,4
+SR-102310,2023-04-25,6,pothole,Open,11
+SR-102543,2023-02-17,7,Illegal Dumping,Closed,3
+SR-100977,2023-04-15,4,Trash Collection,Open,20
+SR-100177,2023-10-10,1,Noise Complaint,Open,27
+SR-100540,2023-10-17,3,Rodent Inspection,closed,15
+SR-100595,2023-12-18,3,Rodent Inspection,In Progress,8
+SR-102808,2023-09-23,7,Rodent Inspection,Resolved,6
+SR-101307,2023-12-13,5,Pothole,closed,28
+SR-102851,2023-03-13,7,pothole,Resolved,24
+SR-101198,2023-03-28,4,Noise Complaint,Open,4
+SR-100023,2023-02-21,1,pothole,Open,19
+SR-101459,2023-10-17,5,Illegal Dumping,Closed,21
+SR-101470,N/A,5,Streetlight Out,In Progress,27
+SR-102442,2023-02-15,7,Pothole,Open,14
+SR-101906,2023-01-08,6,Illegal Dumping,Resolved,7
+SR-102105,2023-09-14,6,Trash Collection,Resolved,6
+SR-102354,2023-05-28,6,POTHOLE,In Progress,14
+SR-100442,2023-04-13,2,Pothole,In Progress,10
+SR-102754,2023-08-19,7,Noise Complaint,Closed,22
+SR-101943,2023-12-05,6,Noise Complaint,In Progress,11
+SR-102910,2023-11-01,7,Illegal Dumping,closed,30
+SR-100393,2023-04-24,2,Streetlight Out,In Progress,1
+SR-101066,N/A,4,Rodent Inspection,Resolved,16
+SR-102979,2023-12-17,7,Illegal Dumping,Closed,9
+SR-101395,2023-10-08,5,Pothole,closed,17
+SR-102331,2023-01-20,6,Illegal Dumping,Open,21
+SR-100509,2023-06-19,3,POTHOLE,Closed,23
+SR-102332,2023-09-04,6,Illegal Dumping,In Progress,26
+SR-102029,2023-01-23,6,Pothole,Open,21
+SR-100541,2023-10-28,3,POTHOLE,Open,1
+SR-100203,2023-03-18,2,Illegal Dumping,Open,8
+SR-102647,2023-09-11,7,Rodent Inspection,Closed,17
+SR-101607,2023-11-01,5,Trash Collection,Closed,24
+SR-102117,2023-10-23,6,Trash Collection,Closed,6
+SR-102014,2023-03-23,6,Rodent Inspection,Open,13
+SR-100672,2023-10-23,3,POTHOLE,Closed,5
+SR-101753,2023-02-05,5,pothole,Resolved,4
+SR-101656,0000-00-00,,Illegal Dumping,In Progress,1
+SR-101375,2023-12-26,5,Pothole,In Progress,6
+SR-102975,2023-08-28,7,Illegal Dumping,In Progress,29
+SR-101799,2023-08-23,6,Noise Complaint,Resolved,25
+SR-100982,2023-04-23,4,Noise Complaint,closed,30
+SR-102389,2023-10-07,6,Streetlight Out,In Progress,16
+SR-100790,2023-04-16,3,Noise Complaint,Resolved,13
+SR-100688,2023-11-17,3,Pothole,Closed,15
+SR-100104,2023-06-21,1,POTHOLE,Closed,714
+SR-100639,2023-01-24,3,pothole,Resolved,719
+SR-100472,2023-08-20,2,Pothole,Resolved,11
+SR-101596,2023-07-09,5,Streetlight Out,Resolved,4
+SR-102599,2023-03-24,7,Pothole,In Progress,18
+SR-103110,2023-02-19,7,Trash Collection,Resolved,28
+SR-102573,2023-11-27,7,Trash Collection,Resolved,23
+SR-101809,2023-05-13,6,POTHOLE,Resolved,21
+SR-101404,2023-01-13,5,Pothole,Closed,24
+SR-102792,2023-09-19,7,Rodent Inspection,Open,13
+SR-102640,2023-08-23,7,Illegal Dumping,Open,11
+SR-101938,2023-02-22,6,Illegal Dumping,In Progress,443
+SR-100354,2023-07-18,2,Illegal Dumping,Resolved,23
+SR-102739,2023-12-08,7,Streetlight Out,closed,26
+SR-101539,2023-02-05,5,pothole,closed,18
+SR-102641,2023-02-17,7,Trash Collection,closed,4
+SR-103153,2023-01-01,8,Rodent Inspection,Closed,21
+SR-102152,2023-04-24,6,Noise Complaint,Open,22
+SR-102176,2023-04-01,6,Trash Collection,closed,15
+SR-103112,2023-07-10,7,Trash Collection,Closed,29
+SR-101891,2023-12-15,6,Trash Collection,closed,24
+SR-103365,2023-06-04,8,Rodent Inspection,closed,28
+SR-101122,2023-06-06,4,pothole,Open,28
+SR-102149,2023-06-23,6,Streetlight Out,Closed,26
+SR-102699,2023-05-09,7,Trash Collection,closed,14
+SR-103221,2023-01-19,8,Streetlight Out,Closed,14
+SR-100744,2023-09-20,3,POTHOLE,Open,30
+SR-100619,2023-06-17,3,Pothole,Resolved,15
+SR-100718,2023-11-14,3,Streetlight Out,closed,9
+SR-100127,2023-11-07,1,Noise Complaint,Closed,11
+SR-100847,2023-01-23,3,pothole,Closed,10
+SR-100176,2023-07-16,1,Streetlight Out,In Progress,5
+SR-103130,2023-09-01,8,Pothole,In Progress,18
+SR-102634,2023-08-10,7,Streetlight Out,Closed,4
+SR-102145,2023-01-05,6,Streetlight Out,Closed,6
+SR-103103,2023-01-14,7,Streetlight Out,Open,24
+SR-101145,2023-12-09,4,Illegal Dumping,closed,24
+SR-100422,2023-08-19,2,Streetlight Out,In Progress,11
+SR-102134,2023-06-07,6,Trash Collection,Closed,19
+SR-103100,2023-08-17,7,Rodent Inspection,Open,21
+SR-101576,2023-05-25,5,Illegal Dumping,In Progress,24
+SR-100907,2023-08-06,4,Noise Complaint,Resolved,12
+SR-102203,2023-02-13,6,Trash Collection,closed,1
+SR-101686,2023-12-21,5,Streetlight Out,Open,22
+SR-101050,2023-02-13,4,Trash Collection,Closed,10
+SR-103140,2023-03-09,8,Streetlight Out,In Progress,2
+SR-101144,2023-11-26,4,Trash Collection,Resolved,27
+SR-102527,2023-02-14,7,Trash Collection,In Progress,24
+SR-100456,2023-07-21,2,Streetlight Out,In Progress,29
+SR-100939,2023-12-25,4,Noise Complaint,Open,12
+SR-101356,2023-08-01,5,pothole,In Progress,23
+SR-102492,2023-06-19,7,Trash Collection,closed,11
+SR-100605,2023-11-13,3,Illegal Dumping,Open,17
+SR-101810,2023-12-19,6,Trash Collection,Open,9
+SR-101914,2023-05-14,,Noise Complaint,Resolved,30
+SR-101978,2023-09-01,6,Illegal Dumping,In Progress,19
+SR-101441,2023-04-11,5,Noise Complaint,Resolved,30
+SR-103339,2023-07-18,8,Rodent Inspection,Resolved,1
+SR-102257,2023-10-08,6,Illegal Dumping,closed,3
+SR-100163,2023-01-07,1,Trash Collection,Closed,3
+SR-102410,2023-12-02,7,Noise Complaint,closed,11
+SR-100825,2023-11-11,3,Rodent Inspection,Resolved,9
+SR-101556,2023-02-24,5,Trash Collection,Closed,9
+SR-101489,2023-03-26,5,Rodent Inspection,closed,725
+SR-103370,2023-05-10,8,Rodent Inspection,closed,23
+SR-102438,2023-01-22,7,Noise Complaint,Resolved,8
+SR-100324,2023-09-14,2,Pothole,Resolved,13
+SR-102981,2023-07-07,7,Noise Complaint,Resolved,30
+SR-101001,2023-05-10,4,Trash Collection,Resolved,26
+SR-101789,2023-02-16,6,POTHOLE,Open,17
+SR-102055,2023-02-19,6,Rodent Inspection,In Progress,2
+SR-100665,2023-01-17,3,Rodent Inspection,Open,17
+SR-103302,2023-03-08,8,Noise Complaint,Resolved,20
+SR-102002,N/A,6,Noise Complaint,In Progress,16
+SR-102317,2023-02-06,6,Streetlight Out,In Progress,30
+SR-100134,2023-08-04,1,Rodent Inspection,In Progress,20
+SR-103144,2023-10-12,8,Trash Collection,Resolved,18
+SR-100617,2023-12-09,3,Trash Collection,In Progress,28
+SR-100720,2023-06-22,3,Trash Collection,Open,10
+SR-103066,2023-04-10,7,Illegal Dumping,Closed,3
+SR-102227,2023-12-19,6,Illegal Dumping,Closed,432
+SR-101321,2023-12-14,5,Trash Collection,Open,17
+SR-101415,2023-05-14,5,Streetlight Out,closed,17
+SR-100515,,3,Noise Complaint,Closed,11
+SR-102812,2023-01-11,7,Illegal Dumping,closed,13
+SR-101844,2023-11-20,6,pothole,In Progress,596
+SR-100410,2023-07-21,2,Streetlight Out,Open,1
+SR-101350,2023-12-16,5,Illegal Dumping,closed,28
+SR-100927,2023-09-09,,Trash Collection,Closed,17
+SR-102353,0000-00-00,6,pothole,closed,30
+SR-103349,2023-09-17,8,Trash Collection,closed,21
+SR-101242,,4,Streetlight Out,Closed,30
+SR-102464,2023-06-28,7,Pothole,Resolved,20
+SR-103323,2023-08-08,8,pothole,Resolved,4
+SR-100757,2023-06-11,3,Streetlight Out,closed,11
+SR-100903,2023-02-19,4,Noise Complaint,Resolved,14
+SR-101721,2023-02-26,5,pothole,In Progress,17
+SR-101167,2023-10-09,4,Streetlight Out,Resolved,21
+SR-101910,2023-10-11,6,Illegal Dumping,closed,28
+SR-102193,2023-02-14,6,Pothole,In Progress,361
+SR-102007,2023-04-16,6,Illegal Dumping,Open,6
+SR-101207,2023-12-16,4,Pothole,closed,2
+SR-101293,2023-09-28,5,Illegal Dumping,closed,29
+SR-101262,2023-08-19,5,pothole,Open,26
+SR-102088,2023-02-08,6,Noise Complaint,In Progress,4
+SR-103101,2023-12-04,7,Pothole,Resolved,17
+SR-100829,2023-08-03,3,Noise Complaint,Closed,10
+SR-100997,2023-03-24,4,Noise Complaint,closed,1
+SR-100737,2023-12-21,3,Rodent Inspection,Open,6
+SR-100319,2023-06-03,2,Noise Complaint,closed,25
+SR-102601,2023-07-06,7,Trash Collection,closed,7
+SR-101730,2023-03-12,5,Streetlight Out,Open,10
+SR-101044,2023-12-26,4,Noise Complaint,In Progress,1
+SR-102522,2023-03-11,7,Trash Collection,Resolved,19
+SR-102525,2023-05-16,7,Streetlight Out,Resolved,3
+SR-101248,2023-06-20,4,pothole,closed,29
+SR-101231,2023-08-18,4,Streetlight Out,Resolved,21
+SR-102578,2023-05-27,7,POTHOLE,Resolved,26
+SR-100314,2023-04-10,2,pothole,Resolved,9
+SR-101987,2023-02-20,6,Noise Complaint,Resolved,6
+SR-103051,2023-09-09,7,Pothole,In Progress,21
+SR-100215,2023-08-24,2,Illegal Dumping,Closed,1
+SR-101655,2023-02-05,5,Noise Complaint,closed,24
+SR-101380,2023-05-17,5,Streetlight Out,In Progress,18
+SR-100053,2023-11-23,1,pothole,In Progress,27
+SR-101397,2023-07-21,5,Pothole,closed,17
+SR-100762,2023-06-10,3,Illegal Dumping,Open,23
+SR-103094,2023-06-05,7,Noise Complaint,closed,13
+SR-101603,2023-10-11,5,Illegal Dumping,In Progress,11
+SR-102580,2023-11-17,7,POTHOLE,closed,15
+SR-100863,2023-04-05,3,Streetlight Out,Open,20
+SR-100507,2023-09-11,3,Illegal Dumping,Resolved,18
+SR-101659,2023-10-19,5,pothole,Open,7
+SR-101169,2023-04-05,4,POTHOLE,Resolved,20
+SR-101843,2023-12-14,6,Illegal Dumping,Closed,28
+SR-101565,2023-03-27,5,Streetlight Out,closed,14
+SR-102360,2023-08-07,6,Noise Complaint,In Progress,21
+SR-101455,2023-03-13,5,Illegal Dumping,closed,1
+SR-102921,2023-10-26,7,Streetlight Out,Resolved,14
+SR-100499,2023-07-27,3,Streetlight Out,Open,26
+SR-100755,2023-06-06,3,Noise Complaint,closed,5
+SR-102205,2023-05-14,6,Illegal Dumping,Resolved,18
+SR-101378,,5,Rodent Inspection,closed,15
+SR-100396,2023-09-26,2,Rodent Inspection,closed,5
+SR-100283,2023-02-17,2,Noise Complaint,closed,26
+SR-100656,2023-10-16,3,Illegal Dumping,Open,1
+SR-102660,2023-12-28,7,Illegal Dumping,closed,30
+SR-103100,2023-08-17,7,Rodent Inspection,Open,21
+SR-101162,2023-02-05,4,Noise Complaint,Open,6
+SR-101410,2023-04-20,,Illegal Dumping,Open,27
+SR-102290,2023-11-17,6,Noise Complaint,closed,1
+SR-101836,,6,Noise Complaint,In Progress,5
+SR-103277,2023-04-23,8,pothole,Open,1
+SR-102723,2023-02-02,7,Noise Complaint,Closed,6
+SR-102474,2023-11-07,,Illegal Dumping,closed,24
+SR-102397,2023-04-14,6,POTHOLE,closed,4
+SR-102441,2023-09-27,7,pothole,In Progress,15
+SR-102506,2023-08-11,,Illegal Dumping,Resolved,29
+SR-101775,2023-11-07,6,Pothole,Closed,19
+SR-100390,2023-10-24,2,Illegal Dumping,In Progress,26
+SR-100781,2023-01-17,,Illegal Dumping,Resolved,29
+SR-101244,2023-06-06,4,Pothole,Open,12
+SR-103115,2023-07-01,7,Streetlight Out,In Progress,29
+SR-101461,2023-05-01,5,Trash Collection,Resolved,10
+SR-102787,2023-12-27,7,Trash Collection,In Progress,9
+SR-100878,2023-03-01,3,Illegal Dumping,Closed,23
+SR-101369,2023-07-14,5,Illegal Dumping,closed,17
+SR-100740,2023-02-01,3,Rodent Inspection,closed,28
+SR-103294,2023-04-18,8,Rodent Inspection,In Progress,16
+SR-100556,2023-02-09,3,Pothole,Closed,16
+SR-100251,2023-07-27,2,Noise Complaint,closed,1
+SR-102151,2023-08-08,6,Trash Collection,Resolved,13
+SR-101802,2023-03-11,6,Trash Collection,Resolved,20
+SR-102107,2023-11-02,6,pothole,Resolved,19
+SR-102929,2023-11-13,7,Noise Complaint,Resolved,11
+SR-100810,2023-04-19,3,Rodent Inspection,closed,796
+SR-103077,2023-11-05,7,Trash Collection,Open,19
+SR-101926,2023-08-15,6,Noise Complaint,closed,16
+SR-101881,2023-02-19,6,Streetlight Out,Open,11
+SR-100657,,3,Streetlight Out,Open,28
+SR-100274,2023-02-27,2,Streetlight Out,In Progress,14
+SR-101351,2023-02-09,5,Trash Collection,In Progress,14
+SR-103209,2023-11-17,8,Illegal Dumping,In Progress,20
+SR-100826,2023-09-20,3,Streetlight Out,Closed,29
+SR-102818,2023-03-04,7,Noise Complaint,Open,23
+SR-101183,2023-01-28,,Trash Collection,Closed,5
+SR-101452,2023-04-18,5,Trash Collection,Resolved,15
+SR-102058,2023-06-28,6,Pothole,Closed,4
+SR-102498,2023-06-27,7,pothole,closed,16
+SR-102891,2023-06-28,7,Trash Collection,Closed,3
+SR-100890,2023-11-02,3,Trash Collection,In Progress,749
+SR-102911,2023-10-05,7,pothole,closed,6
+SR-100703,,3,Noise Complaint,Open,15
+SR-103290,2023-08-18,8,Streetlight Out,Closed,18
+SR-103270,2023-02-21,8,Illegal Dumping,Open,14
+SR-102038,2023-09-03,6,Illegal Dumping,closed,10
+SR-100873,2023-02-02,3,Trash Collection,In Progress,28
+SR-101137,2023-08-04,4,Pothole,Closed,6
+SR-102365,2023-05-11,6,Trash Collection,In Progress,20
+SR-102862,2023-09-20,7,Trash Collection,Open,11
+SR-101473,2023-02-23,5,Illegal Dumping,Open,10
+SR-101128,2023-01-14,4,Rodent Inspection,Open,16
+SR-102258,2023-08-25,6,Noise Complaint,Closed,21
+SR-100406,2023-04-01,2,Rodent Inspection,Closed,15
+SR-102106,2023-08-13,6,Noise Complaint,Open,12
+SR-102768,2023-05-10,7,Noise Complaint,closed,14
+SR-101714,2023-05-21,5,Streetlight Out,In Progress,28
+SR-101872,2023-10-05,6,Pothole,closed,19
+SR-102061,2023-02-16,6,Illegal Dumping,closed,24
+SR-100266,2023-08-25,2,Illegal Dumping,closed,15
+SR-101126,2023-04-06,4,Trash Collection,Open,16
+SR-101360,2023-01-25,5,Rodent Inspection,In Progress,29
+SR-102669,2023-09-27,7,pothole,closed,10
+SR-100642,2023-08-23,3,Noise Complaint,closed,26
+SR-102128,2023-03-06,6,Illegal Dumping,closed,25
+SR-102356,2023-10-28,,Streetlight Out,Closed,27
+SR-100419,2023-02-02,2,Trash Collection,In Progress,25
+SR-103087,2023-05-16,7,Illegal Dumping,Closed,5
+SR-102929,2023-11-13,7,Noise Complaint,Resolved,11
+SR-101299,2023-07-27,5,Streetlight Out,closed,3
+SR-101592,2023-08-27,5,Streetlight Out,closed,18
+SR-103292,2023-05-13,8,Illegal Dumping,closed,7
+SR-102233,2023-01-21,6,pothole,Resolved,17
+SR-100569,2023-05-12,3,Noise Complaint,closed,28
+SR-102115,2023-02-13,6,Illegal Dumping,Closed,18
+SR-100838,2023-09-22,3,Noise Complaint,Resolved,659
+SR-103233,2023-06-03,8,Streetlight Out,Open,21
+SR-102518,2023-07-08,7,Streetlight Out,Open,4
+SR-101671,2023-11-12,5,pothole,Open,8
+SR-100088,2023-03-20,1,Trash Collection,Open,5
+SR-100143,2023-12-05,1,POTHOLE,Open,22
+SR-102160,2023-10-10,6,Pothole,closed,12
+SR-101210,2023-03-01,4,Rodent Inspection,closed,20
+SR-100602,2023-08-10,3,Streetlight Out,closed,7
+SR-101698,2023-09-17,5,POTHOLE,Closed,22
+SR-102384,2023-04-18,6,pothole,Open,18
+SR-103013,2023-06-12,7,Pothole,closed,2
+SR-100987,2023-07-10,,POTHOLE,closed,18
+SR-102047,2023-03-24,6,POTHOLE,Resolved,16
+SR-102072,2023-01-12,6,Trash Collection,In Progress,11
+SR-101027,2023-02-17,4,POTHOLE,Closed,30
+SR-100933,,4,pothole,Open,10
+SR-102533,2023-08-01,7,Streetlight Out,In Progress,7
+SR-101161,2023-07-03,4,POTHOLE,Open,29
+SR-100030,2023-11-14,1,Trash Collection,Resolved,14
+SR-102068,,6,Noise Complaint,Resolved,28
+SR-101703,2023-09-10,5,Noise Complaint,Open,17
+SR-101648,2023-06-26,,Noise Complaint,Open,23
+SR-101238,2023-03-21,4,Noise Complaint,Closed,6
+SR-101909,2023-02-12,6,Illegal Dumping,Resolved,5
+SR-103061,2023-02-19,7,Streetlight Out,closed,26
+SR-101445,2023-03-16,5,Pothole,Closed,13
+SR-101879,,6,Illegal Dumping,Open,5
+SR-103143,2023-01-10,8,Illegal Dumping,Closed,339
+SR-100456,2023-07-21,2,Streetlight Out,In Progress,29
+SR-102283,2023-12-16,6,Illegal Dumping,Open,30
+SR-101818,,6,Illegal Dumping,Closed,7
+SR-102833,2023-04-03,7,Streetlight Out,Open,28
+SR-101574,2023-01-07,5,Illegal Dumping,Open,15
+SR-103165,2023-01-26,8,Streetlight Out,closed,5
+SR-101921,2023-11-19,6,Rodent Inspection,Resolved,16
+SR-102602,0000-00-00,7,Illegal Dumping,closed,14
+SR-100815,2023-11-27,3,Pothole,Open,3
+SR-100385,2023-01-23,2,Streetlight Out,closed,28
+SR-103035,2023-11-23,7,pothole,Open,6
+SR-102779,2023-12-26,7,Illegal Dumping,Resolved,23
+SR-101319,2023-01-26,5,Noise Complaint,Resolved,29
+SR-102173,2023-07-19,6,POTHOLE,closed,3
+SR-102955,2023-03-26,7,Illegal Dumping,closed,28
+SR-100604,2023-05-05,3,Illegal Dumping,closed,11
+SR-102772,2023-06-06,7,Rodent Inspection,Closed,27
+SR-103348,2023-04-25,8,Trash Collection,Resolved,16
+SR-101950,2023-11-24,6,Illegal Dumping,Closed,26
+SR-101273,2023-09-06,5,Illegal Dumping,closed,26
+SR-100001,2023-01-20,1,pothole,closed,314
+SR-100252,2023-01-25,2,Streetlight Out,Open,13
+SR-102288,2023-03-10,6,Streetlight Out,In Progress,10
+SR-100816,2023-10-18,3,Rodent Inspection,In Progress,10
+SR-100958,2023-06-01,4,pothole,In Progress,10
+SR-101487,2023-06-10,5,Trash Collection,closed,26
+SR-101552,2023-11-28,5,Streetlight Out,closed,27
+SR-100424,2023-01-05,,Streetlight Out,closed,731
+SR-102637,2023-08-16,7,POTHOLE,Closed,24
+SR-102609,2023-11-10,7,Streetlight Out,Closed,26
+SR-100741,2023-05-01,3,Illegal Dumping,Resolved,24
+SR-100922,2023-08-07,,Illegal Dumping,In Progress,13
+SR-100328,2023-09-21,2,Illegal Dumping,Open,13
+SR-102143,2023-12-25,6,Noise Complaint,Resolved,10
+SR-100206,2023-03-20,2,Rodent Inspection,closed,23
+SR-102272,N/A,6,Rodent Inspection,Closed,29
+SR-102965,2023-04-24,7,pothole,closed,4
+SR-100395,2023-03-26,2,Illegal Dumping,Open,28
+SR-103131,2023-08-06,8,pothole,Resolved,27
+SR-100876,2023-07-20,3,Noise Complaint,Resolved,5
+SR-100611,2023-05-05,3,Rodent Inspection,Closed,22
+SR-102933,2023-08-02,7,Noise Complaint,Resolved,13
+SR-102721,2023-10-18,,Trash Collection,Closed,11
+SR-101511,2023-10-23,5,Rodent Inspection,Open,3
+SR-100698,2023-08-13,3,Rodent Inspection,In Progress,5
+SR-100309,2023-05-25,2,Pothole,Resolved,5
+SR-101616,2023-04-15,5,Rodent Inspection,Open,10
+SR-103293,2023-11-09,8,Illegal Dumping,In Progress,20
+SR-100513,2023-12-24,3,Noise Complaint,In Progress,7
+SR-101981,2023-05-26,6,POTHOLE,Resolved,15
+SR-100211,2023-07-19,2,pothole,closed,338
+SR-102988,2023-03-27,7,Trash Collection,closed,19
+SR-101771,,6,Pothole,Resolved,13
+SR-102722,2023-11-07,7,Illegal Dumping,Closed,20
+SR-101982,2023-03-06,6,Streetlight Out,Closed,29
+SR-100369,2023-09-24,2,Streetlight Out,closed,11
+SR-100032,2023-10-04,1,POTHOLE,closed,24
+SR-103013,2023-06-12,7,Pothole,closed,2
+SR-100158,2023-10-25,1,POTHOLE,Resolved,3
+SR-100164,2023-03-22,1,Noise Complaint,Resolved,28
+SR-102072,2023-01-12,6,Trash Collection,In Progress,11
+SR-102551,2023-09-17,7,Illegal Dumping,closed,29
+SR-100434,2023-12-03,2,Streetlight Out,Closed,6
+SR-102450,2023-02-14,,Streetlight Out,In Progress,10
+SR-100204,2023-01-26,2,Noise Complaint,closed,12
+SR-100268,2023-10-09,2,Trash Collection,Open,23
+SR-100462,0000-00-00,2,POTHOLE,closed,1
+SR-101046,2023-07-11,4,Trash Collection,closed,26
+SR-102976,2023-04-11,7,Streetlight Out,In Progress,21
+SR-102111,,6,Pothole,Resolved,28
+SR-102695,2023-10-17,7,Noise Complaint,In Progress,17
+SR-103252,2023-07-09,8,Illegal Dumping,In Progress,24
+SR-100318,2023-08-13,2,Pothole,closed,19
+SR-103174,2023-02-06,8,pothole,Open,11
+SR-100840,2023-04-17,3,Noise Complaint,In Progress,26
+SR-101507,2023-12-01,5,Noise Complaint,Closed,13
+SR-101479,2023-11-10,5,Pothole,closed,27
+SR-102467,2023-02-03,7,pothole,Resolved,6
+SR-102601,2023-07-06,7,Trash Collection,closed,7
+SR-101543,2023-06-27,5,pothole,closed,19
+SR-100911,2023-09-24,4,pothole,Resolved,10
+SR-101614,2023-07-13,5,Noise Complaint,Open,26
+SR-101649,2023-11-08,5,Streetlight Out,closed,11
+SR-100414,2023-12-10,2,POTHOLE,Open,16
+SR-102334,2023-01-10,6,Pothole,In Progress,16
+SR-103260,2023-07-11,8,Streetlight Out,Resolved,9
+SR-103275,2023-04-17,8,POTHOLE,closed,3
+SR-101867,0000-00-00,6,Trash Collection,Resolved,1
+SR-103169,2023-12-15,8,pothole,Resolved,29
+SR-100813,2023-05-27,3,Illegal Dumping,Resolved,5
+SR-100559,2023-08-21,3,Streetlight Out,Closed,17
+SR-102071,2023-06-06,6,pothole,Open,3
+SR-102642,2023-04-03,7,pothole,Closed,22
+SR-102118,2023-12-08,6,pothole,Closed,19
+SR-101300,2023-03-25,5,POTHOLE,Closed,9
+SR-103391,2023-02-15,8,POTHOLE,Resolved,21
+SR-100734,2023-01-11,3,pothole,closed,10
+SR-101654,2023-05-01,5,POTHOLE,Resolved,4
+SR-102161,2023-10-15,6,Rodent Inspection,Open,15
+SR-101579,2023-06-14,5,Pothole,Closed,28
+SR-100089,2023-05-17,1,Streetlight Out,closed,21
+SR-101028,2023-07-09,4,Pothole,closed,1
+SR-100686,2023-09-07,3,Trash Collection,Resolved,6
+SR-102133,2023-09-14,6,Streetlight Out,Closed,21
+SR-102598,2023-08-15,7,Noise Complaint,closed,30
+SR-100853,2023-03-23,3,Pothole,Closed,9
+SR-102248,2023-11-19,6,Trash Collection,Resolved,9
+SR-102037,2023-09-11,6,Noise Complaint,In Progress,14
+SR-103405,2023-07-20,8,Illegal Dumping,Open,28
+SR-100130,2023-09-13,1,Rodent Inspection,Closed,637
+SR-100054,2023-11-21,1,pothole,Resolved,29
+SR-101519,2023-08-13,5,Noise Complaint,Closed,12
+SR-100189,2023-10-04,2,Rodent Inspection,Open,27
+SR-100864,2023-06-13,3,Trash Collection,Resolved,709
+SR-101143,2023-10-28,4,Illegal Dumping,Open,8
+SR-102050,N/A,6,Illegal Dumping,Open,26
+SR-101915,2023-03-14,6,Streetlight Out,Closed,9
+SR-100944,2023-02-17,4,Trash Collection,Closed,7
+SR-101524,2023-04-06,5,Pothole,Resolved,26
+SR-102736,,7,Illegal Dumping,closed,11
+SR-103081,2023-09-23,7,Illegal Dumping,Resolved,29
+SR-101830,2023-10-26,6,Pothole,Resolved,7
+SR-103395,2023-10-06,8,pothole,Closed,19
+SR-100684,2023-07-14,3,Streetlight Out,Open,19
+SR-101087,2023-06-02,4,Streetlight Out,Open,29
+SR-102837,2023-04-05,7,Noise Complaint,Closed,3
+SR-101364,2023-09-12,5,Illegal Dumping,Closed,6
+SR-100969,2023-08-15,4,Streetlight Out,Closed,5
+SR-100015,2023-10-18,1,Illegal Dumping,Closed,5
+SR-103320,2023-12-21,8,POTHOLE,closed,21
+SR-102789,2023-02-06,7,Noise Complaint,Resolved,22
+SR-102528,2023-12-13,7,Streetlight Out,closed,7
+SR-102213,2023-08-23,6,Rodent Inspection,Closed,28
+SR-103139,2023-03-06,8,Noise Complaint,closed,24
+SR-102015,2023-01-20,6,Rodent Inspection,Resolved,26
+SR-101199,2023-02-19,4,POTHOLE,closed,17
+SR-101250,2023-01-25,4,Noise Complaint,Open,25
+SR-102135,2023-04-06,6,Trash Collection,Resolved,21
+SR-101196,2023-06-17,4,Streetlight Out,Open,6
+SR-101392,2023-06-04,5,Streetlight Out,Closed,27
+SR-102502,N/A,7,Streetlight Out,Resolved,29
+SR-100039,2023-08-23,1,pothole,closed,17
+SR-101240,2023-12-18,4,Rodent Inspection,closed,1
+SR-100181,2023-11-14,2,pothole,In Progress,26
+SR-102138,2023-07-02,6,Noise Complaint,In Progress,12
+SR-102366,2023-03-21,6,POTHOLE,closed,9
+SR-101941,2023-12-12,6,Illegal Dumping,In Progress,11
+SR-101862,2023-12-24,6,Trash Collection,closed,26
+SR-102801,2023-01-18,7,Rodent Inspection,Closed,3
+SR-100947,,4,Streetlight Out,In Progress,15
+SR-102429,2023-11-05,7,Pothole,Closed,25
+SR-101403,2023-12-04,5,Trash Collection,closed,22
+SR-100226,2023-02-25,2,Pothole,Closed,14
+SR-102602,0000-00-00,7,Illegal Dumping,closed,14
+SR-101676,2023-06-11,5,POTHOLE,Open,5
+SR-100174,2023-01-21,1,Trash Collection,In Progress,372
+SR-100550,2023-01-23,3,Pothole,Open,2
+SR-103247,2023-12-14,8,Pothole,In Progress,3
+SR-101825,2023-07-25,6,Illegal Dumping,In Progress,12
+SR-102368,2023-06-20,6,Noise Complaint,In Progress,15
+SR-101786,2023-08-08,6,Trash Collection,Resolved,7
+SR-100978,2023-03-02,4,Illegal Dumping,closed,7
+SR-103304,2023-06-09,8,Illegal Dumping,Open,11
+SR-100655,2023-03-03,3,Noise Complaint,In Progress,30
+SR-100558,2023-07-15,3,Pothole,Open,2
+SR-102687,2023-04-04,7,Illegal Dumping,closed,6
+SR-101411,2023-04-21,5,Noise Complaint,Open,20
+SR-101874,2023-12-11,6,Streetlight Out,Resolved,4
+SR-100806,2023-01-07,3,Streetlight Out,Open,26
+SR-102273,2023-11-14,6,Rodent Inspection,closed,22
+SR-100132,2023-05-02,1,Pothole,Open,12
+SR-101500,2023-01-12,5,Rodent Inspection,In Progress,9
+SR-101131,2023-04-18,4,Streetlight Out,Resolved,25
+SR-100870,2023-01-01,3,Noise Complaint,Resolved,14
+SR-100065,2023-11-25,1,POTHOLE,In Progress,15
+SR-100321,2023-08-12,2,POTHOLE,closed,30
+SR-100273,2023-08-14,2,Streetlight Out,closed,5
+SR-100382,2023-11-24,2,Illegal Dumping,Closed,22
+SR-102509,2023-12-15,7,Streetlight Out,Open,668
+SR-102469,2023-05-13,7,Rodent Inspection,closed,16
+SR-100256,2023-03-01,2,Streetlight Out,Open,29
+SR-101952,2023-06-04,6,Streetlight Out,Open,9
+SR-100975,2023-12-09,4,Rodent Inspection,Closed,20
+SR-101420,2023-04-10,5,Rodent Inspection,Open,9
+SR-103008,2023-06-26,7,Streetlight Out,Closed,1
+SR-101537,2023-04-01,5,Illegal Dumping,In Progress,14
+SR-100726,2023-06-01,3,Pothole,Resolved,16
+SR-102568,2023-12-21,7,Illegal Dumping,Resolved,23
+SR-100487,2023-08-04,3,Trash Collection,closed,11
+SR-100062,2023-01-15,1,Illegal Dumping,Open,20
+SR-101105,2023-11-20,4,Pothole,Closed,23
+SR-102430,2023-01-26,7,pothole,Open,15
+SR-102688,2023-11-22,7,Noise Complaint,In Progress,29
+SR-100830,2023-01-26,3,Illegal Dumping,closed,8
+SR-103297,2023-05-02,8,Streetlight Out,Closed,28
+SR-102163,2023-04-20,6,POTHOLE,Resolved,738
+SR-101058,2023-08-14,4,Pothole,In Progress,676
+SR-100658,2023-10-18,3,Trash Collection,Open,8
+SR-102552,2023-12-15,7,Trash Collection,closed,23
+SR-100017,2023-04-28,1,Noise Complaint,Open,28
+SR-100994,2023-09-26,4,Noise Complaint,closed,28
+SR-102292,2023-06-23,6,POTHOLE,Resolved,25
+SR-100090,2023-05-19,1,Streetlight Out,Open,27
+SR-100157,2023-12-16,1,Rodent Inspection,Resolved,26
+SR-102419,2023-04-05,,Illegal Dumping,Open,422
+SR-101880,2023-10-20,6,Trash Collection,Resolved,28
+SR-102204,2023-03-07,6,Noise Complaint,closed,9
+SR-101465,2023-07-23,5,Illegal Dumping,Open,18
+SR-101399,2023-07-19,5,Streetlight Out,Closed,674
+SR-101871,2023-06-17,6,Trash Collection,Open,15
+SR-100895,2023-06-16,3,Trash Collection,closed,28
+SR-101576,2023-05-25,5,Illegal Dumping,In Progress,24
+SR-100187,2023-03-06,2,Illegal Dumping,Resolved,5
+SR-101583,2023-06-04,5,Trash Collection,In Progress,25
+SR-100892,2023-12-24,3,Illegal Dumping,closed,12
+SR-100275,2023-10-25,2,Illegal Dumping,closed,10
+SR-101722,2023-02-07,5,Streetlight Out,Open,18
+SR-101737,2023-10-17,5,Streetlight Out,In Progress,9
+SR-103045,2023-08-03,7,Illegal Dumping,closed,3
+SR-102431,2023-12-20,7,Rodent Inspection,In Progress,10
+SR-100868,2023-02-02,3,Rodent Inspection,Resolved,23
+SR-100568,2023-07-25,3,Rodent Inspection,In Progress,6
+SR-102116,2023-02-14,6,pothole,In Progress,29
+SR-102961,2023-04-19,7,Rodent Inspection,Resolved,21
+SR-101418,2023-10-18,5,Rodent Inspection,Closed,29
+SR-102251,2023-02-25,6,pothole,Resolved,9
+SR-102342,2023-09-11,6,Trash Collection,closed,3
+SR-103267,2023-02-06,8,Rodent Inspection,In Progress,12
+SR-100076,2023-09-10,1,Illegal Dumping,In Progress,27
+SR-100965,2023-05-22,4,Streetlight Out,Open,30
+SR-101311,2023-08-03,5,Pothole,Open,7
+SR-102049,2023-09-09,6,POTHOLE,Resolved,30
+SR-103063,2023-10-28,7,Streetlight Out,Closed,14
+SR-101545,2023-02-27,5,Noise Complaint,closed,12
+SR-103254,2023-08-16,8,Noise Complaint,Resolved,20
+SR-102969,2023-11-24,7,Rodent Inspection,Closed,24
+SR-100109,2023-07-19,1,Rodent Inspection,In Progress,30
+SR-102903,2023-05-11,7,Rodent Inspection,closed,5
+SR-100834,2023-10-20,3,Rodent Inspection,closed,18
+SR-102343,2023-09-25,6,Trash Collection,Open,26
+SR-102109,2023-09-18,6,Pothole,Open,11
+SR-100991,2023-08-16,4,Streetlight Out,Resolved,18
+SR-102798,2023-01-13,7,Streetlight Out,Closed,12
+SR-102175,2023-01-09,6,Trash Collection,In Progress,18
+SR-102399,2023-06-15,6,Trash Collection,Open,21
+SR-101208,2023-08-07,4,Streetlight Out,Resolved,29
+SR-100646,,3,Streetlight Out,closed,19
+SR-102623,2023-01-02,7,Illegal Dumping,closed,4
+SR-101302,2023-10-16,5,Noise Complaint,closed,29
+SR-100769,2023-05-17,3,Illegal Dumping,Resolved,29
+SR-103284,2023-01-17,8,Trash Collection,Resolved,5
+SR-100372,2023-03-06,2,POTHOLE,closed,4
+SR-101554,2023-09-25,,Rodent Inspection,In Progress,25
+SR-100654,2023-04-05,3,Pothole,Open,15
+SR-100767,2023-10-20,3,Noise Complaint,In Progress,412
+SR-100303,2023-01-13,2,Pothole,Resolved,24
+SR-103240,2023-02-02,8,Streetlight Out,In Progress,27
+SR-101494,2023-01-16,5,Trash Collection,Resolved,5
+SR-103345,2023-03-16,8,Rodent Inspection,Open,10
+SR-101447,2023-03-20,,Illegal Dumping,Resolved,4
+SR-100512,2023-10-08,3,Illegal Dumping,Closed,30
+SR-101073,2023-02-28,4,Illegal Dumping,Resolved,636
+SR-102051,2023-05-09,6,Streetlight Out,closed,1
+SR-100808,2023-10-01,3,Trash Collection,closed,13
+SR-101312,2023-01-12,5,Illegal Dumping,In Progress,5
+SR-101946,2023-08-02,,Streetlight Out,closed,6
+SR-103057,2023-11-23,7,Noise Complaint,In Progress,4
+SR-100531,2023-02-26,3,Trash Collection,Closed,414
+SR-102650,2023-03-08,7,Trash Collection,In Progress,26
+SR-100372,2023-03-06,2,POTHOLE,closed,4
+SR-101572,2023-11-16,5,Rodent Inspection,closed,27
+SR-103259,2023-11-07,8,Illegal Dumping,In Progress,16
+SR-101173,2023-12-26,4,Illegal Dumping,Closed,26
+SR-102749,2023-12-09,7,Pothole,Closed,27
+SR-100527,2023-12-10,3,Trash Collection,Closed,18
+SR-100347,2023-10-21,2,POTHOLE,closed,24
+SR-102008,2023-04-26,6,Trash Collection,Resolved,14
+SR-100451,2023-10-27,2,Streetlight Out,Closed,17
+SR-101521,2023-02-18,,POTHOLE,closed,1
+SR-103413,2023-08-24,8,Trash Collection,Resolved,14
+SR-102398,2023-03-01,6,Noise Complaint,In Progress,28
+SR-103058,2023-06-17,7,Streetlight Out,Open,23
+SR-101713,2023-06-16,5,pothole,Closed,16
+SR-103286,2023-04-21,8,Trash Collection,In Progress,30
+SR-100603,2023-04-08,3,Rodent Inspection,Open,26
+SR-102781,N/A,7,Rodent Inspection,Closed,4
+SR-101548,2023-03-15,5,Trash Collection,closed,7
+SR-101498,2023-06-13,5,Pothole,Resolved,29
+SR-100981,2023-09-21,4,Streetlight Out,Closed,29
+SR-103032,2023-11-18,7,Trash Collection,Open,15
+SR-102936,2023-07-28,,pothole,Open,3
+SR-103208,2023-12-19,8,POTHOLE,In Progress,5
+SR-102126,2023-05-04,6,pothole,closed,28
+SR-101384,2023-01-19,5,Rodent Inspection,Closed,1
+SR-100802,2023-03-26,3,Illegal Dumping,Resolved,27
+SR-103362,2023-02-08,8,Illegal Dumping,In Progress,6
+SR-102744,2023-07-18,7,Noise Complaint,closed,28
+SR-101796,2023-10-04,6,pothole,In Progress,23
+SR-100610,2023-10-09,3,POTHOLE,In Progress,19
+SR-100491,2023-06-25,3,Rodent Inspection,Closed,789
+SR-102662,2023-08-26,7,Illegal Dumping,In Progress,12
+SR-101263,2023-04-06,5,Streetlight Out,Resolved,1
+SR-101584,2023-05-12,5,Noise Complaint,Open,20
+SR-101236,2023-03-15,4,pothole,Resolved,727
+SR-100202,2023-05-03,2,Noise Complaint,Closed,9
+SR-101724,2023-06-27,5,Illegal Dumping,In Progress,1
+SR-103238,2023-03-15,8,Illegal Dumping,Resolved,15
+SR-100687,2023-05-06,3,Illegal Dumping,closed,10
+SR-100255,2023-06-15,2,Noise Complaint,Resolved,21
+SR-100315,2023-06-14,2,POTHOLE,Resolved,14
+SR-100235,N/A,2,Trash Collection,Resolved,18
+SR-103258,2023-02-09,8,Illegal Dumping,In Progress,18
+SR-102252,2023-01-15,6,Streetlight Out,Open,12
+SR-100073,2023-10-20,1,Illegal Dumping,closed,29
+SR-101756,2023-02-27,5,Trash Collection,Open,9
+SR-102359,2023-03-02,6,Trash Collection,In Progress,12
+SR-100450,,2,Rodent Inspection,Open,22
+SR-103171,2023-12-14,8,Trash Collection,Closed,15
+SR-101816,2023-03-21,6,Noise Complaint,Closed,11
+SR-102496,2023-04-16,7,Illegal Dumping,Open,9
+SR-100674,2023-03-01,3,Streetlight Out,Closed,11
+SR-100370,2023-01-01,2,Illegal Dumping,closed,2
+SR-102279,0000-00-00,6,Rodent Inspection,Resolved,18
+SR-102876,2023-08-07,7,Illegal Dumping,Open,1
+SR-103067,2023-09-17,7,Illegal Dumping,Closed,28
+SR-102838,2023-01-04,7,Pothole,Open,9
+SR-101770,2023-04-05,6,pothole,Resolved,25
+SR-101904,2023-05-05,6,Noise Complaint,In Progress,13
+SR-102618,2023-04-20,7,POTHOLE,closed,18
+SR-100708,2023-12-21,3,Rodent Inspection,Resolved,18
+SR-102809,2023-06-05,7,Pothole,Resolved,9
+SR-102448,2023-06-27,7,Rodent Inspection,Resolved,8
+SR-100837,2023-08-09,3,Pothole,Resolved,29
+SR-102905,2023-02-25,7,pothole,Open,2
+SR-102567,2023-06-26,7,Rodent Inspection,Resolved,12
+SR-103273,2023-05-06,8,Noise Complaint,Resolved,30
+SR-100713,2023-06-15,3,Illegal Dumping,In Progress,25
+SR-100904,2023-01-23,4,Trash Collection,Resolved,578
+SR-100615,2023-03-06,3,Illegal Dumping,Open,24
+SR-102417,2023-12-02,7,Streetlight Out,closed,3
+SR-100220,2023-11-27,2,Streetlight Out,Closed,13
+SR-100295,2023-09-20,2,Streetlight Out,Closed,11
+SR-101129,2023-02-09,4,Streetlight Out,Open,7
+SR-103062,2023-05-09,7,Illegal Dumping,closed,15
+SR-102085,2023-03-26,6,Streetlight Out,In Progress,4
+SR-102217,2023-02-04,6,Illegal Dumping,In Progress,26
+SR-100973,2023-09-18,4,Streetlight Out,Closed,3
+SR-102565,2023-12-10,7,Streetlight Out,In Progress,7
+SR-101707,2023-07-06,5,pothole,closed,10
+SR-101253,,4,Noise Complaint,Resolved,7
+SR-101949,2023-09-23,6,Streetlight Out,Closed,2
+SR-100427,2023-02-23,2,Noise Complaint,Open,21
+SR-102358,2023-06-25,6,Rodent Inspection,Open,29
+SR-101394,2023-09-03,5,Illegal Dumping,Resolved,16
+SR-101134,2023-04-08,4,Streetlight Out,closed,6
+SR-102094,2023-06-27,6,Noise Complaint,Resolved,11
+SR-100882,2023-01-15,3,Noise Complaint,Resolved,20
+SR-101923,2023-11-22,6,Trash Collection,Closed,14
+SR-102791,2023-05-11,7,POTHOLE,closed,16
+SR-101108,2023-02-01,4,POTHOLE,Open,27
+SR-100940,N/A,4,POTHOLE,closed,26
+SR-103287,2023-06-24,8,Illegal Dumping,Closed,9
+SR-102404,2023-11-04,7,pothole,Open,20
+SR-103394,2023-11-13,8,Streetlight Out,Closed,18
+SR-101797,2023-06-21,6,Pothole,In Progress,5
+SR-100002,2023-06-24,1,Rodent Inspection,Closed,30
+SR-100930,2023-05-05,4,Streetlight Out,Resolved,29
+SR-100993,2023-03-24,4,POTHOLE,Open,17
+SR-100367,2023-05-20,2,Rodent Inspection,Closed,4
+SR-100881,2023-07-09,3,Illegal Dumping,Open,6
+SR-101158,2023-02-23,4,Trash Collection,Resolved,21
+SR-102535,2023-11-02,7,pothole,closed,18
+SR-102606,2023-03-11,7,Streetlight Out,In Progress,23
+SR-101179,,4,Trash Collection,In Progress,25
+SR-102954,2023-08-28,7,POTHOLE,Closed,29
+SR-100705,2023-12-12,3,pothole,In Progress,12
+SR-101561,2023-07-01,5,pothole,Resolved,10
+SR-100288,2023-04-08,2,Rodent Inspection,closed,14
+SR-101833,2023-01-23,6,Illegal Dumping,Open,29
+SR-100400,2023-10-08,2,Noise Complaint,closed,343
+SR-102814,2023-12-01,7,Pothole,Resolved,3
+SR-100215,2023-08-24,2,Illegal Dumping,Closed,1
+SR-100729,2023-05-11,3,Pothole,Resolved,7
+SR-101352,2023-09-17,5,Trash Collection,In Progress,17
+SR-102053,2023-11-04,6,pothole,Open,27
+SR-100664,2023-07-18,3,pothole,Resolved,9
+SR-102415,2023-10-07,7,Trash Collection,In Progress,21
+SR-102181,2023-02-15,6,POTHOLE,closed,14
+SR-100248,2023-07-15,2,Rodent Inspection,closed,27
+SR-100851,,3,Trash Collection,Open,9
+SR-102714,2023-11-12,7,Illegal Dumping,Resolved,19
+SR-103316,2023-05-25,8,POTHOLE,Open,2
+SR-101176,2023-09-28,,Trash Collection,Open,1
+SR-102963,2023-11-13,7,Rodent Inspection,Resolved,24
+SR-101983,2023-10-12,6,Trash Collection,In Progress,24
+SR-102639,2023-07-05,7,Streetlight Out,Closed,3
+SR-101908,2023-10-03,,Streetlight Out,closed,27
+SR-101625,2023-06-15,5,Rodent Inspection,closed,29
+SR-101788,,6,Illegal Dumping,In Progress,18
+SR-101069,2023-09-18,4,Noise Complaint,closed,2
+SR-101550,2023-07-22,5,Streetlight Out,closed,23
+SR-101937,2023-07-19,6,Rodent Inspection,Closed,8
+SR-101645,,5,Noise Complaint,Open,24
+SR-100024,2023-03-21,1,Streetlight Out,Closed,25
+SR-102141,2023-03-10,6,Trash Collection,closed,29
+SR-100579,2023-05-18,3,Noise Complaint,Closed,25
+SR-100135,2023-07-03,1,Streetlight Out,In Progress,26
+SR-101464,2023-06-02,5,Pothole,closed,28
+SR-103006,2023-06-24,7,Pothole,In Progress,664
+SR-102208,2023-07-03,6,Illegal Dumping,Open,7
+SR-102952,2023-07-22,7,Illegal Dumping,Closed,10
+SR-101448,2023-11-24,5,Trash Collection,Resolved,4
+SR-100239,2023-09-23,2,Rodent Inspection,Closed,6
+SR-100149,2023-11-01,1,Rodent Inspection,Open,324
+SR-102531,2023-10-07,7,pothole,closed,24
+SR-100402,2023-01-19,2,POTHOLE,Resolved,3
+SR-101488,2023-07-05,5,Trash Collection,Resolved,5
+SR-101091,2023-10-15,4,Rodent Inspection,Closed,9
+SR-102970,2023-03-20,7,Noise Complaint,Open,26
+SR-102666,2023-08-08,7,Streetlight Out,Open,19
+SR-100259,2023-08-28,2,Trash Collection,Closed,20
+SR-101040,2023-12-26,4,Trash Collection,closed,2
+SR-100186,2023-02-22,2,Trash Collection,Closed,21
+SR-102466,2023-03-20,7,Streetlight Out,Open,29
+SR-103233,2023-06-03,8,Streetlight Out,Open,21
+SR-102610,2023-09-19,7,Pothole,Closed,618
+SR-103276,2023-12-01,8,Illegal Dumping,Closed,8
+SR-102832,0000-00-00,7,Illegal Dumping,closed,6
+SR-100197,N/A,2,Streetlight Out,Open,20
+SR-100696,2023-01-10,3,Rodent Inspection,In Progress,1
+SR-103178,2023-09-07,8,Rodent Inspection,In Progress,16
+SR-100398,2023-11-22,2,Rodent Inspection,closed,16
+SR-100426,2023-03-17,2,Pothole,Resolved,8
+SR-103133,2023-12-08,8,Trash Collection,In Progress,12
+SR-103106,2023-12-22,7,POTHOLE,Closed,23
+SR-102857,2023-04-18,7,POTHOLE,In Progress,23
+SR-100884,2023-05-13,3,Rodent Inspection,Resolved,4
+SR-101096,2023-04-11,,Streetlight Out,In Progress,27
+SR-100011,2023-10-21,1,Illegal Dumping,Resolved,16
+SR-101045,2023-02-01,4,Streetlight Out,In Progress,10
+SR-101132,2023-08-07,4,Rodent Inspection,Closed,11
+SR-101191,2023-11-19,4,Streetlight Out,Closed,24
+SR-100350,2023-08-21,2,Trash Collection,Closed,18
+SR-101245,2023-12-04,4,Illegal Dumping,Closed,26
+SR-100358,2023-01-16,2,Illegal Dumping,Open,2
+SR-102537,2023-07-23,7,Streetlight Out,Resolved,26
+SR-100597,2023-05-10,3,Rodent Inspection,In Progress,6
+SR-100934,2023-01-09,4,pothole,Open,9
+SR-100044,2023-06-03,1,Rodent Inspection,closed,15
+SR-102436,2023-03-22,7,Noise Complaint,Resolved,1
+SR-101011,2023-07-17,4,POTHOLE,closed,20
+SR-102308,2023-01-20,6,Rodent Inspection,Resolved,4
+SR-101009,2023-07-25,4,Streetlight Out,Open,23
+SR-102560,2023-07-14,7,Illegal Dumping,closed,27
+SR-101822,2023-05-14,6,Pothole,closed,11
+SR-102575,2023-04-06,7,pothole,In Progress,7
+SR-102339,2023-06-01,6,POTHOLE,In Progress,20
+SR-102856,,7,Noise Complaint,In Progress,12
+SR-102032,2023-12-27,6,Rodent Inspection,Resolved,14
+SR-100196,2023-04-13,2,Trash Collection,Closed,22
+SR-101658,2023-12-15,5,Trash Collection,closed,7
+SR-101206,2023-03-14,4,Trash Collection,Closed,24
+SR-103307,2023-05-09,8,Rodent Inspection,Resolved,571
+SR-102309,2023-12-19,6,Noise Complaint,Closed,1
+SR-101065,2023-07-13,4,pothole,Open,25
+SR-102295,2023-05-25,6,Noise Complaint,Open,6
+SR-101437,2023-11-15,5,Illegal Dumping,Resolved,25
+SR-102942,2023-03-16,7,Pothole,closed,8
+SR-101843,2023-12-14,6,Illegal Dumping,Closed,28
+SR-101575,2023-04-17,5,Illegal Dumping,In Progress,19
+SR-101673,2023-09-12,5,pothole,Open,21
+SR-100620,2023-08-10,3,Illegal Dumping,In Progress,8
+SR-100956,2023-09-18,4,Pothole,Resolved,10
+SR-100836,,3,Streetlight Out,Resolved,8
+SR-102393,2023-06-10,6,Noise Complaint,Open,18
+SR-102413,2023-05-28,7,Noise Complaint,Resolved,23
+SR-101503,2023-09-20,5,Rodent Inspection,Open,2
+SR-101213,2023-12-11,4,Streetlight Out,closed,18
+SR-102626,2023-10-07,7,Pothole,Closed,25
+SR-100218,2023-07-26,2,Noise Complaint,Closed,11
+SR-101956,2023-04-03,6,Trash Collection,closed,29
+SR-102224,2023-11-17,6,Streetlight Out,Open,1
+SR-101764,2023-04-02,6,Trash Collection,In Progress,19
+SR-101283,2023-01-10,,Streetlight Out,In Progress,2
+SR-100760,2023-04-01,3,Streetlight Out,closed,13
+SR-102938,0000-00-00,7,POTHOLE,In Progress,10
+SR-103098,2023-07-17,7,Illegal Dumping,Open,26
+SR-101331,2023-06-17,,Rodent Inspection,Resolved,2
+SR-102673,0000-00-00,7,Noise Complaint,Closed,28
+SR-101349,2023-11-23,5,POTHOLE,Open,5
+SR-101506,2023-02-02,5,Streetlight Out,closed,24
+SR-103249,2023-08-19,8,Trash Collection,Closed,21
+SR-102485,2023-09-26,7,pothole,Closed,20
+SR-103207,2023-05-12,8,POTHOLE,Open,18
+SR-100751,2023-08-14,3,Illegal Dumping,Open,22
+SR-100193,2023-05-24,2,POTHOLE,Closed,27
+SR-102005,2023-08-03,6,Rodent Inspection,Resolved,7
+SR-102046,2023-12-26,6,Rodent Inspection,Resolved,1
+SR-100905,2023-09-15,4,Streetlight Out,In Progress,17
+SR-102934,2023-01-28,7,POTHOLE,Resolved,17
+SR-103402,,8,POTHOLE,Open,25
+SR-100113,2023-09-10,1,Trash Collection,Resolved,3
+SR-103216,2023-06-23,8,Noise Complaint,In Progress,25
+SR-101590,2023-05-07,5,Rodent Inspection,In Progress,17
+SR-100378,2023-10-12,2,Rodent Inspection,Closed,30
+SR-100946,2023-12-20,4,Pothole,In Progress,24
+SR-100408,2023-06-08,2,Illegal Dumping,In Progress,29
+SR-103230,2023-04-12,8,Illegal Dumping,Resolved,7
+SR-101279,2023-06-01,5,Trash Collection,Open,25
+SR-101944,2023-08-07,6,Illegal Dumping,Resolved,3
+SR-102751,2023-11-03,7,Streetlight Out,Open,11
+SR-102725,2023-07-19,7,Pothole,Resolved,6
+SR-102268,2023-06-01,6,Noise Complaint,Open,15
+SR-100342,2023-02-28,2,Rodent Inspection,In Progress,303
+SR-100601,2023-01-10,3,Streetlight Out,closed,17
+SR-103085,2023-07-11,7,Illegal Dumping,Resolved,13
+SR-102992,2023-06-03,7,Trash Collection,Resolved,18
+SR-102172,2023-05-13,6,Noise Complaint,Closed,10
+SR-100903,2023-02-19,4,Noise Complaint,Resolved,14
+SR-102296,2023-02-17,6,POTHOLE,Resolved,4
+SR-102748,2023-08-02,7,Noise Complaint,Closed,19
+SR-101511,2023-10-23,5,Rodent Inspection,Open,3
+SR-100049,2023-01-11,1,Illegal Dumping,Open,23
+SR-101610,2023-03-17,5,POTHOLE,Resolved,6
+SR-101629,2023-11-02,5,pothole,Closed,28
+SR-102865,2023-02-24,7,Illegal Dumping,Closed,1
+SR-100344,2023-09-28,2,Illegal Dumping,Open,9
+SR-102443,2023-04-07,7,Trash Collection,In Progress,21
+SR-103381,2023-03-21,8,Illegal Dumping,Closed,17
+SR-100473,2023-10-22,2,Streetlight Out,Resolved,23
+SR-102246,2023-01-28,,Streetlight Out,closed,1
+SR-102516,2023-06-16,7,Streetlight Out,Open,5
+SR-102468,2023-03-01,7,Trash Collection,In Progress,24
+SR-100711,2023-11-15,3,Streetlight Out,Resolved,22
+SR-102819,2023-06-05,7,pothole,Closed,27
+SR-101633,2023-02-08,5,Streetlight Out,Open,6
+SR-103082,2023-05-04,7,Streetlight Out,Closed,713
+SR-102463,2023-04-18,7,POTHOLE,Open,18
+SR-100985,2023-01-01,4,Pothole,Closed,15
+SR-102427,2023-10-04,,Trash Collection,In Progress,23
+SR-102592,2023-08-06,7,Noise Complaint,closed,2
+SR-102483,0000-00-00,7,Rodent Inspection,Resolved,17
+SR-102483,0000-00-00,7,Rodent Inspection,Resolved,17
+SR-101074,2023-07-03,4,Streetlight Out,Resolved,26
+SR-100519,2023-11-27,3,Streetlight Out,Resolved,19
+SR-101041,2023-10-20,4,POTHOLE,In Progress,26
+SR-100638,2023-09-20,3,POTHOLE,closed,17
+SR-102676,2023-07-01,7,Streetlight Out,closed,26
+SR-100626,2023-05-07,3,POTHOLE,Closed,9
+SR-101544,2023-08-20,5,Pothole,closed,1
+SR-100507,2023-09-11,3,Illegal Dumping,Resolved,18
+SR-102542,2023-05-10,7,Illegal Dumping,Open,761
+SR-101065,2023-07-13,4,pothole,Open,25
+SR-101288,2023-07-19,5,Rodent Inspection,In Progress,5
+SR-102899,2023-02-06,7,Illegal Dumping,Open,28
+SR-102895,2023-02-24,7,Rodent Inspection,Closed,13
+SR-100524,2023-06-02,3,Streetlight Out,In Progress,22
+SR-102974,2023-08-06,7,Pothole,Open,13
+SR-103095,2023-02-13,7,pothole,In Progress,12
+SR-101223,2023-03-13,4,Trash Collection,Open,20
+SR-103053,2023-08-27,7,POTHOLE,closed,26
+SR-102171,2023-09-04,6,Trash Collection,Open,4
+SR-100731,2023-09-05,3,pothole,Resolved,21
+SR-101517,2023-02-26,5,Trash Collection,Open,25
+SR-103383,2023-01-07,8,Illegal Dumping,Resolved,29
+SR-100368,N/A,2,Illegal Dumping,Resolved,24
+SR-102971,2023-03-10,7,Streetlight Out,In Progress,314
+SR-101819,N/A,6,POTHOLE,In Progress,1
+SR-102581,2023-08-08,7,Rodent Inspection,Open,13
+SR-100280,2023-08-09,2,Streetlight Out,Open,12
+SR-100323,2023-07-02,2,Noise Complaint,closed,28
+SR-101430,2023-07-08,5,Illegal Dumping,Closed,28
+SR-102434,N/A,7,Streetlight Out,Resolved,4
+SR-102766,2023-06-11,7,Streetlight Out,Resolved,16
+SR-100943,2023-03-03,4,Pothole,Open,1
+SR-101421,2023-06-13,5,Rodent Inspection,Open,5
+SR-103255,2023-04-03,8,Illegal Dumping,Open,13
+SR-103040,N/A,7,POTHOLE,closed,30
+SR-103096,2023-06-13,7,Pothole,Open,15
+SR-101181,2023-02-07,4,Streetlight Out,Closed,23
+SR-100789,2023-02-26,3,Pothole,In Progress,13
+SR-101620,2023-02-09,,Noise Complaint,Closed,8
+SR-100247,2023-11-24,2,pothole,In Progress,7
+SR-102001,2023-08-12,6,Streetlight Out,closed,22
+SR-103384,N/A,8,Streetlight Out,closed,6
+SR-101657,2023-03-12,5,Rodent Inspection,Closed,6
+SR-101388,,5,Streetlight Out,closed,3
+SR-102269,2023-03-18,6,Streetlight Out,closed,1
+SR-102811,2023-12-16,7,Illegal Dumping,Closed,21
+SR-102234,2023-09-21,6,Noise Complaint,closed,17
+SR-101188,2023-10-28,4,Illegal Dumping,In Progress,5
+SR-102624,2023-11-06,7,POTHOLE,Closed,6
+SR-101328,2023-03-10,5,Noise Complaint,Closed,10
+SR-101316,2023-11-18,5,Trash Collection,Resolved,28
+SR-102040,2023-06-06,6,Noise Complaint,Resolved,27
+SR-101834,2023-10-22,6,Trash Collection,Closed,11
+SR-102476,2023-05-25,7,Trash Collection,Resolved,19
+SR-100661,2023-04-17,3,Illegal Dumping,Closed,29
+SR-100470,2023-03-20,2,Illegal Dumping,Closed,23
+SR-100641,2023-03-08,3,Rodent Inspection,In Progress,17
+SR-101602,2023-03-13,5,Trash Collection,Closed,16
+SR-101711,2023-03-28,5,Noise Complaint,Open,11
+SR-100900,2023-05-07,4,Illegal Dumping,closed,5
+SR-102119,2023-10-12,6,Noise Complaint,Resolved,378
+SR-101742,2023-08-23,5,Rodent Inspection,Open,25
+SR-100748,2023-08-20,3,Pothole,Open,11
+SR-100148,2023-01-04,1,Streetlight Out,Closed,21
+SR-100992,2023-07-28,4,POTHOLE,Resolved,18
+SR-102328,2023-12-06,6,Trash Collection,Open,28
+SR-102020,2023-11-15,6,Trash Collection,closed,8
+SR-100677,2023-10-15,3,Noise Complaint,closed,29
+SR-101227,,4,Pothole,Resolved,2
+SR-100293,2023-06-20,2,Streetlight Out,Open,24
+SR-102202,2023-02-03,6,pothole,closed,26
+SR-103398,2023-06-20,8,Noise Complaint,In Progress,3
+SR-102881,2023-02-19,7,Streetlight Out,In Progress,7
+SR-102799,2023-11-17,7,Pothole,Closed,18
+SR-101345,2023-09-23,5,Pothole,Open,30
+SR-101259,2023-09-14,4,Streetlight Out,Closed,23
+SR-100152,,1,Illegal Dumping,In Progress,26
+SR-101059,2023-10-09,4,Streetlight Out,In Progress,19
+SR-100818,2023-07-23,3,POTHOLE,In Progress,12
+SR-102260,2023-06-28,6,Streetlight Out,Resolved,19
+SR-101409,2023-09-25,5,Trash Collection,In Progress,29
+SR-103160,2023-01-20,8,Noise Complaint,closed,18
+SR-102988,2023-03-27,7,Trash Collection,closed,19
+SR-100777,2023-07-18,3,Trash Collection,In Progress,16
+SR-102127,N/A,6,Illegal Dumping,Open,23
+SR-103374,2023-04-21,8,Trash Collection,Resolved,28
+SR-100841,2023-10-19,3,pothole,Closed,7
+SR-103042,2023-02-16,7,Illegal Dumping,In Progress,26
+SR-101877,2023-07-11,6,Streetlight Out,Resolved,28
+SR-101827,2023-12-05,6,POTHOLE,closed,12
+SR-102437,0000-00-00,7,Illegal Dumping,Resolved,17
+SR-102705,2023-09-13,7,Rodent Inspection,In Progress,11
+SR-103379,2023-07-01,8,Streetlight Out,Open,22
+SR-100351,2023-02-17,2,Streetlight Out,In Progress,18
+SR-102842,2023-05-13,7,Trash Collection,In Progress,8
+SR-102352,2023-08-07,6,Trash Collection,closed,23
+SR-103261,2023-03-28,8,Streetlight Out,Resolved,7
+SR-103193,2023-10-18,8,Illegal Dumping,In Progress,6
+SR-102266,2023-06-02,6,Noise Complaint,closed,3
+SR-101280,,5,Streetlight Out,In Progress,19
+SR-102668,2023-12-28,7,POTHOLE,Closed,2
+SR-100418,2023-09-14,2,Noise Complaint,Closed,24
+SR-101402,2023-06-28,5,Rodent Inspection,Closed,20
+SR-101518,2023-09-15,5,Illegal Dumping,Resolved,15
+SR-103265,2023-11-16,8,Illegal Dumping,closed,30
+SR-100714,2023-10-08,3,Streetlight Out,In Progress,3
+SR-100312,2023-09-01,2,Illegal Dumping,In Progress,1
+SR-101315,2023-12-11,5,POTHOLE,In Progress,10
+SR-101933,2023-04-19,6,Pothole,closed,23
+SR-103321,2023-01-15,8,Rodent Inspection,closed,417
+SR-101717,2023-08-04,5,Rodent Inspection,Closed,15
+SR-101271,2023-05-24,5,Trash Collection,Open,29
+SR-100765,N/A,3,Illegal Dumping,In Progress,10
+SR-101174,2023-11-06,4,Noise Complaint,Closed,30
+SR-101385,2023-12-06,5,Illegal Dumping,In Progress,3
+SR-100635,2023-11-02,3,Trash Collection,In Progress,15
+SR-100636,2023-07-11,3,Streetlight Out,In Progress,19
+SR-103226,2023-04-13,8,Trash Collection,Open,20
+SR-103172,2023-06-22,8,Rodent Inspection,Open,6
+SR-101606,2023-08-21,,pothole,Open,21
+SR-100833,2023-09-21,3,Rodent Inspection,In Progress,6
+SR-100893,2023-03-19,,Streetlight Out,Closed,29
+SR-102271,0000-00-00,6,Streetlight Out,closed,21
+SR-100508,2023-03-26,3,POTHOLE,Closed,17
+SR-100915,2023-11-14,4,Noise Complaint,In Progress,14
+SR-101103,2023-07-11,4,Illegal Dumping,closed,29
+SR-101264,2023-04-26,5,Rodent Inspection,Closed,26
+SR-100098,2023-12-15,1,Rodent Inspection,In Progress,24
+SR-102432,2023-12-10,7,Noise Complaint,Open,21
+SR-100292,0000-00-00,2,pothole,Closed,8
+SR-103329,2023-01-06,8,Illegal Dumping,Open,19
+SR-102167,2023-03-03,6,Noise Complaint,Resolved,11
+SR-101578,2023-01-13,5,Rodent Inspection,Open,25
+SR-100377,,2,Pothole,Resolved,28
+SR-100099,2023-09-06,1,Pothole,Resolved,6
+SR-100852,2023-06-28,3,POTHOLE,Open,21
+SR-100366,2023-03-27,2,Rodent Inspection,In Progress,8
+SR-103004,2023-10-20,7,Streetlight Out,In Progress,28
+SR-100682,2023-04-14,3,Streetlight Out,Resolved,16
+SR-101194,2023-04-09,4,POTHOLE,Resolved,22
+SR-101595,2023-02-13,5,Rodent Inspection,closed,4
+SR-100012,2023-09-04,1,Trash Collection,Closed,2
+SR-102422,2023-11-14,7,Rodent Inspection,Open,16
+SR-101785,2023-12-25,6,Trash Collection,Resolved,14
+SR-102062,2023-04-14,6,POTHOLE,In Progress,1
+SR-100313,2023-02-14,2,pothole,In Progress,1
+SR-100588,2023-07-24,3,Streetlight Out,Closed,21
+SR-101025,2023-12-17,4,Illegal Dumping,Closed,24
+SR-102298,N/A,6,Illegal Dumping,Open,23
+SR-100844,2023-12-03,3,Illegal Dumping,In Progress,30
+SR-101884,2023-11-02,6,POTHOLE,Closed,15
+SR-102195,2023-03-01,6,POTHOLE,Resolved,23
+SR-103000,2023-05-10,7,Noise Complaint,Open,25
+SR-101476,2023-08-20,5,Streetlight Out,Closed,12
+SR-102585,2023-10-26,7,Trash Collection,Resolved,22
+SR-103064,2023-08-01,7,Illegal Dumping,Open,19
+SR-103141,2023-11-19,8,POTHOLE,closed,6
+SR-103262,2023-03-17,8,Streetlight Out,Closed,11
+SR-101573,2023-03-20,,POTHOLE,Resolved,6
+SR-101863,2023-06-03,6,Pothole,Closed,15
+SR-100007,2023-03-11,1,Trash Collection,Open,13
+SR-103182,2023-12-04,,Illegal Dumping,closed,17
+SR-100496,2023-03-05,3,Streetlight Out,Resolved,22
+SR-102327,2023-04-02,6,Rodent Inspection,Closed,13
+SR-100170,2023-08-18,1,Noise Complaint,closed,9
+SR-102330,2023-04-25,6,Pothole,Open,30
+SR-102274,2023-01-26,6,Rodent Inspection,Resolved,14
+SR-102728,2023-06-19,7,pothole,closed,20
+SR-101962,2023-10-25,6,pothole,In Progress,10
+SR-100182,2023-09-18,2,Illegal Dumping,In Progress,22
+SR-100116,2023-08-06,1,Illegal Dumping,Resolved,13
+SR-100287,2023-04-10,2,Noise Complaint,Resolved,5
+SR-101831,2023-01-11,6,Noise Complaint,Open,9
+SR-102937,2023-06-19,7,pothole,Resolved,15
+SR-101482,2023-11-19,5,Streetlight Out,closed,20
+SR-101295,2023-02-10,5,pothole,Resolved,28
+SR-100478,2023-12-26,2,Rodent Inspection,closed,16
+SR-102285,2023-09-25,,Rodent Inspection,In Progress,26
+SR-101709,2023-01-02,5,Noise Complaint,In Progress,21
+SR-102892,2023-12-10,7,Rodent Inspection,In Progress,30
+SR-100475,2023-06-02,2,Rodent Inspection,Closed,29
+SR-103181,2023-01-10,8,Pothole,In Progress,13
+SR-102613,2023-01-27,7,Illegal Dumping,In Progress,29
+SR-102414,2023-07-10,7,Illegal Dumping,Closed,18
+SR-100040,2023-12-20,1,Rodent Inspection,Resolved,17
+SR-102633,2023-08-19,7,Streetlight Out,Closed,23
+SR-102583,2023-03-09,7,Streetlight Out,In Progress,23
+SR-100279,2023-11-16,2,Rodent Inspection,Closed,22
+SR-103271,2023-06-10,8,POTHOLE,Resolved,25
+SR-102010,,6,pothole,Closed,19
+SR-101660,2023-09-26,5,POTHOLE,Resolved,17
+SR-101558,2023-10-25,5,Streetlight Out,Closed,16
+SR-101419,2023-09-26,5,Streetlight Out,Closed,2
+SR-102780,2023-08-13,7,Illegal Dumping,In Progress,30
+SR-100803,2023-06-27,3,Noise Complaint,In Progress,3
+SR-100079,2023-03-26,1,Streetlight Out,closed,25
+SR-102803,2023-12-13,7,pothole,Closed,22
+SR-102271,0000-00-00,6,Streetlight Out,closed,21
+SR-100511,,3,Streetlight Out,closed,22
+SR-101652,2023-01-12,5,Trash Collection,Open,3
+SR-102198,2023-10-21,6,Illegal Dumping,closed,28
+SR-102044,2023-05-15,6,Rodent Inspection,closed,26
+SR-102430,2023-01-26,7,pothole,Open,15
+SR-102966,2023-07-08,7,Trash Collection,Resolved,23
+SR-100545,2023-07-24,3,Illegal Dumping,closed,3
+SR-100941,2023-08-10,4,Illegal Dumping,closed,22
+SR-100357,2023-12-04,2,Noise Complaint,Resolved,13
+SR-101460,2023-11-14,5,Rodent Inspection,Open,19
+SR-102154,2023-07-04,6,Noise Complaint,In Progress,29
+SR-102424,2023-07-05,7,pothole,Open,22
+SR-101444,2023-12-10,5,Rodent Inspection,Resolved,8
+SR-101634,2023-12-10,5,POTHOLE,Open,30
+SR-103360,2023-04-18,8,pothole,Resolved,16
+SR-102379,2023-08-08,6,Illegal Dumping,Open,7
+SR-101704,0000-00-00,5,POTHOLE,In Progress,14
+SR-101729,2023-04-18,5,Trash Collection,Resolved,11
+SR-101344,2023-07-21,5,pothole,closed,14
+SR-102303,2023-10-13,6,Trash Collection,Closed,24
+SR-102888,2023-01-13,7,Illegal Dumping,Resolved,7
+SR-100570,2023-10-16,3,Streetlight Out,Open,15
+SR-102129,2023-05-05,6,Noise Complaint,closed,24
+SR-100178,2023-10-26,1,Illegal Dumping,Closed,17
+SR-101504,2023-07-19,5,Streetlight Out,Resolved,5
+SR-102657,2023-01-23,7,Noise Complaint,In Progress,386
+SR-102411,2023-02-10,,Pothole,Closed,24
+SR-100160,2023-02-06,1,Noise Complaint,closed,24
+SR-100795,2023-02-08,3,POTHOLE,Closed,12
+SR-100124,2023-10-14,1,Pothole,In Progress,21
+SR-103102,2023-01-16,7,POTHOLE,closed,14
+SR-101362,2023-01-05,5,Illegal Dumping,Resolved,21
+SR-100909,2023-04-23,4,Rodent Inspection,Closed,26
+SR-103415,2023-12-25,8,Trash Collection,In Progress,23
+SR-102716,0000-00-00,7,POTHOLE,Closed,17
+SR-101617,2023-06-06,5,Trash Collection,In Progress,26
+SR-101889,2023-11-19,6,pothole,Resolved,21
+SR-102148,2023-10-18,6,Illegal Dumping,In Progress,21
+SR-100317,2023-05-21,2,Trash Collection,Open,7
+SR-102249,2023-05-02,6,Trash Collection,In Progress,785
+SR-100982,2023-04-23,4,Noise Complaint,closed,30
+SR-102362,2023-01-24,6,pothole,closed,10
+SR-101886,2023-01-02,6,pothole,In Progress,17
+SR-100142,2023-05-23,1,Trash Collection,Resolved,29
+SR-100676,2023-04-02,3,Pothole,Closed,12
+SR-100045,2023-11-21,1,Rodent Inspection,closed,18
+SR-100447,2023-01-04,2,POTHOLE,Closed,5
+SR-100768,2023-05-25,3,pothole,In Progress,1
+SR-102150,2023-12-16,6,Trash Collection,In Progress,14
+SR-100689,2023-05-24,3,Noise Complaint,Open,5
+SR-100889,2023-09-11,3,Pothole,Closed,4
+SR-102381,2023-06-02,,Illegal Dumping,closed,4
+SR-101526,2023-07-16,5,Illegal Dumping,Closed,14
+SR-101164,2023-12-10,4,Trash Collection,Open,2
+SR-102557,2023-04-22,7,Illegal Dumping,Open,7
+SR-101780,2023-07-05,6,Trash Collection,Resolved,4
+SR-102508,2023-03-27,7,Streetlight Out,Open,2
+SR-102199,2023-05-14,6,Illegal Dumping,Closed,12
+SR-101060,2023-01-12,4,Trash Collection,In Progress,11
+SR-101197,2023-08-19,4,Rodent Inspection,In Progress,23
+SR-100842,2023-10-10,3,Noise Complaint,closed,29
+SR-102242,2023-08-26,,pothole,Closed,14
+SR-101627,2023-11-17,5,POTHOLE,Resolved,26
+SR-101239,2023-04-01,4,POTHOLE,Closed,1
+SR-101070,2023-12-09,4,Streetlight Out,Open,11
+SR-101034,2023-03-20,4,pothole,closed,12
+SR-101881,2023-02-19,6,Streetlight Out,Open,11
+SR-101790,2023-01-27,6,Illegal Dumping,Closed,17
+SR-102239,2023-08-05,6,Trash Collection,closed,6
+SR-100517,2023-03-11,3,pothole,In Progress,19
+SR-101542,2023-02-06,5,Illegal Dumping,In Progress,2
+SR-100573,2023-02-16,3,Noise Complaint,Open,7
+SR-100374,2023-09-02,2,Streetlight Out,Closed,9
+SR-103274,2023-10-27,8,Illegal Dumping,Resolved,12
+SR-101600,2023-06-21,5,Rodent Inspection,Open,7
+SR-101033,2023-04-15,4,Trash Collection,In Progress,11
+SR-102924,2023-04-05,7,Trash Collection,In Progress,17
+SR-102383,2023-08-13,,Noise Complaint,In Progress,575
+SR-101307,2023-12-13,5,Pothole,closed,28
+SR-101697,2023-12-18,5,Illegal Dumping,Resolved,15
+SR-102915,2023-09-05,7,Trash Collection,closed,25
+SR-100161,2023-01-01,1,Trash Collection,In Progress,25
+SR-102394,2023-10-13,6,Pothole,closed,2
+SR-101986,2023-07-24,6,Trash Collection,Resolved,17
+SR-103298,2023-11-08,8,Pothole,In Progress,10
+SR-103301,2023-05-28,8,Noise Complaint,Open,6
+SR-102841,2023-04-22,7,pothole,Open,11
+SR-103109,2023-04-04,7,POTHOLE,Resolved,7
+SR-102093,2023-03-03,6,Trash Collection,closed,20
+SR-100224,2023-06-14,2,pothole,Closed,15
+SR-101642,2023-02-09,5,pothole,Resolved,22
+SR-101095,2023-09-10,4,Streetlight Out,Open,21
+SR-102978,2023-10-02,7,Streetlight Out,Open,29
+SR-100103,2023-04-01,1,Illegal Dumping,Closed,13
+SR-101294,2023-06-28,5,Streetlight Out,closed,22
+SR-102848,2023-02-02,7,Trash Collection,Open,24
+SR-100171,2023-07-02,1,Rodent Inspection,In Progress,30
+SR-100457,2023-08-03,2,Illegal Dumping,Resolved,29
+SR-102456,2023-03-26,7,Streetlight Out,closed,24
+SR-103084,2023-10-12,7,Streetlight Out,Resolved,26
+SR-102538,2023-01-07,7,Rodent Inspection,Open,19
+SR-100115,2023-03-03,1,Rodent Inspection,Closed,19
+SR-100699,2023-01-27,3,Streetlight Out,Resolved,27
+SR-100616,2023-08-07,3,Rodent Inspection,closed,16
+SR-100250,2023-03-25,2,Illegal Dumping,Closed,2
+SR-102746,2023-09-12,7,Pothole,In Progress,5
+SR-101372,2023-08-11,5,Streetlight Out,Open,21
+SR-100432,2023-04-20,2,Streetlight Out,Open,16
+SR-103048,2023-09-22,7,Illegal Dumping,Open,556
+SR-101964,2023-07-11,6,Noise Complaint,closed,4
+SR-103393,,8,Noise Complaint,Closed,8
+SR-102259,2023-10-28,6,Rodent Inspection,Open,9
+SR-101219,2023-06-11,4,Noise Complaint,In Progress,2
+SR-103192,2023-11-16,8,Noise Complaint,Open,24
+SR-101895,2023-07-16,6,pothole,Closed,24
+SR-102403,2023-07-22,7,Streetlight Out,Open,8
+SR-102076,2023-06-22,6,Trash Collection,Resolved,8
+SR-100296,2023-05-20,2,Streetlight Out,Open,14
+SR-101677,2023-08-03,5,Illegal Dumping,Closed,6
+SR-100284,2023-09-23,2,Trash Collection,closed,5
+SR-102829,2023-04-07,7,pothole,closed,23
+SR-102023,2023-02-10,6,Noise Complaint,Closed,12
+SR-101423,2023-10-14,5,Illegal Dumping,Closed,21
+SR-101644,0000-00-00,5,Pothole,Resolved,19
+SR-101859,2023-06-20,6,POTHOLE,closed,16
+SR-101667,2023-05-10,5,Illegal Dumping,In Progress,16
+SR-101970,2023-05-14,6,Trash Collection,closed,22
+SR-100485,N/A,3,Streetlight Out,In Progress,11
+SR-101061,2023-10-27,4,Noise Complaint,closed,14
+SR-103211,2023-02-24,8,Streetlight Out,In Progress,12
+SR-102951,2023-04-26,7,Pothole,Closed,1
+SR-102363,2023-07-22,6,Illegal Dumping,In Progress,30
+SR-102311,2023-05-11,6,Trash Collection,Open,17
+SR-100120,2023-08-13,1,Illegal Dumping,In Progress,18
+SR-101291,2023-05-02,5,Illegal Dumping,In Progress,21
+SR-100906,2023-05-05,4,Illegal Dumping,Closed,13
+SR-102980,2023-05-25,7,pothole,In Progress,28
+SR-101892,2023-11-14,6,Illegal Dumping,Open,21
+SR-102190,2023-10-22,6,Illegal Dumping,closed,18
+SR-101159,2023-06-18,4,Streetlight Out,Closed,5
+SR-101093,,4,Trash Collection,Open,16
+SR-101155,2023-12-25,4,POTHOLE,Closed,22
+SR-102428,2023-08-07,7,pothole,closed,6
+SR-101570,2023-12-14,5,Illegal Dumping,In Progress,3
+SR-100594,0000-00-00,3,Trash Collection,In Progress,27
+SR-101422,2023-11-17,5,Illegal Dumping,Open,15
+SR-102255,2023-12-01,6,pothole,Open,28
+SR-101495,2023-04-24,5,Streetlight Out,Resolved,9
+SR-102930,2023-08-24,7,Trash Collection,Resolved,11
+SR-102491,2023-03-27,7,Rodent Inspection,Open,6
+SR-101407,2023-07-25,5,Streetlight Out,Closed,5
+SR-101355,2023-03-10,5,Streetlight Out,closed,29
+SR-103001,2023-12-26,7,Trash Collection,Resolved,16
+SR-101413,2023-12-25,5,Noise Complaint,Closed,26
+SR-101063,2023-05-21,4,Streetlight Out,Open,21
+SR-100307,2023-06-28,2,Streetlight Out,Closed,21
+SR-102210,2023-01-12,6,POTHOLE,Resolved,3
+SR-101618,2023-01-14,5,Pothole,Resolved,11
+SR-101100,2023-05-19,4,Trash Collection,Closed,19
+SR-101732,2023-04-04,,Rodent Inspection,closed,2
+SR-100820,2023-04-26,3,pothole,Closed,12
+SR-101230,2023-08-28,4,Rodent Inspection,Closed,14
+SR-102382,0000-00-00,6,Illegal Dumping,In Progress,791
+SR-102287,2023-06-23,6,POTHOLE,Resolved,1
+SR-103361,2023-07-10,,Illegal Dumping,Closed,12
+SR-101110,2023-06-05,4,Streetlight Out,Closed,22
+SR-101152,2023-08-03,4,Trash Collection,Open,8
+SR-102802,2023-07-05,7,Illegal Dumping,Closed,22
+SR-100608,2023-08-19,3,Trash Collection,Open,9
+SR-101268,2023-04-04,5,Rodent Inspection,In Progress,23
+SR-100673,2023-05-22,3,Trash Collection,closed,12
+SR-102796,2023-02-09,7,Streetlight Out,Open,18
+SR-101615,2023-02-22,5,Trash Collection,Open,9
+SR-102540,2023-11-25,7,Illegal Dumping,closed,19
+SR-102392,2023-08-28,6,Noise Complaint,Open,19
+SR-100551,2023-01-24,3,Streetlight Out,In Progress,29
+SR-101185,2023-09-21,4,Pothole,Closed,16
+SR-100526,2023-02-05,3,Streetlight Out,Closed,696
+SR-103158,2023-02-20,8,Illegal Dumping,closed,23
+SR-103357,2023-09-28,8,Rodent Inspection,Closed,29
+SR-100000,2023-10-07,1,Illegal Dumping,Open,8
+SR-101266,2023-07-01,5,Illegal Dumping,closed,25
+SR-102465,2023-07-11,7,Illegal Dumping,Open,17
+SR-101286,2023-02-14,5,Trash Collection,Closed,2
+SR-103065,,7,Streetlight Out,In Progress,1
+SR-101096,2023-04-11,,Streetlight Out,In Progress,27
+SR-100188,2023-03-10,2,Illegal Dumping,Open,16
+SR-100639,2023-01-24,3,pothole,Resolved,719
+SR-101118,2023-06-02,4,Illegal Dumping,Resolved,29
+SR-102180,2023-05-21,6,Rodent Inspection,Resolved,29
+SR-102875,2023-10-19,7,Streetlight Out,closed,19
+SR-100583,2023-05-18,3,Illegal Dumping,Open,13
+SR-102216,2023-04-06,6,Trash Collection,Resolved,23
+SR-102774,2023-06-25,7,pothole,Resolved,29
+SR-103203,2023-12-15,8,Trash Collection,In Progress,9
+SR-101664,2023-09-19,5,pothole,closed,14
+SR-101082,2023-04-17,4,Noise Complaint,In Progress,5
+SR-100392,2023-07-21,2,Illegal Dumping,Closed,28
+SR-101017,2023-08-10,4,Trash Collection,Closed,13
+SR-101190,2023-01-01,4,Noise Complaint,Open,10
+SR-102755,2023-11-02,7,Pothole,Closed,22
+SR-100257,2023-04-28,2,Trash Collection,Resolved,28
+SR-102894,2023-08-21,7,Noise Complaint,Open,2
+SR-101454,2023-08-11,5,Rodent Inspection,Closed,29
+SR-102366,2023-03-21,6,POTHOLE,closed,9
+SR-100725,2023-01-16,3,Illegal Dumping,Resolved,22
+SR-101942,2023-11-17,6,pothole,Closed,27
+SR-103166,2023-10-14,8,Illegal Dumping,Resolved,26
+SR-100394,2023-11-10,2,Pothole,Closed,26
+SR-102090,2023-06-24,6,Rodent Inspection,closed,26
+SR-102423,2023-03-16,7,pothole,closed,30
+SR-101585,2023-06-08,5,Illegal Dumping,Resolved,24
+SR-102693,2023-04-26,7,Noise Complaint,In Progress,22
+SR-100249,2023-04-15,2,POTHOLE,In Progress,29
+SR-101733,2023-10-21,5,Streetlight Out,closed,9
+SR-102579,2023-08-26,7,Rodent Inspection,Closed,19
+SR-102049,2023-09-09,6,POTHOLE,Resolved,30
+SR-100954,2023-12-23,4,POTHOLE,closed,1
+SR-103023,2023-03-01,7,pothole,Open,17
+SR-101702,2023-07-15,5,Rodent Inspection,Open,24
+SR-101075,2023-03-25,4,pothole,In Progress,14
+SR-102314,2023-09-24,6,Illegal Dumping,Closed,4
+SR-100503,2023-02-08,3,Noise Complaint,Closed,27
+SR-101247,2023-12-18,4,Illegal Dumping,In Progress,24
+SR-100167,2023-03-07,1,Noise Complaint,Open,12
+SR-103040,N/A,7,POTHOLE,closed,30
+SR-101970,2023-05-14,6,Trash Collection,closed,22
+SR-100129,2023-03-24,1,POTHOLE,closed,11
+SR-100300,2023-03-22,2,Illegal Dumping,Open,23
+SR-100448,2023-01-24,2,pothole,In Progress,19
+SR-100860,2023-11-28,3,Trash Collection,Open,5
+SR-101720,,5,Streetlight Out,Resolved,3
+SR-101429,2023-10-10,5,Noise Complaint,Resolved,692
+SR-101365,2023-02-01,5,POTHOLE,In Progress,3
+SR-100384,2023-02-12,2,Trash Collection,closed,8
+SR-100126,2023-07-07,1,pothole,In Progress,3
+SR-103278,2023-02-02,8,Trash Collection,Closed,4
+SR-102883,2023-05-23,7,Noise Complaint,Closed,11
+SR-102941,2023-08-18,7,Rodent Inspection,Open,25
+SR-102039,2023-09-15,6,Streetlight Out,closed,27
+SR-102731,2023-08-25,7,Pothole,Resolved,10
+SR-102636,2023-04-23,7,pothole,In Progress,10
+SR-102962,2023-05-03,7,Illegal Dumping,Closed,13
+SR-101042,2023-03-26,4,POTHOLE,Open,604
+SR-100637,2023-03-10,3,POTHOLE,Resolved,6
+SR-103092,2023-01-16,7,Illegal Dumping,Closed,6
+SR-102549,2023-02-08,7,Streetlight Out,closed,15
+SR-103389,2023-12-14,8,Streetlight Out,Closed,4
+SR-101534,2023-10-02,5,Illegal Dumping,Closed,14
+SR-102993,2023-06-16,7,Trash Collection,Resolved,2
+SR-102065,2023-04-19,6,Pothole,Resolved,28
+SR-101944,2023-08-07,6,Illegal Dumping,Resolved,3
+SR-100397,2023-01-24,,Rodent Inspection,In Progress,20
+SR-100680,2023-06-26,3,Rodent Inspection,Closed,20
+SR-101857,2023-04-09,6,Trash Collection,closed,12
+SR-102264,2023-11-23,6,Trash Collection,Resolved,19
+SR-100743,2023-12-22,3,Trash Collection,Open,7
+SR-101451,2023-03-11,5,Streetlight Out,Closed,7
+SR-102800,2023-05-08,7,Rodent Inspection,Open,8
+SR-101049,2023-06-08,4,Illegal Dumping,closed,23
+SR-100128,2023-09-23,1,Pothole,Open,21
+SR-100391,2023-02-08,2,Noise Complaint,Open,4
+SR-100004,2023-10-06,1,POTHOLE,In Progress,8
+SR-102012,2023-10-15,6,Noise Complaint,closed,16
+SR-102440,2023-01-01,7,Trash Collection,Closed,6
+SR-102192,,6,Trash Collection,Resolved,19
+SR-100262,2023-06-15,2,Trash Collection,Closed,11
+SR-100458,2023-11-18,2,Trash Collection,Open,28
+SR-100621,2023-06-26,3,Trash Collection,In Progress,24
+SR-102159,2023-10-27,6,Trash Collection,closed,19
+SR-101593,2023-02-03,5,Illegal Dumping,closed,12
+SR-102813,2023-05-17,,Rodent Inspection,Closed,7
+SR-102972,2023-05-15,7,Trash Collection,Open,25
+SR-102810,2023-10-20,7,Noise Complaint,closed,9
+SR-100207,2023-11-10,,Trash Collection,Resolved,18
+SR-100849,2023-11-01,3,Illegal Dumping,Resolved,11
+SR-102293,2023-03-12,6,Streetlight Out,Open,25
+SR-103188,2023-11-23,8,Rodent Inspection,Resolved,747
+SR-100582,2023-08-23,3,pothole,Resolved,23
+SR-100908,2023-05-19,4,Noise Complaint,closed,4
+SR-102923,2023-09-14,7,Rodent Inspection,closed,24
+SR-101327,2023-03-21,5,Illegal Dumping,In Progress,20
+SR-101853,2023-12-18,6,Illegal Dumping,In Progress,9
+SR-102184,2023-12-27,6,pothole,In Progress,6
+SR-100879,2023-07-05,3,Illegal Dumping,Open,2
+SR-101157,2023-10-10,4,Noise Complaint,closed,28
+SR-101907,2023-12-19,6,Rodent Inspection,Closed,4
+SR-100290,2023-02-10,2,Streetlight Out,Closed,23
+SR-100823,2023-01-23,3,Noise Complaint,Closed,28
+SR-100848,2023-12-15,3,Streetlight Out,closed,11
+SR-100733,2023-03-21,3,Illegal Dumping,Closed,9
+SR-103080,2023-08-27,7,Rodent Inspection,closed,1
+SR-102420,2023-04-22,7,Noise Complaint,In Progress,799
+SR-102299,N/A,6,Illegal Dumping,In Progress,9
+SR-100885,2023-04-23,3,Illegal Dumping,Resolved,4
+SR-100828,2023-04-07,3,Streetlight Out,Open,2
+SR-101254,2023-09-11,4,Trash Collection,Open,10
+SR-103009,2023-10-23,7,Illegal Dumping,In Progress,19
+SR-100201,2023-04-02,2,pothole,Closed,14
+SR-102806,2023-02-27,7,Pothole,Open,20
+SR-100886,2023-08-10,3,Illegal Dumping,closed,8
+SR-100651,N/A,3,Trash Collection,In Progress,14
+SR-100028,2023-02-22,1,Rodent Inspection,Resolved,4
+SR-102083,2023-10-15,6,Streetlight Out,Closed,25
+SR-101516,2023-12-02,5,Rodent Inspection,Resolved,15
+SR-102511,2023-08-05,7,pothole,Resolved,22
+SR-100967,2023-05-14,4,pothole,closed,20
+SR-102965,2023-04-24,7,pothole,closed,4
+SR-102188,2023-07-28,6,Noise Complaint,Closed,10
+SR-101695,2023-10-24,5,Pothole,Open,14
+SR-103416,2023-07-17,8,Pothole,Open,14
+SR-102376,2023-01-19,6,Trash Collection,closed,18
+SR-100412,2023-07-14,2,Streetlight Out,Closed,19
+SR-102319,2023-12-26,6,Illegal Dumping,In Progress,16
+SR-101043,2023-12-22,4,Illegal Dumping,Closed,7
+SR-102840,2023-04-10,7,Trash Collection,closed,10
+SR-103183,2023-02-25,8,Noise Complaint,closed,13
+SR-103175,2023-04-13,8,Noise Complaint,In Progress,23
+SR-101325,2023-10-16,5,Pothole,Resolved,26
+SR-102364,2023-05-01,6,pothole,closed,10
+SR-100081,2023-02-24,1,Trash Collection,Open,3
+SR-101184,2023-09-26,4,Trash Collection,In Progress,25
+SR-101006,2023-10-19,4,Pothole,In Progress,26
+SR-100727,2023-04-28,3,Rodent Inspection,Open,6
+SR-102312,2023-02-10,6,Streetlight Out,In Progress,2
+SR-100101,2023-07-13,1,Noise Complaint,Closed,30
+SR-100241,2023-03-24,2,POTHOLE,In Progress,21
+SR-101679,N/A,5,Noise Complaint,Open,2
+SR-102823,2023-03-20,7,Streetlight Out,Open,12
+SR-101353,2023-01-14,5,pothole,Open,21
+SR-100853,2023-03-23,3,Pothole,Closed,9
+SR-102958,2023-07-13,7,pothole,Closed,7
+SR-103186,2023-12-17,8,Noise Complaint,Resolved,18
+SR-100379,2023-08-27,2,Streetlight Out,Closed,23
+SR-101463,2023-08-27,5,Pothole,Open,8
+SR-103227,2023-12-01,8,Illegal Dumping,In Progress,1
+SR-102645,,7,Trash Collection,In Progress,15
+SR-102967,,7,Noise Complaint,Closed,30
+SR-100022,2023-07-21,1,Rodent Inspection,Closed,3
+SR-101205,2023-02-01,4,Streetlight Out,Resolved,20
+SR-101117,2023-05-09,4,Trash Collection,Closed,18
+SR-100671,2023-08-03,3,Rodent Inspection,Resolved,3
+SR-100610,2023-10-09,3,POTHOLE,In Progress,19
+SR-102756,2023-04-27,7,pothole,Resolved,19
+SR-100356,2023-08-28,2,Streetlight Out,closed,7
+SR-101016,2023-09-27,4,Pothole,closed,18
+SR-100218,2023-07-26,2,Noise Complaint,Closed,11
+SR-101094,2023-09-25,4,Trash Collection,Resolved,15
+SR-102620,2023-12-13,7,pothole,Open,19
+SR-102461,2023-09-14,7,Illegal Dumping,Open,28
+SR-100671,2023-08-03,3,Rodent Inspection,Resolved,3
+SR-100179,2023-08-24,1,Trash Collection,In Progress,4
+SR-101609,2023-06-26,5,POTHOLE,Open,12
+SR-100779,2023-10-23,3,pothole,Closed,17
+SR-100071,2023-04-25,1,Rodent Inspection,Open,18
+SR-102103,2023-09-14,6,POTHOLE,closed,16
+SR-101068,2023-07-09,4,POTHOLE,In Progress,13
+SR-100793,2023-03-09,3,Trash Collection,Closed,5
+SR-102890,2023-11-24,7,pothole,Open,26
+SR-102493,2023-03-21,7,pothole,Resolved,3
+SR-102604,2023-10-24,7,Trash Collection,Resolved,16
+SR-100341,2023-03-02,2,POTHOLE,In Progress,15
+SR-101990,2023-12-25,6,Streetlight Out,Open,12
+SR-100695,2023-11-24,3,Noise Complaint,Resolved,1
+SR-100361,2023-03-24,2,POTHOLE,Closed,28
+SR-100492,2023-12-11,3,Illegal Dumping,Open,20
+SR-101960,2023-07-02,6,Pothole,closed,6
+SR-102675,2023-08-16,7,Trash Collection,Closed,26
+SR-101018,2023-10-22,4,Trash Collection,Closed,1
+SR-102073,2023-11-13,6,POTHOLE,closed,18
+SR-101377,2023-03-25,5,Illegal Dumping,Resolved,18
+SR-100091,2023-08-03,1,Rodent Inspection,closed,21
+SR-103035,2023-11-23,7,pothole,Open,6
+SR-100952,2023-07-07,4,Streetlight Out,In Progress,14
+SR-100269,2023-08-02,2,POTHOLE,In Progress,668
+SR-101678,2023-01-15,5,pothole,In Progress,9
+SR-103325,2023-04-24,8,Streetlight Out,Resolved,6
+SR-103250,2023-03-23,8,Pothole,Open,16
+SR-101493,2023-06-01,5,Illegal Dumping,closed,30
+SR-102529,2023-09-24,7,Noise Complaint,closed,2
+SR-102390,2023-12-18,6,Streetlight Out,In Progress,9
+SR-102275,2023-10-12,6,Illegal Dumping,Closed,10
+SR-102968,2023-08-19,7,Rodent Inspection,Resolved,10
+SR-102341,2023-05-05,6,Streetlight Out,In Progress,30
+SR-100679,2023-11-07,3,Noise Complaint,Closed,22
+SR-100693,2023-02-06,3,Streetlight Out,Closed,20
+SR-101120,2023-12-22,4,Rodent Inspection,Open,17
+SR-102396,2023-01-07,6,Trash Collection,closed,28
+SR-101207,2023-12-16,4,Pothole,closed,2
+SR-102959,2023-12-21,,POTHOLE,Open,13
+SR-103305,2023-06-15,8,Illegal Dumping,Closed,606
+SR-102185,2023-04-20,6,pothole,In Progress,15
+SR-101478,2023-12-08,5,Rodent Inspection,closed,12
+SR-102512,2023-12-23,7,POTHOLE,closed,10
+SR-102763,2023-11-07,7,pothole,Open,7
+SR-103198,2023-03-18,8,Illegal Dumping,closed,17
+SR-102306,2023-07-14,6,Pothole,closed,2
+SR-101982,2023-03-06,6,Streetlight Out,Closed,29
+SR-102378,2023-04-25,6,Rodent Inspection,closed,22
+SR-101529,2023-04-05,5,Trash Collection,Resolved,21
+SR-100773,2023-01-27,3,POTHOLE,Resolved,26
+SR-101544,2023-08-20,5,Pothole,closed,1
+SR-101767,2023-05-05,6,Illegal Dumping,closed,28
+SR-101235,2023-04-15,4,POTHOLE,Closed,21
+SR-101334,2023-09-21,5,Noise Complaint,In Progress,10
+SR-102712,2023-06-22,7,Noise Complaint,Resolved,1
+SR-100219,2023-11-21,2,Trash Collection,Open,13
+SR-103088,,7,Streetlight Out,In Progress,25
+SR-103031,2023-01-12,7,Noise Complaint,Open,7
+SR-102914,2023-08-03,7,Rodent Inspection,In Progress,7
+SR-100348,2023-01-12,2,Streetlight Out,Resolved,29
+SR-102338,2023-04-01,6,pothole,closed,20
+SR-100784,2023-06-01,3,Rodent Inspection,closed,13
+SR-102388,2023-01-13,6,Noise Complaint,Closed,26
+SR-103050,2023-05-24,7,pothole,In Progress,17
+SR-100723,0000-00-00,3,Illegal Dumping,Closed,3
+SR-102471,2023-08-01,7,pothole,Closed,605
+SR-101588,,5,Streetlight Out,Resolved,29
+SR-101974,2023-04-17,6,Streetlight Out,closed,26
+SR-101864,2023-07-16,6,pothole,closed,18
+SR-102348,2023-10-09,6,Illegal Dumping,Closed,17
+SR-102683,2023-06-11,7,Trash Collection,Closed,12
+SR-102647,2023-09-11,7,Rodent Inspection,Closed,17
+SR-101166,2023-04-11,4,Illegal Dumping,Open,7
+SR-102151,2023-08-08,6,Trash Collection,Resolved,13
+SR-103070,2023-12-21,7,pothole,Open,13
+SR-102297,,6,Illegal Dumping,closed,12
+SR-100482,2023-08-07,3,Illegal Dumping,Closed,2
+SR-102077,2023-05-08,6,Noise Complaint,Open,1
+SR-101803,2023-06-09,6,Noise Complaint,Closed,26
+SR-101260,2023-06-11,,Trash Collection,Open,25
+SR-101100,2023-05-19,4,Trash Collection,Closed,19
+SR-101866,2023-05-07,6,Illegal Dumping,Open,15
+SR-100078,2023-03-05,1,Rodent Inspection,Resolved,1
+SR-100305,,2,pothole,Closed,11
+SR-100066,2023-01-15,1,Trash Collection,Closed,9
+SR-101935,2023-10-02,6,Noise Complaint,In Progress,10
+SR-101501,2023-08-27,5,Streetlight Out,Resolved,20
+SR-100367,2023-05-20,2,Rodent Inspection,Closed,4
+SR-102908,2023-02-03,7,pothole,Closed,16
+SR-102700,2023-09-25,7,pothole,In Progress,25
+SR-102989,2023-04-11,7,Rodent Inspection,Open,13
+SR-100775,2023-04-01,3,Rodent Inspection,Resolved,21
+SR-102237,2023-01-08,6,pothole,closed,11
+SR-101379,2023-04-23,5,Rodent Inspection,Resolved,1
+SR-101234,2023-08-24,4,Pothole,Open,7
+SR-101055,2023-12-28,4,Illegal Dumping,Closed,13
+SR-101252,0000-00-00,4,Illegal Dumping,Resolved,24
+SR-101650,2023-11-16,5,pothole,closed,6
+SR-100580,2023-02-03,3,POTHOLE,Open,9
+SR-101486,2023-12-06,5,Rodent Inspection,Closed,18
+SR-100500,2023-01-12,,pothole,Closed,25
+SR-102534,2023-06-03,7,Streetlight Out,Closed,5
+SR-101758,2023-09-15,5,Pothole,Resolved,6
+SR-101580,2023-03-08,5,pothole,In Progress,5
+SR-100316,2023-07-04,2,Illegal Dumping,closed,10
+SR-100107,2023-07-17,1,Trash Collection,Closed,20
+SR-101457,2023-02-18,5,Streetlight Out,closed,20
+SR-101306,2023-02-16,5,pothole,Open,19
+SR-101734,2023-07-21,5,POTHOLE,Resolved,509
+SR-100443,2023-04-04,2,Trash Collection,Closed,19
+SR-102568,2023-12-21,7,Illegal Dumping,Resolved,23
+SR-102030,2023-01-23,6,Streetlight Out,In Progress,18
+SR-103223,2023-03-16,,Streetlight Out,Open,6
+SR-101023,0000-00-00,4,Illegal Dumping,Open,17
+SR-101598,2023-05-18,5,Rodent Inspection,In Progress,29
+SR-100619,2023-06-17,3,Pothole,Resolved,15
+SR-102490,2023-07-21,7,Streetlight Out,Closed,10
+SR-102070,2023-11-27,6,Rodent Inspection,closed,10
+SR-100963,2023-12-09,4,Streetlight Out,Open,2
+SR-100285,2023-05-13,2,Streetlight Out,Closed,21
+SR-102280,2023-09-17,6,POTHOLE,closed,25
+SR-100276,2023-02-22,2,Illegal Dumping,Open,6
+SR-102569,2023-09-22,7,Illegal Dumping,In Progress,343
+SR-101531,0000-00-00,5,Streetlight Out,Open,6
+SR-101611,2023-04-12,5,pothole,Open,28
+SR-103331,2023-11-01,8,POTHOLE,In Progress,22
+SR-103406,2023-02-05,8,Noise Complaint,In Progress,11
+SR-102760,2023-05-16,7,pothole,Closed,29
+SR-100919,2023-12-11,4,Illegal Dumping,Resolved,2
+SR-101647,2023-05-28,5,Pothole,In Progress,7
+SR-102372,2023-06-19,6,Pothole,Closed,10
+SR-100286,2023-09-18,2,Noise Complaint,closed,23
+SR-100168,2023-06-15,1,Streetlight Out,Open,5
+SR-102558,2023-04-17,7,Illegal Dumping,In Progress,7
+SR-101044,2023-12-26,4,Noise Complaint,In Progress,1
+SR-101634,2023-12-10,5,POTHOLE,Open,30
+SR-103132,2023-10-27,8,Illegal Dumping,closed,548
+SR-102122,2023-10-24,6,Illegal Dumping,In Progress,2
+SR-102156,2023-11-08,6,Streetlight Out,Open,3
+SR-101761,2023-10-08,6,POTHOLE,Closed,19
+SR-100403,2023-02-12,2,Pothole,Open,23
+SR-101278,2023-04-21,5,Illegal Dumping,In Progress,326
+SR-102440,2023-01-01,7,Trash Collection,Closed,6
+SR-100299,2023-07-19,2,Streetlight Out,Resolved,23
+SR-102183,2023-01-25,6,Streetlight Out,Resolved,4
+SR-100439,2023-08-05,2,Noise Complaint,Closed,29
+SR-103074,2023-09-06,7,Trash Collection,Resolved,17
+SR-102314,2023-09-24,6,Illegal Dumping,Closed,4
+SR-103359,2023-06-14,8,Trash Collection,closed,8
+SR-101391,2023-04-10,,Illegal Dumping,closed,26
+SR-102763,2023-11-07,7,pothole,Open,7
+SR-102241,2023-04-02,6,Noise Complaint,Open,13
+SR-102408,2023-05-20,7,Noise Complaint,Closed,1
+SR-100771,2023-03-24,3,Noise Complaint,In Progress,28
+SR-102021,,6,Streetlight Out,closed,3
+SR-101136,2023-07-22,4,pothole,Open,4
+SR-102180,2023-05-21,6,Rodent Inspection,Resolved,29
+SR-101510,2023-05-20,5,Illegal Dumping,closed,26
+SR-100145,2023-07-26,1,Streetlight Out,Open,17
+SR-100025,2023-02-19,1,Streetlight Out,Resolved,27
+SR-101226,2023-02-15,4,POTHOLE,In Progress,12
+SR-100571,2023-08-12,3,Noise Complaint,In Progress,17
+SR-101026,2023-04-11,4,Pothole,Resolved,20
+SR-100355,2023-12-24,2,Rodent Inspection,Closed,21
+SR-100984,2023-12-23,4,Illegal Dumping,Closed,4
+SR-100264,2023-04-06,2,Rodent Inspection,In Progress,13
+SR-103164,2023-01-24,8,Noise Complaint,Resolved,1
+SR-101492,2023-08-20,5,Rodent Inspection,Open,7
+SR-100544,2023-03-09,3,Noise Complaint,Open,7
+SR-101653,2023-01-15,5,Illegal Dumping,Open,8
+SR-102596,2023-12-26,7,POTHOLE,closed,25
+SR-102711,2023-03-07,7,POTHOLE,Resolved,26
+SR-101107,2023-06-18,4,Noise Complaint,Open,12
+SR-102017,2023-11-06,6,Noise Complaint,Resolved,17
+SR-101887,2023-05-10,6,Streetlight Out,In Progress,22
+SR-100716,,3,Illegal Dumping,Resolved,28
+SR-102820,N/A,7,Pothole,closed,4
+SR-100294,2023-04-16,2,Pothole,closed,17
+SR-103197,2023-04-03,8,Trash Collection,Open,24
+SR-101466,2023-09-15,5,Streetlight Out,Closed,28
+SR-101156,2023-06-07,4,Illegal Dumping,In Progress,2
+SR-101899,2023-02-02,6,Noise Complaint,Closed,13
+SR-103376,2023-07-07,8,Illegal Dumping,closed,8
+SR-101828,,6,Trash Collection,In Progress,27
+SR-100721,2023-12-06,3,Illegal Dumping,Open,20
+SR-100587,2023-03-27,3,Pothole,In Progress,20
+SR-102571,2023-01-12,7,Rodent Inspection,Resolved,18
+SR-103097,2023-01-19,7,Illegal Dumping,In Progress,24
+SR-101658,2023-12-15,5,Trash Collection,closed,7
+SR-102250,2023-09-27,6,Pothole,closed,30
+SR-103326,2023-08-26,8,pothole,In Progress,6
+SR-100364,0000-00-00,2,POTHOLE,Open,29
+SR-101149,2023-01-15,4,Illegal Dumping,closed,28
+SR-103047,2023-05-12,7,Pothole,In Progress,11
+SR-102301,2023-01-18,6,Rodent Inspection,In Progress,29
+SR-102231,2023-02-03,6,Streetlight Out,Closed,7
+SR-101850,2023-07-21,6,POTHOLE,Closed,15
+SR-101140,2023-09-16,4,Trash Collection,In Progress,12
+SR-100606,,3,Rodent Inspection,closed,8
+SR-101661,2023-09-15,5,Streetlight Out,Closed,3
+SR-102380,2023-02-01,6,Illegal Dumping,Open,14
+SR-100212,2023-07-06,2,Streetlight Out,closed,21
+SR-101551,2023-04-14,5,Pothole,Open,28
+SR-103323,2023-08-08,8,pothole,Resolved,4
+SR-102253,2023-05-07,6,POTHOLE,Open,24
+SR-102893,2023-05-21,7,Noise Complaint,Open,11
+SR-101714,2023-05-21,5,Streetlight Out,In Progress,28
+SR-100958,2023-06-01,4,pothole,In Progress,10
+SR-101933,2023-04-19,6,Pothole,closed,23
+SR-101740,2023-02-08,5,Streetlight Out,closed,472
+SR-100329,2023-07-13,2,Noise Complaint,Closed,2
+SR-103079,2023-03-22,,Rodent Inspection,Resolved,15
+SR-101513,2023-05-24,5,Trash Collection,closed,26
+SR-102691,2023-04-19,7,Streetlight Out,Resolved,15
+SR-101948,2023-05-25,6,Streetlight Out,Resolved,2
+SR-103155,2023-11-17,8,Noise Complaint,In Progress,13
+SR-103351,2023-10-26,8,Pothole,closed,21
+SR-100119,2023-02-19,1,Rodent Inspection,Closed,1
+SR-100667,2023-08-09,3,Trash Collection,closed,2
+SR-100612,2023-04-20,3,Noise Complaint,Closed,24
+SR-102737,2023-06-21,7,pothole,In Progress,27
+SR-102759,2023-10-19,7,Illegal Dumping,closed,425
+SR-102052,2023-03-25,6,Streetlight Out,Open,5
+SR-103075,2023-01-27,7,Pothole,Resolved,5
+SR-102986,2023-10-24,7,Illegal Dumping,Open,13
+SR-101285,2023-05-12,5,Trash Collection,Closed,25
+SR-100577,,3,Trash Collection,Resolved,16
+SR-100652,2023-11-12,3,Noise Complaint,In Progress,29
+SR-100785,2023-02-01,3,pothole,In Progress,29
+SR-101272,2023-03-07,5,Pothole,In Progress,7
+SR-102817,2023-05-12,,Trash Collection,closed,20
+SR-100891,2023-11-26,3,Noise Complaint,In Progress,15
+SR-100441,2023-07-27,2,Streetlight Out,Resolved,23
+SR-100880,2023-12-18,3,pothole,Closed,10
+SR-103072,2023-03-25,7,Trash Collection,Open,13
+SR-103151,2023-07-12,8,POTHOLE,Closed,22
+SR-101051,2023-08-24,4,Rodent Inspection,In Progress,9
+SR-102963,2023-11-13,7,Rodent Inspection,Resolved,24
+SR-102783,2023-08-15,7,pothole,Closed,1
+SR-100972,2023-06-15,4,Streetlight Out,Closed,547
+SR-102973,2023-03-17,7,Streetlight Out,Resolved,9
+SR-102320,2023-11-07,6,POTHOLE,closed,30
+SR-101088,N/A,4,Noise Complaint,Resolved,4
+SR-101725,2023-05-11,5,Illegal Dumping,closed,6
+SR-103308,2023-01-16,8,Illegal Dumping,Resolved,2
+SR-101251,2023-06-23,4,Illegal Dumping,Open,24
+SR-100338,2023-08-05,2,Rodent Inspection,In Progress,9
+SR-101685,2023-02-26,5,Illegal Dumping,Closed,18
+SR-100043,2023-04-03,,pothole,closed,1
+SR-103014,2023-11-10,7,Noise Complaint,In Progress,30
+SR-102490,2023-07-21,7,Streetlight Out,Closed,10
+SR-101591,2023-07-13,5,Trash Collection,Closed,12
+SR-101873,2023-09-21,6,pothole,Open,19
+SR-102597,2023-10-06,7,Trash Collection,Resolved,26
+SR-100589,2023-09-15,3,Trash Collection,closed,30
+SR-100850,2023-08-26,3,Noise Complaint,Open,29
+SR-101852,2023-12-09,6,pothole,In Progress,27
+SR-103029,2023-12-08,7,Streetlight Out,In Progress,3
+SR-100209,2023-01-05,2,Rodent Inspection,Closed,3
+SR-103224,2023-03-15,8,Noise Complaint,Open,25
+SR-101022,2023-07-18,4,Pothole,Open,794
+SR-101684,2023-06-05,5,Streetlight Out,Resolved,1
+SR-100783,2023-05-18,3,Trash Collection,Open,1
+SR-102497,2023-12-15,7,Trash Collection,In Progress,22
+SR-101930,2023-05-01,6,POTHOLE,Open,6
+SR-101959,2023-09-27,6,Trash Collection,Closed,9
+SR-103122,2023-12-27,8,Rodent Inspection,closed,22
+SR-100468,2023-08-07,2,Rodent Inspection,In Progress,9
+SR-102806,2023-02-27,7,Pothole,Open,20
+SR-101367,2023-09-08,5,Rodent Inspection,In Progress,1
+SR-102704,2023-02-06,7,Rodent Inspection,Closed,15
+SR-100117,N/A,1,Illegal Dumping,In Progress,19
+SR-101757,2023-11-03,5,POTHOLE,Closed,4
+SR-101954,2023-11-04,6,Illegal Dumping,Open,23
+SR-100154,2023-06-20,1,Illegal Dumping,closed,1
+SR-101605,2023-04-09,5,Pothole,Open,27
+SR-100862,2023-07-23,3,Illegal Dumping,Closed,9
+SR-100192,2023-01-16,2,Illegal Dumping,Closed,17
+SR-102238,2023-08-26,6,Illegal Dumping,In Progress,28
+SR-103336,2023-08-17,8,Pothole,Resolved,19
+SR-101898,2023-02-27,6,Streetlight Out,Resolved,9
+SR-101186,2023-02-18,4,Streetlight Out,closed,2
+SR-102097,2023-04-23,6,Noise Complaint,In Progress,27
+SR-101811,2023-10-16,6,Pothole,Open,11
+SR-101681,2023-12-10,5,Illegal Dumping,In Progress,8
+SR-100902,2023-03-07,4,Streetlight Out,Open,14
+SR-101212,2023-06-06,4,Noise Complaint,Resolved,28
+SR-100096,2023-07-18,1,pothole,Resolved,21
+SR-100945,2023-12-21,4,pothole,Open,25
+SR-103269,2023-08-10,8,Noise Complaint,Resolved,2
+SR-102215,2023-03-12,6,Illegal Dumping,Resolved,20
+SR-102782,2023-10-14,7,Trash Collection,Open,29
+SR-100782,2023-11-17,3,Streetlight Out,Open,29
+SR-103356,2023-05-12,8,Pothole,Resolved,23
+SR-101719,2023-01-22,5,POTHOLE,closed,9
+SR-100843,2023-10-01,3,Streetlight Out,closed,27
+SR-100936,2023-07-26,4,Rodent Inspection,Open,2
+SR-101113,2023-11-20,4,pothole,Closed,4
+SR-101893,2023-12-27,6,Trash Collection,Open,28
+SR-101013,2023-03-24,4,Noise Complaint,closed,9
+SR-101195,2023-11-01,4,Trash Collection,Resolved,25
+SR-100431,2023-01-14,2,Streetlight Out,Resolved,29
+SR-101203,2023-09-25,4,POTHOLE,Open,14
+SR-100888,2023-12-04,3,Pothole,Closed,21
+SR-102926,2023-01-28,7,Illegal Dumping,Resolved,16
+SR-100648,2023-01-22,3,Pothole,closed,29
+SR-101119,N/A,4,pothole,In Progress,3
+SR-102836,2023-10-17,7,Trash Collection,Resolved,26
+SR-103330,2023-08-12,8,Trash Collection,Open,17
+SR-102677,2023-01-14,7,Pothole,closed,6
+SR-103057,2023-11-23,7,Noise Complaint,In Progress,4
+SR-100770,2023-12-18,3,Pothole,Resolved,10
+SR-100792,2023-06-12,3,Illegal Dumping,closed,30
+SR-102013,2023-11-16,6,pothole,Closed,675
+SR-101540,2023-05-18,5,POTHOLE,Open,3
+SR-100562,2023-11-01,3,Illegal Dumping,Closed,29
+SR-102016,2023-06-23,6,Illegal Dumping,Resolved,27
+SR-101663,,,Streetlight Out,Resolved,23
+SR-100156,2023-02-20,1,POTHOLE,Open,10
+SR-103205,2023-05-23,8,Noise Complaint,Open,25
+SR-103263,2023-07-03,8,pothole,closed,13
+SR-100542,2023-07-16,3,Streetlight Out,Open,20
+SR-102983,2023-07-24,7,Noise Complaint,Closed,22
+SR-101670,2023-01-10,5,Streetlight Out,In Progress,22
+SR-102697,2023-01-19,7,Rodent Inspection,Closed,24
+SR-100198,2023-09-05,2,Rodent Inspection,closed,12
+SR-100258,2023-06-09,,Rodent Inspection,Resolved,23
+SR-100046,2023-09-07,1,Streetlight Out,closed,411
+SR-101154,2023-11-02,4,Trash Collection,closed,14
+SR-102658,2023-10-02,7,Streetlight Out,Open,11
+SR-103363,2023-08-09,8,Noise Complaint,closed,29
+SR-103167,2023-11-07,8,Illegal Dumping,Closed,22
+SR-101939,2023-04-07,6,Noise Complaint,Closed,29
+SR-102577,2023-03-14,7,Illegal Dumping,In Progress,16
+SR-101243,2023-12-25,4,pothole,In Progress,11
+SR-101855,2023-02-11,6,Pothole,closed,20
+SR-101994,2023-09-17,6,Streetlight Out,Open,4
+SR-101815,2023-10-02,6,Noise Complaint,Open,8
+SR-100469,2023-07-05,2,Illegal Dumping,closed,24
+SR-102629,2023-11-09,7,Illegal Dumping,In Progress,1
+SR-102019,2023-02-10,6,pothole,Closed,11
+SR-101127,2023-01-07,4,Pothole,Open,4
+SR-102277,2023-02-09,6,Streetlight Out,Resolved,21
+SR-101474,2023-01-07,5,Noise Complaint,closed,24
+SR-102621,2023-03-03,7,Illegal Dumping,In Progress,20
+SR-101265,2023-05-21,5,Rodent Inspection,closed,2
+SR-101030,2023-05-14,4,Noise Complaint,closed,16
+SR-101973,2023-04-03,6,POTHOLE,closed,29
+SR-103127,2023-10-27,8,Illegal Dumping,closed,8
+SR-103366,2023-07-01,8,Streetlight Out,In Progress,29
+SR-102730,2023-12-28,7,Streetlight Out,In Progress,7
+SR-101687,2023-09-11,5,Illegal Dumping,Closed,14
+SR-100332,2023-01-26,2,Streetlight Out,Open,22
+SR-100675,2023-04-26,3,Illegal Dumping,Closed,23
+SR-103328,2023-02-02,8,Pothole,closed,13
+SR-101346,2023-11-23,5,Streetlight Out,Closed,20
+SR-103121,2023-10-16,8,Streetlight Out,In Progress,24
+SR-103355,2023-01-05,8,Noise Complaint,Closed,29
+SR-100322,2023-01-27,2,pothole,Closed,3
+SR-102949,2023-11-18,7,Illegal Dumping,Closed,21
+SR-103338,2023-09-13,8,Noise Complaint,Open,28
+SR-101059,2023-10-09,4,Streetlight Out,In Progress,19
+SR-101170,2023-08-27,4,Streetlight Out,closed,30
+SR-100020,2023-01-16,1,Rodent Inspection,Closed,21
+SR-100240,N/A,2,Streetlight Out,closed,15
+SR-101929,2023-05-13,6,Illegal Dumping,Open,27
+SR-100302,2023-09-24,2,Trash Collection,Closed,1
+SR-101036,2023-04-02,4,Illegal Dumping,Resolved,16
+SR-101792,2023-02-16,6,Rodent Inspection,Resolved,25
+SR-101581,2023-03-16,5,Pothole,Open,11
+SR-100498,2023-06-21,3,Trash Collection,Resolved,4
+SR-101604,2023-06-07,5,Streetlight Out,closed,11
+SR-101776,2023-12-05,6,Noise Complaint,Open,20
+SR-101209,2023-08-18,,Illegal Dumping,Resolved,18
+SR-101330,2023-07-20,5,POTHOLE,In Progress,10
+SR-101102,2023-09-16,4,Illegal Dumping,closed,19
+SR-100495,2023-04-10,3,Illegal Dumping,In Progress,29
+SR-100484,2023-03-06,3,Streetlight Out,Closed,7
+SR-100465,2023-08-25,2,Noise Complaint,Resolved,30
+SR-102964,2023-01-20,7,Noise Complaint,closed,27
+SR-102517,2023-03-02,7,Streetlight Out,Resolved,12
+SR-103372,2023-01-21,8,Streetlight Out,Closed,2
+SR-103326,2023-08-26,8,pothole,In Progress,6
+SR-100446,2023-05-02,2,Rodent Inspection,Resolved,3
+SR-101358,2023-09-10,,Illegal Dumping,Closed,1
+SR-100362,2023-10-15,2,Noise Complaint,Open,30
+SR-101182,2023-12-02,4,Rodent Inspection,Closed,9
+SR-102305,2023-02-27,6,Trash Collection,Open,21
+SR-102793,2023-06-11,7,Trash Collection,Closed,7
+SR-101622,2023-04-20,5,Noise Complaint,Closed,3
+SR-102186,2023-09-24,6,pothole,Open,15
+SR-102684,2023-11-01,7,Noise Complaint,Closed,332
+SR-100632,2023-08-09,3,Trash Collection,Open,17
+SR-100234,2023-01-24,2,Streetlight Out,Resolved,14
+SR-102079,2023-09-09,6,Illegal Dumping,Closed,3
+SR-100894,2023-03-10,3,Illegal Dumping,In Progress,7
+SR-100233,2023-11-26,2,Trash Collection,closed,1
+SR-100774,2023-05-18,3,Pothole,Resolved,2
+SR-101490,2023-02-18,5,Streetlight Out,Resolved,5
+SR-101067,2023-12-02,4,Trash Collection,Closed,624
+SR-103309,2023-08-03,8,Rodent Inspection,closed,26
+SR-102460,2023-06-15,7,pothole,Closed,7
+SR-101635,2023-01-16,5,Trash Collection,Closed,11
+SR-102770,2023-11-18,7,Illegal Dumping,Resolved,26
+SR-102489,2023-12-20,7,Noise Complaint,Resolved,25
+SR-101159,2023-06-18,4,Streetlight Out,Closed,5
+SR-103315,2023-08-13,8,Noise Complaint,closed,1
+SR-102847,2023-10-28,7,Pothole,In Progress,8
+SR-101553,2023-04-27,5,pothole,Resolved,29
+SR-103364,2023-08-07,8,Streetlight Out,Closed,30
+SR-102989,2023-04-11,7,Rodent Inspection,Open,13
+SR-100452,2023-06-14,2,Streetlight Out,In Progress,17
+SR-101532,,5,Streetlight Out,Resolved,29
+SR-100242,2023-03-10,2,pothole,In Progress,3
+SR-102920,2023-03-22,7,Noise Complaint,In Progress,28
+SR-103281,2023-09-26,8,Noise Complaint,Closed,4
+SR-101870,2023-02-20,6,Rodent Inspection,closed,29
+SR-100489,2023-10-10,3,Pothole,In Progress,23
+SR-102087,2023-12-21,6,Illegal Dumping,Open,333
+SR-101007,2023-07-22,4,Illegal Dumping,Open,29
+SR-103229,2023-10-08,8,Streetlight Out,closed,20
+SR-101608,N/A,5,Pothole,Closed,14
+SR-101746,2023-08-15,5,POTHOLE,Resolved,23
+SR-100476,2023-11-28,2,pothole,Open,6
+SR-102206,,6,POTHOLE,Closed,14
+SR-100641,2023-03-08,3,Rodent Inspection,In Progress,17
+SR-102519,2023-07-08,7,Illegal Dumping,Open,12
+SR-103200,2023-07-27,8,Pothole,Closed,9
+SR-100353,2023-11-15,2,Streetlight Out,Closed,30
+SR-102792,2023-09-19,7,Rodent Inspection,Open,13
+SR-102170,2023-08-22,6,Streetlight Out,In Progress,26
+SR-101924,2023-09-10,6,pothole,Open,20
+SR-103176,2023-07-11,8,Trash Collection,closed,4
+SR-103401,2023-12-06,8,Rodent Inspection,Closed,18
+SR-102037,2023-09-11,6,Noise Complaint,In Progress,14
+SR-102524,2023-06-07,7,Pothole,Resolved,22
+SR-102653,2023-10-12,7,Rodent Inspection,Closed,26
+SR-100647,0000-00-00,3,Pothole,closed,22
+SR-102100,2023-10-07,6,Noise Complaint,closed,22
+SR-101057,2023-07-08,4,Noise Complaint,Open,19
+SR-100349,2023-02-07,2,Rodent Inspection,In Progress,22
+SR-102624,2023-11-06,7,POTHOLE,Closed,6
+SR-102351,2023-09-27,6,Streetlight Out,Resolved,7
+SR-100766,2023-03-15,3,Pothole,Resolved,13
+SR-101773,2023-01-04,6,Rodent Inspection,Closed,18
+SR-100629,2023-09-15,3,Illegal Dumping,In Progress,14
+SR-102680,2023-12-20,7,Noise Complaint,In Progress,23
+SR-103246,2023-05-24,8,Illegal Dumping,Closed,25
+SR-103185,2023-07-01,8,POTHOLE,Open,8
+SR-103177,2023-05-16,8,Pothole,Resolved,15
+SR-100989,2023-06-05,4,Noise Complaint,Resolved,19
+SR-100929,2023-04-16,4,Trash Collection,Closed,28
+SR-103113,2023-04-14,7,Trash Collection,Open,22
+SR-101151,2023-01-07,4,Noise Complaint,closed,12
+SR-101471,2023-02-04,5,Rodent Inspection,closed,25
+SR-101538,2023-05-01,5,POTHOLE,closed,19
+SR-100423,2023-02-28,2,Trash Collection,Resolved,22
+SR-101317,2023-06-22,5,Rodent Inspection,In Progress,14
+SR-101813,2023-01-22,6,Streetlight Out,Open,7
+SR-100155,2023-12-07,1,Rodent Inspection,closed,7
+SR-102426,2023-05-20,7,Streetlight Out,closed,14
+SR-100520,2023-02-22,3,Pothole,closed,22
+SR-101268,2023-04-04,5,Rodent Inspection,In Progress,23
+SR-103272,0000-00-00,8,POTHOLE,Closed,18
+SR-102439,2023-07-05,7,Illegal Dumping,Resolved,29
+SR-100111,2023-05-21,1,Trash Collection,In Progress,545
+SR-103078,2023-07-08,7,Streetlight Out,Closed,20
+SR-100548,2023-11-10,3,Streetlight Out,In Progress,15
+SR-101002,2023-10-11,4,Noise Complaint,Open,2
+SR-103312,2023-11-28,8,Pothole,Open,30
+SR-100687,2023-05-06,3,Illegal Dumping,closed,10
+SR-100623,2023-04-24,3,POTHOLE,Open,9
+SR-102179,2023-05-21,6,Trash Collection,In Progress,1
+SR-101031,2023-05-03,4,Rodent Inspection,In Progress,28
+SR-100360,2023-12-06,,Pothole,Closed,13
+SR-103225,2023-11-06,8,Illegal Dumping,closed,23
+SR-100633,2023-01-22,3,Noise Complaint,In Progress,19
+SR-101077,2023-12-10,4,Rodent Inspection,Open,5
+SR-100277,2023-12-09,2,Rodent Inspection,closed,22
+SR-102667,,7,Rodent Inspection,Closed,14
+SR-103347,2023-10-12,8,pothole,In Progress,25
+SR-102588,2023-11-20,7,Streetlight Out,In Progress,30
+SR-101632,,5,Trash Collection,In Progress,17
+SR-101192,2023-04-14,4,Noise Complaint,closed,16
+SR-100745,2023-03-27,3,pothole,Closed,26
+SR-102008,2023-04-26,6,Trash Collection,Resolved,14
+SR-101267,2023-11-14,5,POTHOLE,In Progress,25
+SR-102278,2023-03-25,6,Pothole,Open,3
+SR-101081,2023-05-01,4,Noise Complaint,Open,647
+SR-102347,2023-03-18,6,Streetlight Out,In Progress,4
+SR-102710,2023-11-05,7,Rodent Inspection,closed,8
+SR-100027,2023-08-03,1,Rodent Inspection,Resolved,22
+SR-100050,2023-02-25,1,Trash Collection,In Progress,2
+SR-100018,2023-03-21,1,Trash Collection,Closed,11
+SR-101029,2023-03-12,,Trash Collection,closed,12
+SR-101133,2023-08-14,4,pothole,Open,7
+SR-101630,2023-04-23,5,Trash Collection,Open,9
+SR-101270,2023-05-16,5,pothole,In Progress,29
+SR-101979,2023-10-11,6,Noise Complaint,In Progress,21
+SR-102643,2023-12-14,7,Noise Complaint,closed,10
+SR-102632,2023-03-06,7,Streetlight Out,Resolved,29
+SR-102435,2023-08-17,7,POTHOLE,Resolved,9
+SR-101588,,5,Streetlight Out,Resolved,29
+SR-100425,2023-04-03,2,Trash Collection,Resolved,4
+SR-102709,2023-10-28,7,pothole,Open,24
+SR-100925,2023-03-23,4,Trash Collection,Open,16
+SR-102307,2023-09-08,6,Streetlight Out,Open,12
+SR-103086,2023-10-21,7,Streetlight Out,Closed,11
+SR-101220,2023-07-20,4,Rodent Inspection,Resolved,9
+SR-100872,2023-11-19,3,Noise Complaint,Closed,10
+SR-102939,2023-10-01,7,Noise Complaint,Closed,23
+SR-101318,2023-03-24,5,POTHOLE,closed,11
+SR-101502,2023-10-05,5,Illegal Dumping,Resolved,23
+SR-102281,2023-08-20,6,Streetlight Out,In Progress,15
+SR-102720,2023-10-19,7,Pothole,Open,20
+SR-102455,2023-09-26,7,Illegal Dumping,closed,22
+SR-100981,2023-09-21,4,Streetlight Out,Closed,29
+SR-100798,2023-12-03,3,Noise Complaint,closed,4
+SR-100592,2023-03-09,3,Illegal Dumping,closed,9
+SR-100931,2023-04-17,4,Illegal Dumping,Resolved,29
+SR-100147,2023-04-23,1,Streetlight Out,Closed,25
+SR-103099,2023-11-08,7,Trash Collection,Open,8
+SR-101440,2023-10-04,5,Illegal Dumping,In Progress,15
+SR-102405,2023-06-05,7,Pothole,Closed,13
+SR-101355,2023-03-10,5,Streetlight Out,closed,29
+SR-102773,2023-04-22,7,Illegal Dumping,Closed,25
+SR-102504,2023-05-11,7,Rodent Inspection,In Progress,29
+SR-100970,2023-04-17,4,Streetlight Out,In Progress,4
+SR-102757,2023-12-25,7,POTHOLE,Open,20
+SR-100417,2023-04-23,2,Noise Complaint,In Progress,17
+SR-101778,,6,Pothole,Closed,4
+SR-100855,2023-10-17,3,Streetlight Out,In Progress,21
+SR-100801,2023-07-06,3,Trash Collection,In Progress,26
+SR-100072,2023-11-03,1,Illegal Dumping,In Progress,9
+SR-101694,2023-01-04,5,Illegal Dumping,closed,26
+SR-100460,2023-06-28,2,Rodent Inspection,Closed,5
+SR-102521,2023-07-27,,Noise Complaint,Closed,14
+SR-100213,2023-12-15,2,pothole,In Progress,30
+SR-101130,2023-06-26,4,Streetlight Out,Closed,2
+SR-100974,2023-06-27,4,Noise Complaint,closed,25
+SR-102316,2023-07-14,6,Trash Collection,closed,23
+SR-100679,2023-11-07,3,Noise Complaint,Closed,22
+SR-100006,2023-08-13,1,Streetlight Out,Resolved,29
+SR-102852,2023-10-26,7,pothole,closed,3
+SR-100631,2023-06-01,3,Trash Collection,In Progress,27
+SR-101940,2023-07-15,6,Streetlight Out,Resolved,7
+SR-102054,2023-11-16,6,Illegal Dumping,Closed,13
+SR-100883,2023-09-15,3,POTHOLE,Closed,12
+SR-101259,2023-09-14,4,Streetlight Out,Closed,23
+SR-101646,2023-01-25,5,Pothole,Open,22
+SR-100298,2023-03-19,2,pothole,Closed,25
+SR-102861,2023-01-19,7,Noise Complaint,Open,27
+SR-101246,2023-02-16,4,Rodent Inspection,Open,1
+SR-100301,2023-10-25,2,Illegal Dumping,Closed,3
+SR-100916,2023-11-17,4,Streetlight Out,Resolved,19
+SR-102345,2023-02-07,6,Trash Collection,In Progress,17
+SR-101672,2023-05-13,5,POTHOLE,In Progress,25
+SR-101769,2023-07-09,6,Rodent Inspection,Closed,18
+SR-103287,2023-06-24,8,Illegal Dumping,Closed,9
+SR-100697,2023-02-16,3,Rodent Inspection,In Progress,6
+SR-103137,2023-09-08,8,POTHOLE,Open,8
+SR-101801,2023-10-27,6,Pothole,closed,16
+SR-103089,2023-11-04,7,POTHOLE,Open,5
+SR-100854,2023-07-23,3,Illegal Dumping,Closed,5
+SR-102845,2023-11-09,7,Illegal Dumping,Open,4
+SR-101626,2023-07-26,5,Rodent Inspection,Open,21
+SR-102656,2023-05-23,7,Noise Complaint,In Progress,6
+SR-103407,2023-10-06,8,Pothole,closed,16
+SR-102486,0000-00-00,7,Illegal Dumping,In Progress,12
+SR-100463,2023-10-18,2,Streetlight Out,Closed,15
+SR-101876,2023-09-15,6,Streetlight Out,Open,16
+SR-103173,2023-05-08,8,Pothole,closed,29
+SR-101685,2023-02-26,5,Illegal Dumping,Closed,18
+SR-103324,2023-04-15,8,Illegal Dumping,Closed,23
+SR-100787,2023-03-08,3,pothole,Open,16
+SR-103417,2023-03-18,8,Illegal Dumping,Closed,14
+SR-100805,2023-01-06,3,Streetlight Out,closed,23
+SR-100034,2023-11-26,1,Noise Complaint,Closed,16
+SR-100343,2023-02-09,2,pothole,Closed,24
+SR-101549,2023-06-19,5,Pothole,Resolved,7
+SR-101431,2023-09-22,5,Rodent Inspection,Open,25
+SR-100541,2023-10-28,3,POTHOLE,Open,1
+SR-102617,2023-07-16,7,Streetlight Out,Closed,11
+SR-101817,2023-04-06,6,POTHOLE,closed,2
+SR-102406,2023-08-07,7,Illegal Dumping,Closed,6
+SR-103414,2023-06-12,8,Illegal Dumping,closed,27
+SR-102028,2023-04-15,6,POTHOLE,Resolved,11
+SR-102679,2023-10-09,7,Rodent Inspection,Closed,1
+SR-100839,2023-06-25,3,Illegal Dumping,In Progress,28
+SR-101099,2023-11-17,4,Streetlight Out,Closed,28
+SR-101005,2023-01-14,4,Illegal Dumping,Resolved,17
+SR-103238,2023-03-15,8,Illegal Dumping,Resolved,15
+SR-101855,2023-02-11,6,Pothole,closed,20
+SR-101917,2023-07-07,6,Noise Complaint,Open,23
+SR-101557,2023-09-18,5,Noise Complaint,In Progress,15
+SR-100136,2023-04-28,1,POTHOLE,Open,19
+SR-102284,2023-10-15,6,Trash Collection,Closed,19
+SR-100210,2023-03-14,2,Streetlight Out,Closed,4
+SR-100521,2023-07-05,3,Trash Collection,In Progress,11
+SR-102391,2023-08-21,6,Illegal Dumping,Resolved,3
+SR-103311,2023-12-06,8,Trash Collection,Open,26
+SR-101705,2023-02-07,5,Pothole,Closed,3
+SR-100976,2023-09-22,4,pothole,Resolved,16
+SR-101826,2023-08-10,6,Rodent Inspection,In Progress,9
+SR-100480,2023-04-09,3,Trash Collection,closed,19
+SR-101101,2023-07-24,4,Rodent Inspection,In Progress,25
+SR-101536,2023-12-12,5,Streetlight Out,closed,20
+SR-100311,2023-08-03,2,Illegal Dumping,Open,30
+SR-102009,2023-01-10,6,Streetlight Out,In Progress,20
+SR-100106,2023-12-28,1,Streetlight Out,Open,9
+SR-100672,2023-10-23,3,POTHOLE,Closed,5
+SR-102212,2023-06-17,6,Streetlight Out,closed,11
+SR-103244,2023-06-14,8,Streetlight Out,Open,24
+SR-101305,2023-08-23,5,pothole,Open,10
+SR-101560,,5,Pothole,closed,13
+SR-103008,2023-06-26,7,Streetlight Out,Closed,1
+SR-101255,2023-09-02,4,Trash Collection,closed,29
+SR-100453,2023-06-27,2,Illegal Dumping,Closed,24
+SR-100231,2023-01-03,2,Streetlight Out,Resolved,9
+SR-103195,2023-08-24,8,Streetlight Out,Open,461
+SR-101481,2023-04-02,5,Trash Collection,Closed,26
+SR-100278,2023-01-12,2,Pothole,Closed,8
+SR-102495,2023-03-15,7,Streetlight Out,In Progress,24
+SR-102547,N/A,7,Illegal Dumping,Closed,23
+SR-103117,2023-10-20,7,Streetlight Out,Closed,6
+SR-103104,2023-01-18,7,Trash Collection,Open,21
+SR-103375,2023-06-19,8,Rodent Inspection,Closed,25
+SR-103353,2023-05-04,8,Streetlight Out,closed,10
+SR-102561,2023-01-17,7,Trash Collection,closed,10
+SR-100133,2023-02-27,1,Noise Complaint,In Progress,12
+SR-102769,2023-09-06,7,Illegal Dumping,Open,22
+SR-103231,2023-09-18,8,POTHOLE,Closed,30
+SR-101086,2023-01-18,4,Streetlight Out,Closed,3
+SR-100845,2023-09-02,3,Pothole,Open,14
+SR-100479,2023-06-07,2,POTHOLE,closed,2
+SR-101523,2023-12-13,5,pothole,Resolved,23
+SR-101340,2023-01-19,5,Illegal Dumping,Open,26
+SR-100418,2023-09-14,2,Noise Complaint,Closed,24
+SR-102102,2023-04-24,6,POTHOLE,Open,30
+SR-100794,2023-02-14,3,Trash Collection,Closed,22
+SR-102367,2023-10-06,6,Trash Collection,In Progress,17
+SR-101237,2023-07-27,4,Streetlight Out,In Progress,22
+SR-102616,2023-04-09,7,Illegal Dumping,Resolved,10
+SR-100809,2023-02-23,3,Trash Collection,closed,29
+SR-100380,2023-09-24,2,Noise Complaint,Open,8
+SR-100267,2023-10-14,2,Illegal Dumping,Resolved,29
+SR-101571,2023-03-03,5,pothole,In Progress,22
+SR-102435,2023-08-17,7,POTHOLE,Resolved,9
+SR-103242,2023-09-13,8,POTHOLE,Open,29
+SR-102308,2023-01-20,6,Rodent Inspection,Resolved,4
+SR-101427,,5,POTHOLE,In Progress,20
+SR-103003,2023-09-07,7,POTHOLE,Open,15
+SR-103129,2023-09-18,8,Noise Complaint,In Progress,6
+SR-100151,2023-03-13,1,Streetlight Out,Closed,27
+SR-101367,2023-09-08,5,Rodent Inspection,In Progress,1
+SR-101495,2023-04-24,5,Streetlight Out,Resolved,9
+SR-103204,2023-12-08,8,Streetlight Out,Resolved,23
+SR-101957,2023-12-07,6,Rodent Inspection,Closed,7
+SR-102901,2023-04-03,7,Illegal Dumping,closed,10
+SR-101696,2023-05-16,5,Noise Complaint,closed,13
+SR-101168,2023-02-22,4,Trash Collection,closed,15
+SR-101968,2023-10-07,6,Rodent Inspection,Closed,8
+SR-100866,2023-05-28,3,Pothole,Open,26
+SR-101772,2023-03-17,6,Noise Complaint,closed,10
+SR-100536,2023-11-07,3,Streetlight Out,Open,29
+SR-101390,2023-11-05,5,Noise Complaint,In Progress,7
+SR-100567,2023-06-09,3,Rodent Inspection,Resolved,10
+SR-101281,2023-12-17,5,POTHOLE,Resolved,5
+SR-101589,2023-02-02,5,Trash Collection,Resolved,13
+SR-102797,2023-03-15,7,Illegal Dumping,Open,30
+SR-100230,2023-03-16,2,Rodent Inspection,closed,30
+SR-103346,2023-04-08,8,Noise Complaint,Resolved,28
+SR-101172,2023-04-23,4,Rodent Inspection,Resolved,24
+SR-100097,2023-02-13,1,Trash Collection,Open,22
+SR-100474,2023-04-02,2,Trash Collection,Resolved,20
+SR-103073,2023-03-25,7,pothole,closed,9
+SR-102854,2023-10-22,7,Rodent Inspection,In Progress,1
+SR-103382,2023-09-08,8,pothole,Closed,15
+SR-103268,2023-12-27,8,Trash Collection,closed,584
+SR-101225,2023-07-23,4,Streetlight Out,Open,29
+SR-100918,2023-02-20,4,Noise Complaint,Closed,18
+SR-100036,2023-01-25,1,Pothole,In Progress,10
+SR-102473,2023-05-04,7,Illegal Dumping,Resolved,9
+SR-103062,2023-05-09,7,Illegal Dumping,closed,15
+SR-102672,2023-02-15,7,pothole,Closed,16
+SR-102884,2023-06-26,,Trash Collection,Closed,19
+SR-102373,2023-02-21,,Pothole,In Progress,26
+SR-101639,2023-03-05,5,Rodent Inspection,Resolved,17
+SR-100407,2023-08-19,2,Rodent Inspection,Closed,12
+SR-101787,0000-00-00,6,Illegal Dumping,Resolved,17
+SR-102522,2023-03-11,7,Trash Collection,Resolved,19
+SR-101414,2023-11-13,5,Illegal Dumping,closed,1
+SR-102738,2023-10-20,7,Trash Collection,Resolved,6
+SR-102904,2023-06-01,7,Pothole,Open,17
+SR-103163,2023-07-14,8,Trash Collection,Resolved,11
+SR-101621,2023-08-16,5,pothole,Closed,14
+SR-102622,2023-04-12,7,Streetlight Out,closed,22
+SR-101232,2023-11-12,4,Trash Collection,Closed,11
+SR-101546,2023-04-02,5,Streetlight Out,Closed,22
+SR-100235,N/A,2,Trash Collection,Resolved,18
+SR-100180,2023-09-22,2,Trash Collection,closed,30
+SR-101900,2023-03-07,6,Rodent Inspection,Open,15
+SR-101868,2023-09-16,6,Rodent Inspection,Closed,10
+SR-101972,2023-10-17,6,Illegal Dumping,Resolved,710
+SR-101911,2023-04-08,6,Streetlight Out,Resolved,2
+SR-102321,2023-07-08,6,Trash Collection,Open,13
+SR-101275,2023-09-10,5,pothole,Closed,7
+SR-102003,N/A,6,Pothole,In Progress,768
+SR-100415,2023-07-15,2,Streetlight Out,Closed,16
+SR-100683,2023-08-06,3,pothole,Closed,16
+SR-102197,2023-12-04,6,Noise Complaint,In Progress,24
+SR-101716,2023-05-27,5,Illegal Dumping,Open,4
+SR-102822,2023-04-14,7,Trash Collection,In Progress,4
+SR-102336,2023-01-27,6,Illegal Dumping,Resolved,24
+SR-102849,2023-03-11,7,Noise Complaint,Resolved,22
+SR-102254,N/A,6,pothole,Open,9
+SR-102627,,7,POTHOLE,In Progress,6
+SR-100102,2023-02-02,1,Rodent Inspection,In Progress,27
+SR-103156,2023-06-22,8,pothole,Resolved,19
+SR-101177,2023-07-08,4,Streetlight Out,Closed,17
+SR-100538,2023-07-20,3,Trash Collection,Closed,7
+SR-103235,2023-10-28,8,Streetlight Out,Resolved,12
+SR-101805,2023-03-13,6,Rodent Inspection,Resolved,20
+SR-100988,2023-04-18,4,POTHOLE,Resolved,8
+SR-101147,2023-05-07,4,Illegal Dumping,Resolved,14
+SR-100732,2023-12-27,3,Rodent Inspection,closed,1
+SR-102189,2023-05-02,6,Pothole,Open,8
+SR-102276,2023-10-20,6,Noise Complaint,In Progress,7
+SR-101109,2023-03-17,4,Illegal Dumping,Open,4
+SR-100867,2023-03-03,3,Trash Collection,Resolved,28
+SR-100052,2023-10-18,1,Noise Complaint,closed,5
+SR-101760,2023-04-09,6,Rodent Inspection,closed,9
+SR-103392,2023-07-19,8,Illegal Dumping,Resolved,15
+SR-100868,2023-02-02,3,Rodent Inspection,Resolved,23
+SR-100663,2023-11-03,3,Rodent Inspection,Resolved,19
+SR-102903,2023-05-11,7,Rodent Inspection,closed,5
+SR-103412,2023-05-16,8,Illegal Dumping,In Progress,8
+SR-101547,2023-08-08,5,POTHOLE,In Progress,10
+SR-100304,2023-10-01,2,Illegal Dumping,closed,10
+SR-101443,2023-05-12,5,Rodent Inspection,In Progress,1
+SR-102232,2023-07-06,6,Pothole,Closed,12
+SR-101003,2023-06-23,4,Streetlight Out,Resolved,24
+SR-102501,2023-12-24,7,Rodent Inspection,Closed,6
+SR-101745,2023-01-06,5,Illegal Dumping,In Progress,29
+SR-100050,2023-02-25,1,Trash Collection,In Progress,2
+SR-101804,2023-08-12,6,Noise Complaint,Closed,30
+SR-101726,2023-04-10,5,Rodent Inspection,In Progress,19
+SR-102595,2023-02-02,7,Rodent Inspection,Resolved,4
+SR-101781,2023-12-06,6,POTHOLE,closed,7
+SR-100953,N/A,4,Illegal Dumping,In Progress,1
+SR-100244,2023-02-01,2,Noise Complaint,Open,22
+SR-100584,0000-00-00,3,Trash Collection,In Progress,12
+SR-101699,2023-10-08,5,Rodent Inspection,In Progress,19
+SR-101221,2023-07-01,4,Streetlight Out,Closed,16
+SR-100650,2023-05-07,3,POTHOLE,In Progress,26
+SR-102830,2023-12-26,7,Trash Collection,Closed,22
+SR-100089,2023-05-17,1,Streetlight Out,closed,21
+SR-100590,2023-12-17,3,Trash Collection,Open,20
+SR-101997,2023-05-03,6,Rodent Inspection,Closed,27
+SR-101768,2023-01-10,6,Trash Collection,Closed,12
+SR-100691,2023-11-19,3,Trash Collection,Open,19
+SR-100756,,3,pothole,In Progress,19
+SR-103377,2023-06-27,8,Illegal Dumping,Closed,6
+SR-101601,2023-08-19,5,pothole,In Progress,27
+SR-101019,2023-10-28,4,Illegal Dumping,In Progress,318
+SR-103369,2023-11-18,8,Streetlight Out,Closed,2
+SR-102361,2023-01-18,6,Streetlight Out,In Progress,15
+SR-100758,2023-11-18,3,Streetlight Out,closed,1
+SR-102851,2023-03-13,7,pothole,Resolved,24
+SR-100634,2023-02-15,3,Rodent Inspection,Closed,29
+SR-100190,2023-11-17,2,Pothole,Resolved,15
+SR-103146,2023-02-21,8,Streetlight Out,closed,27
+SR-101489,2023-03-26,5,Rodent Inspection,closed,725
+SR-100490,2023-10-15,3,Illegal Dumping,In Progress,10
+SR-101808,2023-11-04,6,Streetlight Out,Closed,15
+SR-101763,2023-07-03,6,Streetlight Out,closed,21
+SR-100917,2023-05-23,4,POTHOLE,Closed,20
+SR-101735,2023-05-26,5,pothole,Closed,2
+SR-100042,2023-02-24,1,Rodent Inspection,Resolved,12
+SR-100345,2023-03-27,2,Illegal Dumping,closed,11
+SR-101736,2023-08-19,,Illegal Dumping,closed,18
+SR-100140,2023-05-21,1,Illegal Dumping,Open,11
+SR-102026,2023-07-01,6,Streetlight Out,closed,7
+SR-100216,2023-11-14,2,Illegal Dumping,Open,8
+SR-102674,2023-06-01,7,Noise Complaint,In Progress,18
+SR-100105,2023-03-05,1,Illegal Dumping,Open,29
+SR-102844,2023-11-01,7,Pothole,closed,28
+SR-100643,2023-01-04,3,Pothole,Resolved,28
+SR-101125,2023-01-27,4,Streetlight Out,In Progress,27
+SR-102831,2023-03-10,7,Illegal Dumping,Open,15
+SR-101491,2023-12-26,5,pothole,In Progress,2
+SR-103018,2023-01-28,,Rodent Inspection,Closed,12
+SR-101228,2023-06-08,4,Rodent Inspection,Closed,22
+SR-102286,2023-10-27,6,Trash Collection,Resolved,18
+SR-102191,2023-08-17,6,POTHOLE,Resolved,2
+SR-103190,2023-11-16,8,Pothole,In Progress,4
+SR-100019,2023-06-21,1,Streetlight Out,Open,28
+SR-103300,2023-05-24,8,Pothole,Closed,3
+SR-101925,0000-00-00,6,POTHOLE,Open,16
+SR-102446,2023-05-25,,Illegal Dumping,closed,19
+SR-101920,2023-03-03,6,POTHOLE,In Progress,4
+SR-102689,2023-04-06,7,Noise Complaint,Open,2
+SR-101386,2023-11-06,5,Noise Complaint,Resolved,8
+SR-103264,2023-07-23,8,POTHOLE,In Progress,671
+SR-101047,2023-11-19,4,pothole,Resolved,3
+SR-100068,2023-10-21,1,Trash Collection,closed,4
+SR-100191,2023-05-10,2,POTHOLE,In Progress,15
+SR-102452,2023-09-18,7,Streetlight Out,Open,11
+SR-103179,2023-02-12,8,pothole,Resolved,5
+SR-102785,2023-04-12,7,Streetlight Out,closed,14
+SR-101755,2023-07-22,5,Noise Complaint,In Progress,8
+SR-102416,2023-12-23,,pothole,closed,12
+SR-103358,2023-10-25,8,Noise Complaint,closed,23
+SR-102860,2023-10-16,7,Illegal Dumping,Open,8
+SR-100110,2023-01-26,1,Noise Complaint,Resolved,9
+SR-100528,2023-11-06,,POTHOLE,Open,1
+SR-101777,2023-01-13,6,Trash Collection,Resolved,22
+SR-101184,2023-09-26,4,Trash Collection,In Progress,25
+SR-103037,2023-03-05,7,Noise Complaint,closed,18
+SR-103410,2023-04-04,8,Pothole,closed,30
+SR-102256,2023-03-16,6,pothole,Closed,2
+SR-101442,2023-11-25,5,pothole,closed,5
+SR-102960,N/A,7,Noise Complaint,Closed,6
+SR-100995,2023-08-15,4,POTHOLE,Closed,11
+SR-101228,2023-06-08,4,Rodent Inspection,Closed,22
+SR-100086,2023-02-03,1,Pothole,closed,13
+SR-100874,2023-09-21,3,pothole,In Progress,18
+SR-100897,2023-08-26,3,Noise Complaint,closed,2
+SR-101748,2023-04-20,,pothole,Resolved,20
+SR-102889,2023-08-14,7,Illegal Dumping,Open,11
+SR-103310,2023-09-07,8,Illegal Dumping,Closed,25
+SR-102931,2023-05-18,7,Noise Complaint,closed,3
+SR-101947,2023-05-03,6,Noise Complaint,In Progress,28
+SR-101512,2023-03-21,5,Rodent Inspection,Resolved,27
+SR-102230,2023-12-26,6,Trash Collection,Open,10
+SR-102401,,7,Trash Collection,Open,11
+SR-103142,2023-12-27,8,POTHOLE,Closed,7
+SR-100516,,3,Rodent Inspection,Closed,1
+SR-102357,2023-01-18,6,Illegal Dumping,In Progress,21
+SR-101458,2023-10-03,5,Illegal Dumping,Open,28
+SR-101090,2023-09-20,4,POTHOLE,Open,17
+SR-100336,2023-02-27,2,Trash Collection,Open,22
+SR-100874,2023-09-21,3,pothole,In Progress,18
+SR-103044,2023-11-24,7,Noise Complaint,Resolved,22
+SR-100075,2023-01-28,1,Streetlight Out,Closed,6
+SR-101854,2023-11-26,6,Pothole,Closed,18
+SR-103210,2023-12-16,8,Illegal Dumping,closed,18
+SR-101530,2023-09-25,5,Rodent Inspection,Open,3
+SR-102702,2023-09-18,7,Trash Collection,Resolved,14
+SR-103150,2023-08-04,8,Illegal Dumping,Open,3
+SR-102707,2023-09-20,7,Streetlight Out,Open,14
+SR-103054,2023-05-13,7,Rodent Inspection,Resolved,6
+SR-102743,2023-08-02,7,POTHOLE,Resolved,647
+SR-100340,2023-05-13,2,Illegal Dumping,Open,26
+SR-101669,2023-07-01,5,Streetlight Out,Closed,10
+SR-101115,2023-07-01,4,Trash Collection,Resolved,26
+SR-101112,2023-08-10,4,POTHOLE,closed,3
+SR-100228,2023-10-27,2,Trash Collection,In Progress,25
+SR-102850,2023-07-03,7,Illegal Dumping,In Progress,7
+SR-101076,2023-02-20,4,Noise Complaint,Open,30
+SR-102795,2023-05-28,7,Streetlight Out,Open,17
+SR-100421,2023-01-02,2,Streetlight Out,Open,4
+SR-101435,2023-11-10,5,Trash Collection,Closed,19
+SR-101564,2023-07-04,,Noise Complaint,closed,18
+SR-103267,2023-02-06,8,Rodent Inspection,In Progress,12
+SR-100846,2023-11-17,3,Trash Collection,closed,7
+SR-102835,2023-10-08,7,Noise Complaint,Closed,3
+SR-103172,2023-06-22,8,Rodent Inspection,Open,6
+SR-102735,2023-11-28,7,Trash Collection,closed,22
+SR-100486,0000-00-00,3,Pothole,In Progress,26
+SR-103232,2023-07-23,8,Illegal Dumping,Resolved,20
+SR-103194,2023-01-14,8,Streetlight Out,Open,6
+SR-102681,2023-03-17,7,Streetlight Out,closed,13
+SR-103282,2023-05-17,8,Noise Complaint,In Progress,5
+SR-101467,2023-08-19,5,POTHOLE,In Progress,7
+SR-100596,2023-10-15,3,Trash Collection,Closed,17
+SR-102018,2023-04-27,6,Rodent Inspection,closed,2
+SR-100113,2023-09-10,1,Trash Collection,Resolved,3
+SR-103386,2023-06-25,8,Trash Collection,In Progress,18
+SR-101759,2023-09-01,5,Trash Collection,Resolved,3
+SR-102874,2023-11-16,7,Illegal Dumping,In Progress,8
+SR-101357,2023-12-15,5,POTHOLE,closed,21
+SR-100753,2023-06-08,3,Trash Collection,In Progress,26
+SR-101217,2023-01-06,4,Trash Collection,Closed,4
+SR-101035,2023-10-13,4,Illegal Dumping,Closed,20
+SR-100118,2023-05-26,1,pothole,closed,4
+SR-101118,2023-06-02,4,Illegal Dumping,Resolved,29
+SR-100926,2023-04-21,4,Illegal Dumping,Open,11
+SR-100291,2023-12-05,2,Rodent Inspection,closed,8
+SR-100780,2023-02-17,3,Noise Complaint,Open,30
+SR-102570,2023-06-15,7,Streetlight Out,In Progress,19
+SR-100433,2023-08-09,2,Rodent Inspection,In Progress,20
+SR-100383,2023-08-27,2,POTHOLE,Open,25
+SR-103159,2023-06-12,8,POTHOLE,In Progress,21
+SR-100033,2023-04-22,1,pothole,closed,20
+SR-102124,2023-07-24,6,Rodent Inspection,In Progress,20
+SR-100955,2023-01-25,4,Rodent Inspection,closed,22
+SR-101472,2023-06-10,5,Rodent Inspection,Open,23
+SR-100591,2023-12-16,3,Noise Complaint,Resolved,24
+SR-101464,2023-06-02,5,Pothole,closed,28
+SR-100260,2023-12-27,2,POTHOLE,Resolved,24
+SR-103152,2023-03-03,8,pothole,closed,27
+SR-100593,2023-07-25,3,Noise Complaint,In Progress,20
+SR-102294,0000-00-00,6,pothole,Closed,13
+SR-102140,2023-09-08,6,Illegal Dumping,closed,26
+SR-102771,2023-12-25,7,Rodent Inspection,Closed,27
+SR-101569,2023-11-23,5,Illegal Dumping,closed,27
+SR-101751,2023-09-04,5,Illegal Dumping,Resolved,19
+SR-102753,2023-12-09,7,Streetlight Out,closed,28
+SR-101398,2023-07-09,5,Illegal Dumping,Open,13
+SR-102479,2023-10-02,7,POTHOLE,closed,25
+SR-102948,2023-03-02,7,Rodent Inspection,In Progress,2
+SR-100533,2023-11-11,3,Streetlight Out,Resolved,9
+SR-101313,2023-06-10,5,Streetlight Out,In Progress,11
+SR-101056,N/A,4,pothole,In Progress,1
+SR-101304,2023-04-23,5,Trash Collection,Open,11
+SR-102718,2023-07-09,7,Noise Complaint,Open,26
+SR-102174,2023-02-13,6,Rodent Inspection,Open,26
+SR-101354,2023-09-26,5,Pothole,In Progress,9
+SR-100080,2023-02-27,1,Noise Complaint,In Progress,13
+SR-102219,2023-04-16,6,Rodent Inspection,Resolved,9
+SR-100330,2023-12-09,2,Rodent Inspection,Closed,16
+SR-102228,2023-04-05,6,Rodent Inspection,closed,10
+SR-102324,2023-09-15,6,POTHOLE,Closed,1
+SR-103318,2023-06-28,8,Trash Collection,Resolved,10
+SR-100618,2023-07-21,3,Rodent Inspection,Open,5
+SR-101680,,5,Noise Complaint,Open,7
+SR-100599,2023-12-14,3,Illegal Dumping,closed,16
+SR-101860,2023-01-16,6,Noise Complaint,In Progress,12
+SR-100422,2023-08-19,2,Streetlight Out,In Progress,11
+SR-102496,2023-04-16,7,Illegal Dumping,Open,9
+SR-100386,2023-08-19,2,Trash Collection,Open,10
+SR-100763,2023-02-14,3,POTHOLE,Resolved,11
+SR-102155,2023-03-02,6,POTHOLE,Resolved,16
+SR-101731,2023-04-13,5,Noise Complaint,closed,4
+SR-103222,2023-06-22,8,Noise Complaint,Open,28
+SR-103201,2023-03-06,8,Streetlight Out,closed,21
+SR-100041,2023-10-15,1,Trash Collection,closed,1
+SR-100440,2023-11-10,2,Trash Collection,In Progress,6
+SR-102546,2023-09-12,7,Rodent Inspection,Open,1
+SR-100095,2023-03-16,1,Rodent Inspection,In Progress,21
+SR-103093,2023-03-08,7,Illegal Dumping,In Progress,15
+SR-102587,2023-06-05,7,POTHOLE,Closed,10
+SR-100887,2023-07-11,3,Trash Collection,Open,12
+SR-103397,2023-03-26,8,Streetlight Out,closed,17
+SR-103083,2023-08-14,7,Illegal Dumping,In Progress,388
+SR-101314,2023-10-11,5,POTHOLE,Resolved,5
+SR-100137,2023-08-14,1,Noise Complaint,Closed,21
+SR-101890,2023-05-18,6,Trash Collection,In Progress,9
+SR-100738,2023-03-25,3,Pothole,Open,22
+SR-103283,2023-10-01,8,Noise Complaint,In Progress,25
+SR-102858,2023-02-17,7,pothole,Open,28
+SR-102765,2023-10-26,7,Streetlight Out,Resolved,30
+SR-102912,2023-01-10,7,Noise Complaint,Closed,21
+SR-102935,2023-06-06,7,Streetlight Out,Open,2
+SR-102544,2023-04-27,7,Pothole,Open,15
+SR-102953,2023-07-07,7,Illegal Dumping,In Progress,22
+SR-102902,2023-03-20,7,Noise Complaint,In Progress,23
+SR-103373,2023-08-28,8,POTHOLE,Resolved,10
+SR-103030,,7,Illegal Dumping,Open,2
+SR-102400,2023-02-06,7,Illegal Dumping,In Progress,7
+SR-102804,0000-00-00,7,Noise Complaint,Closed,11
+SR-102563,2023-11-24,7,Trash Collection,closed,29
+SR-102113,2023-02-20,6,Trash Collection,Open,2
+SR-101885,,6,Streetlight Out,closed,16
+SR-102859,2023-04-21,7,Trash Collection,closed,4
+SR-101329,2023-07-09,5,Streetlight Out,closed,25
+SR-103411,2023-08-01,8,Trash Collection,In Progress,5
+SR-100087,2023-10-05,1,Illegal Dumping,In Progress,28
+SR-102444,2023-03-21,7,Pothole,In Progress,14
+SR-100388,2023-03-12,2,Streetlight Out,Closed,22
+SR-100048,2023-08-05,1,Trash Collection,Resolved,17
+SR-101559,2023-01-07,5,Rodent Inspection,closed,28
+SR-100709,2023-02-07,3,Noise Complaint,closed,11
+SR-101387,2023-01-11,5,POTHOLE,Resolved,13
+SR-101185,2023-09-21,4,Pothole,Closed,16
+SR-102187,0000-00-00,6,Rodent Inspection,In Progress,16
+SR-100092,0000-00-00,1,POTHOLE,Closed,16
+SR-102545,2023-12-18,7,Pothole,Closed,10
+SR-102523,2023-03-14,7,Trash Collection,Open,8
+SR-100429,2023-04-15,2,Noise Complaint,In Progress,4
+SR-101998,2023-02-22,6,Trash Collection,Open,26
+SR-100261,2023-09-15,2,Rodent Inspection,closed,2
+SR-102922,2023-12-01,7,Streetlight Out,Open,25
+SR-101727,2023-11-16,5,POTHOLE,Closed,21
+SR-102548,2023-09-10,7,Trash Collection,Closed,3
+SR-100194,2023-01-19,2,Rodent Inspection,In Progress,14
+SR-102162,2023-07-03,6,Illegal Dumping,In Progress,3
+SR-100826,2023-09-20,3,Streetlight Out,Closed,29
+SR-102078,2023-04-28,6,Trash Collection,Resolved,4
+SR-100335,2023-02-14,2,POTHOLE,Resolved,14
+SR-101993,2023-09-18,6,Noise Complaint,closed,7
+SR-101586,2023-03-24,5,Trash Collection,closed,18
+SR-103017,2023-05-28,7,Noise Complaint,Closed,19
+SR-101078,2023-01-16,4,Rodent Inspection,Open,30
+SR-100831,N/A,3,pothole,closed,5
+SR-101104,2023-03-28,4,Illegal Dumping,Resolved,6
+SR-100678,2023-02-26,3,pothole,Closed,759
+SR-102209,2023-11-19,6,Noise Complaint,Open,15
+SR-101053,2023-05-12,4,Rodent Inspection,In Progress,24
+SR-102494,,7,POTHOLE,Open,18
+SR-100099,2023-09-06,1,Pothole,Resolved,6
+SR-102101,2023-08-12,6,Pothole,closed,9
+SR-101958,2023-01-07,,Illegal Dumping,Resolved,9
+SR-102887,2023-08-01,7,Noise Complaint,Closed,14
+SR-100074,2023-04-28,1,Pothole,Resolved,3
+SR-100722,2023-08-02,3,Pothole,Closed,8
+SR-101201,2023-01-12,4,Noise Complaint,Closed,9
+SR-101932,0000-00-00,6,Noise Complaint,Closed,6
+SR-100150,2023-04-20,1,Noise Complaint,Resolved,571
+SR-103253,2023-12-26,8,Pothole,Open,13
+SR-101995,2023-01-16,6,Trash Collection,In Progress,9
+SR-102870,2023-09-16,7,Trash Collection,Open,553
+SR-102612,2023-02-14,7,Pothole,Closed,3
+SR-101288,2023-07-19,5,Rodent Inspection,In Progress,5
+SR-101743,2023-08-27,5,Illegal Dumping,Resolved,25
+SR-101142,2023-08-22,4,Illegal Dumping,Open,10
+SR-101389,2023-09-07,5,Pothole,Open,6
+SR-100281,2023-08-21,2,Illegal Dumping,Closed,3
+SR-101718,2023-06-20,5,Noise Complaint,In Progress,14
+SR-103248,2023-07-14,8,Rodent Inspection,In Progress,3
+SR-102574,2023-11-19,7,POTHOLE,In Progress,20
+SR-100578,2023-04-22,3,pothole,In Progress,2
+SR-100331,2023-03-09,2,POTHOLE,closed,23
+SR-103012,2023-03-27,7,Illegal Dumping,Resolved,30
+SR-102164,2023-02-13,6,Illegal Dumping,Closed,22
+SR-102344,2023-06-10,6,Trash Collection,In Progress,3
+SR-102719,2023-02-24,7,Illegal Dumping,closed,19
+SR-102956,2023-09-04,7,Streetlight Out,Resolved,16
+SR-100008,2023-06-14,1,Trash Collection,In Progress,30
+SR-102919,2023-11-26,7,Illegal Dumping,closed,14
+SR-100553,2023-10-20,3,Illegal Dumping,Resolved,11
+SR-103038,N/A,7,POTHOLE,Open,6
+SR-101953,,6,Illegal Dumping,Closed,8
+SR-101650,2023-11-16,5,pothole,closed,6
+SR-101901,2023-08-27,6,Streetlight Out,Open,30
+SR-100200,,2,Pothole,Open,6
+SR-101383,2023-09-20,5,Illegal Dumping,Resolved,16
+SR-103118,2023-01-08,7,Noise Complaint,Closed,6
+SR-101628,2023-02-07,5,Streetlight Out,Open,6
+SR-102041,2023-09-10,6,Noise Complaint,In Progress,23
+SR-101368,,,Noise Complaint,Closed,9
+SR-102335,2023-06-24,6,Pothole,closed,12
+SR-100800,2023-06-16,3,Rodent Inspection,In Progress,28
+SR-101728,,5,Streetlight Out,Closed,17
+SR-102584,2023-06-09,7,Noise Complaint,Resolved,30
+SR-100845,2023-09-02,3,Pothole,Open,14
+SR-102996,,7,Streetlight Out,closed,17
+SR-100488,2023-10-15,3,Illegal Dumping,Resolved,3
+SR-100932,2023-11-15,4,POTHOLE,In Progress,24
+SR-101631,2023-10-12,5,Streetlight Out,Resolved,1
+SR-101433,2023-09-06,5,Illegal Dumping,closed,16
+SR-101298,2023-01-03,5,Illegal Dumping,closed,19
+SR-102168,2023-10-18,6,Trash Collection,In Progress,29
+SR-102638,2023-12-13,7,Trash Collection,Resolved,29
+SR-103206,2023-07-13,8,Illegal Dumping,closed,20
+SR-101976,2023-10-20,6,POTHOLE,Closed,25
+SR-100093,2023-01-22,1,Rodent Inspection,closed,4
+SR-103387,2023-01-23,8,Rodent Inspection,closed,11
+SR-101343,2023-06-10,5,Trash Collection,Closed,28
+SR-100811,2023-12-08,3,Trash Collection,In Progress,26
+SR-103011,2023-07-02,7,pothole,In Progress,15
+SR-102265,2023-03-10,6,Noise Complaint,Resolved,15
+SR-101689,2023-12-03,5,POTHOLE,closed,26
+SR-101382,2023-03-02,5,Streetlight Out,Resolved,1
+SR-101264,2023-04-26,5,Rodent Inspection,Closed,26
+SR-101169,2023-04-05,4,POTHOLE,Resolved,20
+SR-101515,2023-06-09,5,Noise Complaint,Resolved,16
+SR-100797,2023-07-13,3,Trash Collection,In Progress,30
+SR-102909,2023-09-03,,Noise Complaint,closed,2
+SR-101357,2023-12-15,5,POTHOLE,closed,21
+SR-102196,2023-03-22,6,Rodent Inspection,Resolved,20
+SR-101750,2023-08-26,5,Noise Complaint,Open,20
+SR-103296,2023-03-17,8,Trash Collection,In Progress,7
+SR-102488,2023-04-28,7,Rodent Inspection,Open,3
+SR-102421,2023-02-05,7,Noise Complaint,In Progress,21
+SR-100825,2023-11-11,3,Rodent Inspection,Resolved,9
+SR-102340,2023-08-26,6,Noise Complaint,Open,1
+SR-102417,2023-12-02,7,Streetlight Out,closed,3
+SR-101999,2023-01-09,6,Trash Collection,In Progress,7
+SR-100326,2023-12-16,2,POTHOLE,In Progress,13
+SR-102816,2023-02-10,7,Illegal Dumping,closed,9
+SR-102042,2023-03-04,6,Pothole,Resolved,2
+SR-101739,2023-07-24,5,Trash Collection,In Progress,10
+SR-100912,2023-05-05,4,Noise Complaint,Open,11
+SR-100772,2023-09-16,3,Illegal Dumping,Open,7
+SR-100449,,2,Illegal Dumping,Closed,29
+SR-100057,2023-09-26,1,Noise Complaint,closed,3
+SR-103052,2023-06-13,7,Pothole,Closed,19
+SR-103378,2023-01-12,8,Illegal Dumping,In Progress,30
+SR-102586,2023-04-01,7,Noise Complaint,Resolved,21
+SR-102300,2023-12-12,6,Streetlight Out,Closed,11
+SR-102096,2023-05-27,6,Noise Complaint,Resolved,1
+SR-100501,2023-11-25,3,Pothole,Resolved,6
+SR-100217,2023-03-14,2,Illegal Dumping,closed,9
+SR-101700,2023-12-17,5,pothole,In Progress,15
+SR-100067,2023-02-01,1,Illegal Dumping,Open,7
+SR-102987,2023-11-15,7,Illegal Dumping,Closed,10
+SR-100263,2023-10-22,2,Pothole,Resolved,22
+SR-102526,2023-09-13,7,Streetlight Out,Closed,5
+SR-102462,2023-07-26,7,Illegal Dumping,Closed,13
+SR-102826,2023-05-01,7,Noise Complaint,Open,6
+SR-103136,2023-10-07,8,pothole,Open,12
+SR-101233,2023-05-24,4,Pothole,In Progress,494
+SR-101806,2023-09-20,6,Noise Complaint,closed,20
+SR-102678,2023-08-25,7,Streetlight Out,closed,27
+SR-101682,2023-11-10,5,POTHOLE,Closed,8
+SR-102062,2023-04-14,6,POTHOLE,In Progress,1
+SR-103189,2023-06-08,8,Noise Complaint,Closed,14
+SR-103344,2023-01-03,8,Noise Complaint,Closed,30
+SR-100719,2023-09-01,3,Illegal Dumping,Open,18
+SR-102081,2023-11-13,6,Noise Complaint,Open,18
+SR-101021,2023-12-24,4,Illegal Dumping,Resolved,4
+SR-102932,2023-09-25,7,Streetlight Out,closed,16
+SR-101374,2023-05-25,5,Streetlight Out,Open,535
+SR-101861,2023-11-28,6,Noise Complaint,Open,16
+SR-102076,2023-06-22,6,Trash Collection,Resolved,8
+SR-100481,2023-11-13,3,Rodent Inspection,Closed,4
+SR-101249,2023-10-07,4,Pothole,Resolved,16
+SR-100162,2023-10-10,1,Streetlight Out,Resolved,24
+SR-102351,2023-09-27,6,Streetlight Out,Resolved,7
+SR-101154,2023-11-02,4,Trash Collection,closed,14
+SR-102481,2023-05-05,7,POTHOLE,Open,7
+SR-101376,2023-05-23,5,Trash Collection,Resolved,30
+SR-100152,,1,Illegal Dumping,In Progress,26
+SR-100359,2023-02-06,2,Rodent Inspection,In Progress,8
+SR-102407,2023-04-18,7,Streetlight Out,closed,14
+SR-103237,2023-12-05,8,Rodent Inspection,Resolved,7
+SR-100308,N/A,2,Pothole,Closed,13
+SR-100141,2023-09-10,1,Illegal Dumping,Open,26
+SR-103334,2023-05-21,8,Rodent Inspection,In Progress,9
+SR-100701,2023-10-24,3,Noise Complaint,Open,12
+SR-102536,2023-04-27,7,pothole,closed,13
+SR-102220,2023-11-22,6,Streetlight Out,closed,16
+SR-101637,2023-10-03,5,Noise Complaint,Closed,6
+SR-100376,2023-08-23,2,Noise Complaint,closed,4
+SR-100700,2023-03-15,3,Illegal Dumping,Open,537
+SR-102696,2023-06-07,7,Illegal Dumping,Closed,1
+SR-102940,2023-03-10,7,pothole,Open,30
+SR-100971,2023-10-19,4,Pothole,closed,18
+SR-102603,2023-05-12,7,pothole,Open,26
+SR-103068,2023-04-19,7,Noise Complaint,Open,5
+SR-102766,2023-06-11,7,Streetlight Out,Resolved,16
+SR-101175,N/A,4,Streetlight Out,closed,19
+SR-102158,2023-08-24,6,Pothole,closed,21
+SR-101417,2023-06-09,5,Noise Complaint,Closed,23
+SR-101931,2023-02-11,,Noise Complaint,Resolved,15
+SR-101990,2023-12-25,6,Streetlight Out,Open,12
+SR-100852,2023-06-28,3,POTHOLE,Open,21
+SR-100325,2023-07-05,2,Noise Complaint,Open,26
+SR-102897,2023-04-26,7,pothole,Closed,28
+SR-101688,2023-03-08,5,Pothole,Closed,13
+SR-101897,2023-10-09,6,POTHOLE,Closed,10
+SR-103235,2023-10-28,8,Streetlight Out,Resolved,12
+SR-100165,2023-12-08,1,Illegal Dumping,Resolved,5
+SR-100966,2023-10-02,4,Streetlight Out,Open,6
+SR-102589,2023-05-27,7,Trash Collection,Open,27
+SR-100534,2023-05-21,3,POTHOLE,Open,11
+SR-102824,N/A,7,Trash Collection,Open,5
+SR-101054,2023-12-02,4,Illegal Dumping,In Progress,16
+SR-102928,2023-01-08,7,Rodent Inspection,closed,20
+SR-102031,2023-07-11,6,Trash Collection,Open,30
+SR-102991,2023-10-21,7,Noise Complaint,In Progress,18
+SR-101902,2023-04-03,6,POTHOLE,Closed,28
+SR-101888,2023-12-09,6,POTHOLE,Closed,12
+SR-102879,2023-03-16,7,Rodent Inspection,Open,18
+SR-101840,2023-08-13,6,Trash Collection,In Progress,22
+SR-101526,2023-07-16,5,Illegal Dumping,Closed,14
+SR-103285,2023-07-28,8,Streetlight Out,Closed,24
+SR-101401,0000-00-00,5,Pothole,Closed,25
+SR-103236,2023-12-12,8,Noise Complaint,Resolved,22
+SR-100563,2023-03-21,3,POTHOLE,Open,20
+SR-103335,2023-08-11,8,Streetlight Out,Open,28
+SR-101109,2023-03-17,4,Illegal Dumping,Open,4
+SR-102775,2023-02-07,7,Trash Collection,In Progress,24
+SR-101741,2023-04-15,5,Pothole,Closed,10
+SR-100921,,4,Rodent Inspection,closed,27
+SR-100653,2023-01-25,3,pothole,Open,17
+SR-101341,2023-06-26,5,Illegal Dumping,Resolved,11
+SR-100055,2023-01-08,1,Trash Collection,Closed,19
+SR-100537,2023-05-03,3,Noise Complaint,In Progress,22
+SR-101098,2023-11-04,4,Rodent Inspection,closed,16
+SR-101845,2023-03-07,6,POTHOLE,closed,25
+SR-103306,2023-07-11,8,Illegal Dumping,Open,26
+SR-103039,2023-06-03,7,Trash Collection,closed,4
+SR-101835,2023-02-07,6,Noise Complaint,Closed,21
+SR-100660,2023-04-20,3,Illegal Dumping,closed,5
+SR-101971,2023-04-06,6,pothole,closed,724
+SR-100566,2023-07-01,3,POTHOLE,Open,12
+SR-100730,,3,Trash Collection,In Progress,24
+SR-100389,,2,Illegal Dumping,In Progress,11
+SR-100510,2023-09-28,3,Rodent Inspection,Open,18
+SR-102863,2023-08-13,7,Trash Collection,In Progress,14
+SR-102194,2023-02-23,6,Illegal Dumping,closed,3
+SR-100863,2023-04-05,3,Streetlight Out,Open,20
+SR-101849,2023-12-20,6,Illegal Dumping,closed,2
+SR-100365,2023-03-04,2,Illegal Dumping,Open,28
+SR-101123,2023-11-26,4,Noise Complaint,Open,6
+SR-102217,2023-02-04,6,Illegal Dumping,In Progress,26
+SR-101111,2023-11-27,4,Illegal Dumping,Open,20
+SR-100791,2023-10-03,3,Noise Complaint,In Progress,10
+SR-101562,2023-07-06,5,Streetlight Out,closed,25
+SR-101446,2023-09-09,5,Illegal Dumping,In Progress,27
+SR-101416,2023-09-27,5,Streetlight Out,In Progress,15
+SR-100715,2023-09-20,3,POTHOLE,In Progress,6
+SR-102576,2023-04-15,7,POTHOLE,Resolved,4
+SR-101533,2023-06-02,5,Streetlight Out,Closed,19
+SR-102090,2023-06-24,6,Rodent Inspection,closed,26
+SR-102767,2023-09-04,7,Streetlight Out,closed,2
+SR-101200,2023-02-22,4,Trash Collection,Open,17
+SR-100005,2023-06-18,1,Rodent Inspection,In Progress,17
+SR-102244,2023-08-08,6,Rodent Inspection,Resolved,29
+SR-103136,2023-10-07,8,pothole,Open,12
+SR-101258,2023-03-28,4,POTHOLE,Resolved,23
+SR-100371,2023-02-12,2,POTHOLE,closed,799
+SR-102834,2023-06-16,7,Streetlight Out,closed,12
+SR-102137,2023-11-17,6,Rodent Inspection,Closed,29
+SR-102777,2023-12-16,7,Noise Complaint,Resolved,17
+SR-102449,2023-11-13,7,Streetlight Out,Open,22
+SR-102214,2023-05-16,6,Illegal Dumping,In Progress,19
+SR-102507,2023-08-02,7,Illegal Dumping,closed,19
+SR-103026,2023-12-07,7,Noise Complaint,Closed,6
+SR-101021,2023-12-24,4,Illegal Dumping,Resolved,4
+SR-102331,2023-01-20,6,Illegal Dumping,Open,21
+SR-102661,2023-05-03,7,Noise Complaint,In Progress,6
+SR-102377,2023-11-03,6,Trash Collection,Closed,2
+SR-102869,2023-03-20,7,Pothole,Open,22
+SR-100199,2023-01-08,2,Rodent Inspection,Closed,3
+SR-102607,2023-03-08,7,Pothole,Closed,2
+SR-103019,2023-08-20,7,Pothole,In Progress,16
+SR-102834,2023-06-16,7,Streetlight Out,closed,12
+SR-101738,2023-01-11,5,Pothole,In Progress,28
+SR-102665,2023-08-08,7,Noise Complaint,In Progress,30
+SR-100598,2023-03-04,3,Illegal Dumping,closed,30
+SR-102063,2023-09-24,6,Rodent Inspection,Resolved,3
+SR-101135,,4,Streetlight Out,Resolved,29
+SR-100428,2023-03-17,2,Trash Collection,closed,18
+SR-102056,2023-07-10,6,Noise Complaint,In Progress,19
+SR-103400,2023-01-09,8,POTHOLE,In Progress,10
+SR-103024,2023-04-01,7,pothole,closed,9
+SR-101014,2023-11-26,4,Streetlight Out,closed,26
+SR-101000,2023-04-06,4,Noise Complaint,In Progress,20
+SR-102973,2023-03-17,7,Streetlight Out,Resolved,9
+SR-100523,2023-02-13,3,pothole,closed,8
+SR-100440,2023-11-10,2,Trash Collection,In Progress,6
+SR-101752,2023-01-03,5,Trash Collection,Resolved,7
+SR-100082,2023-06-07,1,pothole,Open,24
+SR-101083,2023-05-09,4,Noise Complaint,Closed,19
+SR-101955,2023-09-04,6,Streetlight Out,Closed,24
+SR-102715,2023-01-01,7,Streetlight Out,Open,590
+SR-100435,2023-06-02,2,Trash Collection,In Progress,3
+SR-101651,2023-02-02,5,Pothole,In Progress,24
+SR-100640,0000-00-00,3,Streetlight Out,Open,30
+SR-100877,2023-10-12,3,Illegal Dumping,Closed,12
+SR-100327,2023-08-14,2,Streetlight Out,Open,14
+SR-102659,2023-09-20,7,Illegal Dumping,closed,10
+SR-100047,2023-09-11,1,Illegal Dumping,closed,545
+SR-100706,2023-10-23,3,Streetlight Out,Open,8
+SR-102692,2023-01-17,,Noise Complaint,Open,8
+SR-100707,2023-12-18,3,Noise Complaint,In Progress,10
+SR-101912,2023-01-21,6,Streetlight Out,closed,8
+SR-102594,2023-07-09,7,pothole,closed,15
+SR-103015,2023-03-20,7,pothole,Open,18
+SR-100788,2023-03-03,3,pothole,In Progress,24
+SR-101837,2023-10-02,6,Rodent Inspection,Resolved,15
+SR-101832,2023-01-18,6,Trash Collection,closed,15
+SR-103228,2023-12-19,8,Streetlight Out,closed,15
+SR-102125,2023-05-16,6,Trash Collection,Resolved,9
+SR-102724,2023-04-03,7,Streetlight Out,Closed,25
+SR-102918,2023-06-21,7,Illegal Dumping,Open,9
+SR-102075,2023-03-27,6,Illegal Dumping,Closed,30
+SR-102957,2023-02-02,7,Illegal Dumping,closed,22
+SR-102649,2023-01-10,7,Illegal Dumping,closed,1
+SR-101858,2023-11-07,6,Pothole,closed,655
+SR-100471,2023-06-21,2,Rodent Inspection,In Progress,17
+SR-101869,2023-08-23,6,Noise Complaint,Resolved,787
+SR-102873,2023-09-12,7,Illegal Dumping,Open,15
+SR-101323,2023-02-22,5,Pothole,Closed,30
+SR-101286,2023-02-14,5,Trash Collection,Closed,2
+SR-101782,2023-03-23,6,Pothole,Open,19
+SR-101084,2023-01-24,4,Trash Collection,closed,22
+SR-102447,2023-11-17,7,Pothole,Closed,27
+SR-100486,0000-00-00,3,Pothole,In Progress,26
+SR-103149,2023-01-01,8,Noise Complaint,Open,4
+SR-101883,2023-06-03,6,Illegal Dumping,Closed,22
+SR-103319,,8,Noise Complaint,Resolved,17
+SR-102828,2023-02-09,7,Noise Complaint,closed,27
+SR-103341,2023-04-02,8,Rodent Inspection,Open,2
+SR-103060,2023-06-06,7,POTHOLE,closed,688
+SR-101139,0000-00-00,4,POTHOLE,closed,3
+SR-100051,2023-09-03,1,Streetlight Out,Closed,20
+SR-101613,2023-09-13,5,pothole,Resolved,1
+SR-102104,2023-04-11,6,Trash Collection,In Progress,9
+SR-101326,2023-07-26,5,pothole,closed,778
+SR-102872,2023-08-14,7,POTHOLE,In Progress,13
+SR-102025,2023-05-19,6,Noise Complaint,Resolved,15
+SR-100205,2023-03-21,2,Noise Complaint,Open,1
+SR-102651,2023-08-02,7,Pothole,In Progress,14
+SR-103007,0000-00-00,7,Streetlight Out,Closed,17
+SR-102482,2023-06-10,7,Noise Complaint,Resolved,16
+SR-100999,2023-02-21,4,Streetlight Out,closed,12
+SR-102095,2023-07-16,6,Noise Complaint,Resolved,5
+SR-102379,2023-08-08,6,Illegal Dumping,Open,7
+SR-101961,2023-03-10,6,POTHOLE,closed,1
+SR-102628,2023-06-02,,pothole,Closed,25
+SR-100557,,3,pothole,Open,7
+SR-103076,2023-02-16,7,Streetlight Out,In Progress,15
+SR-103162,2023-08-23,8,Noise Complaint,Open,4
+SR-101963,2023-10-13,6,Streetlight Out,In Progress,7
+SR-100728,2023-09-27,3,Streetlight Out,In Progress,8
+SR-101241,2023-09-09,,Rodent Inspection,Closed,10
+SR-102445,2023-08-16,7,Pothole,Closed,8
+SR-103025,2023-12-24,7,Rodent Inspection,Closed,10
+SR-101048,2023-10-15,4,Rodent Inspection,Resolved,3
+SR-101453,2023-06-28,5,Illegal Dumping,closed,19
+SR-101261,2023-11-08,5,Rodent Inspection,closed,21
+SR-100123,2023-10-11,1,Noise Complaint,Open,26
+SR-100644,2023-11-07,3,Illegal Dumping,In Progress,27
+SR-102885,2023-08-02,7,Rodent Inspection,Open,26
+SR-102713,2023-01-19,7,Rodent Inspection,Open,23
+SR-102074,2023-10-17,6,Noise Complaint,closed,7
+SR-103241,2023-07-04,8,Trash Collection,Resolved,18
+SR-101841,2023-04-16,6,Rodent Inspection,Open,1
+SR-101977,2023-04-25,6,POTHOLE,closed,24
+SR-102853,2023-05-07,7,Noise Complaint,Closed,13
+SR-100669,2023-12-26,3,Noise Complaint,closed,14
+SR-101905,2023-06-02,6,Trash Collection,Closed,12
+SR-103091,2023-07-18,7,Pothole,closed,20
+SR-102701,2023-06-15,7,Illegal Dumping,Closed,16
+SR-100630,2023-02-12,3,POTHOLE,In Progress,15
+SR-102562,2023-08-14,7,Pothole,Open,7
+SR-100387,2023-02-19,2,Streetlight Out,Closed,16
+SR-101308,2023-03-08,5,Streetlight Out,Resolved,30
+SR-100979,2023-03-16,4,Streetlight Out,Resolved,27
+SR-102375,2023-05-24,6,Streetlight Out,Closed,23
+SR-101916,2023-05-10,6,POTHOLE,Resolved,29
+SR-101520,2023-06-12,5,Illegal Dumping,closed,5
+SR-102322,2023-07-05,6,Streetlight Out,Open,24
+SR-100063,2023-06-12,1,POTHOLE,Open,14
+SR-102547,N/A,7,Illegal Dumping,Closed,23
+SR-102302,2023-02-09,,Illegal Dumping,Resolved,17
+SR-100949,2023-05-06,4,pothole,closed,27
+SR-101556,2023-02-24,5,Trash Collection,Closed,9
+SR-102000,2023-11-08,,Noise Complaint,closed,16
+SR-101469,0000-00-00,5,pothole,Resolved,24
+SR-100010,2023-05-16,1,Rodent Inspection,Open,775
+SR-101071,2023-11-24,4,Noise Complaint,Open,27
+SR-102984,2023-07-22,7,Illegal Dumping,closed,12
+SR-101691,2023-05-12,5,POTHOLE,Closed,5
+SR-102069,2023-11-17,6,Noise Complaint,Open,29
+SR-101710,2023-12-14,5,Rodent Inspection,closed,6
+SR-102794,2023-09-25,7,Trash Collection,In Progress,321
+SR-100401,2023-02-25,2,Noise Complaint,Open,23
+SR-102916,2023-03-22,7,Trash Collection,Resolved,17
+SR-101301,2023-07-18,5,Illegal Dumping,Closed,28
+SR-101256,2023-03-28,4,POTHOLE,In Progress,15
+SR-102946,2023-06-26,7,Noise Complaint,Closed,27
+SR-102990,2023-10-20,7,POTHOLE,Open,5
+SR-103403,2023-06-19,8,Illegal Dumping,Closed,24
+SR-101666,2023-05-24,5,Rodent Inspection,closed,28
+SR-102882,2023-03-03,7,Trash Collection,Resolved,16
+SR-102166,2023-06-05,6,Trash Collection,closed,21
+SR-102337,2023-03-24,,Pothole,In Progress,16
+SR-101480,2023-02-06,5,Trash Collection,closed,643
+SR-101612,2023-12-07,5,Pothole,closed,20
+SR-100761,2023-02-18,3,Streetlight Out,Closed,24
+SR-100692,2023-05-16,3,Noise Complaint,Closed,11
+SR-102412,2023-11-07,7,Noise Complaint,Closed,5
+SR-101296,2023-01-19,5,Trash Collection,Closed,19
+SR-102499,2023-06-03,7,Pothole,In Progress,21
+SR-103368,2023-07-22,8,Trash Collection,Open,4
+SR-100649,2023-03-13,3,Noise Complaint,Closed,11
+SR-100436,2023-10-22,2,Trash Collection,In Progress,13
+SR-100270,2023-01-21,2,Noise Complaint,closed,30
+SR-102555,2023-06-28,7,POTHOLE,closed,17
+SR-102313,2023-10-28,6,pothole,closed,28
+SR-101222,2023-06-24,4,pothole,Closed,12
+SR-101848,2023-06-10,6,Pothole,Closed,9
+SR-102346,2023-04-18,6,Trash Collection,closed,1
+SR-102130,2023-11-10,6,Trash Collection,In Progress,765
+SR-100122,2023-10-08,1,Pothole,Closed,30
+SR-100942,2023-10-27,4,POTHOLE,Resolved,29
+SR-102530,2023-08-12,7,Trash Collection,Open,27
+SR-101406,2023-02-22,5,Noise Complaint,Closed,11
+SR-102868,2023-06-28,7,Trash Collection,Open,11
+SR-102110,2023-02-26,,pothole,Resolved,6
+SR-103380,2023-04-15,8,Trash Collection,In Progress,2
+SR-100069,2023-03-01,1,POTHOLE,In Progress,8
+SR-102082,2023-10-20,,Noise Complaint,Resolved,380
+SR-100529,2023-09-24,3,Pothole,Closed,25
+SR-102229,2023-07-12,6,Noise Complaint,Closed,21
+SR-101335,2023-06-24,5,Rodent Inspection,closed,8
+SR-102776,2023-12-23,7,Streetlight Out,In Progress,21
+SR-102267,2023-12-22,6,Pothole,Resolved,7
+SR-101683,2023-05-10,5,Streetlight Out,Open,649
+SR-100375,2023-02-09,2,Noise Complaint,closed,7
+SR-102752,2023-10-17,7,pothole,Closed,7
+SR-102091,2023-07-12,6,Trash Collection,Open,10
+SR-100869,2023-10-20,3,Trash Collection,Open,4
+SR-101485,2023-11-10,5,Rodent Inspection,Open,26
+SR-101412,2023-08-17,5,pothole,Resolved,4
+SR-102141,2023-03-10,6,Trash Collection,closed,29
+SR-102652,2023-06-24,7,POTHOLE,Closed,28
+SR-101851,2023-09-22,6,Pothole,Resolved,2
+SR-102218,N/A,6,pothole,In Progress,14
+SR-101338,2023-08-02,5,pothole,Open,6
+SR-103161,2023-03-23,8,Streetlight Out,Open,11
+SR-100223,2023-09-10,2,Pothole,Resolved,30
+SR-101436,2023-05-15,5,Noise Complaint,In Progress,19
+SR-100759,2023-03-20,3,Illegal Dumping,Resolved,12
+SR-102600,2023-12-07,7,Rodent Inspection,In Progress,3
+SR-102706,2023-01-07,7,POTHOLE,In Progress,12
+SR-100026,2023-07-17,1,Trash Collection,closed,16
+SR-102397,2023-04-14,6,POTHOLE,closed,4
+SR-103043,,7,Illegal Dumping,In Progress,18
+SR-100576,2023-08-04,3,Trash Collection,Resolved,13
+SR-102682,2023-05-05,7,pothole,closed,9
+SR-102487,2023-06-22,7,Streetlight Out,closed,13
+SR-100038,2023-11-18,1,Rodent Inspection,Closed,17
+SR-101969,2023-12-27,6,Pothole,closed,550
+SR-100983,N/A,4,Pothole,In Progress,16
+SR-100607,2023-04-28,3,Illegal Dumping,Closed,9
+SR-102708,2023-02-02,7,POTHOLE,Open,29
+SR-102409,2023-01-08,7,Rodent Inspection,closed,28
+SR-103199,2023-02-04,8,Noise Complaint,closed,6
+SR-100172,2023-08-14,1,Trash Collection,Resolved,27
+SR-101421,2023-06-13,5,Rodent Inspection,Open,5
+SR-100381,2023-11-22,2,Pothole,Open,22
+SR-101333,2023-10-22,5,Noise Complaint,In Progress,29
+SR-101338,2023-08-02,5,pothole,Open,6
+SR-100161,2023-01-01,1,Trash Collection,In Progress,25
+SR-103343,2023-02-17,8,POTHOLE,Closed,18
+SR-102344,2023-06-10,6,Trash Collection,In Progress,3
+SR-102282,2023-04-12,6,Noise Complaint,In Progress,23
+SR-102998,2023-02-25,7,Streetlight Out,Open,28
+SR-101116,2023-02-03,4,Rodent Inspection,Resolved,7
+SR-101483,2023-01-13,5,Illegal Dumping,Resolved,4
+SR-101509,2023-09-10,,Noise Complaint,closed,23
+SR-102859,2023-04-21,7,Trash Collection,closed,4
+SR-101114,2023-12-06,4,Streetlight Out,Closed,4
+SR-100352,2023-10-20,2,POTHOLE,Open,13
+SR-101062,2023-10-13,4,Noise Complaint,closed,17
+SR-101568,2023-10-21,5,pothole,Closed,4
+SR-101106,2023-09-12,4,Pothole,closed,24
+SR-100183,2023-12-24,2,Streetlight Out,Resolved,2
+SR-102515,2023-01-04,7,Noise Complaint,Closed,19
+SR-100702,2023-03-20,3,Illegal Dumping,Closed,2
+SR-100438,2023-04-26,2,Streetlight Out,Open,694
+SR-100346,2023-02-09,2,Streetlight Out,In Progress,20
+SR-100754,2023-04-05,,Streetlight Out,closed,26
+SR-101015,2023-08-08,4,pothole,Resolved,21
+SR-101807,2023-10-24,6,Streetlight Out,In Progress,8
+SR-100735,2023-01-17,3,Trash Collection,closed,5
+SR-101408,2023-04-01,5,Pothole,closed,11
+SR-100253,2023-03-13,2,Pothole,Open,21
+SR-100222,2023-12-04,,Rodent Inspection,In Progress,20
+SR-102004,2023-11-02,6,Illegal Dumping,closed,24
+SR-101024,2023-06-09,4,Rodent Inspection,Closed,28
+SR-102821,2023-11-08,7,Noise Complaint,In Progress,8
+SR-101563,2023-03-09,5,POTHOLE,Closed,567
+SR-101432,2023-06-28,5,Rodent Inspection,closed,22
+SR-102210,2023-01-12,6,POTHOLE,Resolved,3
+SR-102349,2023-05-20,6,POTHOLE,Resolved,17
+SR-103218,2023-01-01,8,Illegal Dumping,Resolved,14
+SR-100552,2023-09-21,3,Noise Complaint,closed,26
+SR-100749,2023-01-28,3,Pothole,closed,2
+SR-101287,2023-10-16,5,Streetlight Out,In Progress,4
+SR-101450,2023-02-27,5,Streetlight Out,closed,20
+SR-100950,2023-07-21,4,Illegal Dumping,In Progress,4
+SR-100467,2023-05-05,2,Rodent Inspection,Closed,24
+SR-101623,2023-11-14,5,Trash Collection,Resolved,26
+SR-100077,2023-01-27,1,pothole,In Progress,20
+SR-100546,2023-11-08,3,Trash Collection,Closed,1
+SR-103313,2023-02-18,8,Trash Collection,Resolved,17
+SR-101624,2023-05-05,5,Illegal Dumping,Resolved,3
+SR-100094,2023-12-01,1,Noise Complaint,Resolved,7
+SR-102182,2023-08-10,6,Rodent Inspection,In Progress,19
+SR-101780,2023-07-05,6,Trash Collection,Resolved,4
+SR-101405,2023-01-12,5,Illegal Dumping,closed,13
+SR-101715,2023-02-19,5,Streetlight Out,In Progress,27
+SR-102611,2023-07-06,7,pothole,closed,18
+SR-100662,2023-12-14,3,Illegal Dumping,Closed,25
+SR-100497,2023-08-19,3,Noise Complaint,Open,347
+SR-103173,2023-05-08,8,Pothole,closed,29
+SR-101814,2023-08-27,6,Illegal Dumping,closed,5
+SR-102871,2023-01-13,7,Pothole,Open,21
+SR-102726,2023-08-26,7,Rodent Inspection,In Progress,22
+SR-102520,2023-11-26,7,Streetlight Out,closed,8
+SR-102114,2023-09-07,6,Noise Complaint,Closed,5
+SR-102201,2023-12-06,6,Pothole,closed,21
+SR-102750,2023-09-11,7,Illegal Dumping,In Progress,20
+SR-101783,2023-09-23,6,Rodent Inspection,Open,30
+SR-101244,2023-06-06,4,Pothole,Open,12
+SR-101171,2023-01-19,,Illegal Dumping,Resolved,14
+SR-102985,2023-03-16,7,Trash Collection,Closed,16
+SR-102485,2023-09-26,7,pothole,Closed,20
+SR-101121,2023-11-15,4,POTHOLE,closed,27
+SR-101920,2023-03-03,6,POTHOLE,In Progress,4
+SR-102653,2023-10-12,7,Rodent Inspection,Closed,26
+SR-100977,2023-04-15,4,Trash Collection,Open,20
+SR-101847,2023-09-09,6,Illegal Dumping,closed,24
+SR-102374,2023-03-14,6,Illegal Dumping,Resolved,28
+SR-100246,2023-09-04,2,Illegal Dumping,Resolved,18
+SR-101224,2023-07-19,4,Noise Complaint,closed,21
+SR-103179,2023-02-12,8,pothole,Resolved,5
+SR-100938,2023-06-06,4,Trash Collection,Open,9
+SR-102762,2023-12-01,7,pothole,Open,7
+SR-101410,2023-04-20,,Illegal Dumping,Open,27
+SR-101309,2023-08-17,5,Noise Complaint,Closed,12
+SR-101928,2023-06-04,6,Rodent Inspection,In Progress,11
+SR-100028,2023-02-22,1,Rodent Inspection,Resolved,4
+SR-103147,2023-12-24,8,POTHOLE,Closed,30
+SR-101123,2023-11-26,4,Noise Complaint,Open,6
+SR-103124,2023-11-14,8,Streetlight Out,closed,11
+SR-101577,2023-05-11,5,pothole,Open,658
+SR-101148,,4,POTHOLE,Open,27
+SR-100416,2023-01-05,2,Illegal Dumping,Closed,10
+SR-102144,0000-00-00,6,Illegal Dumping,closed,12
+SR-100175,2023-07-14,1,Noise Complaint,Closed,19
+SR-101124,2023-06-13,4,POTHOLE,Resolved,5
+SR-101934,2023-05-06,6,Streetlight Out,Resolved,14
+SR-100712,,3,Illegal Dumping,Resolved,29
+SR-100555,2023-09-17,3,Rodent Inspection,In Progress,9
+SR-100645,2023-07-04,3,Pothole,Closed,2
+SR-100554,2023-06-09,3,Rodent Inspection,Resolved,12
+SR-102944,2023-07-18,7,Rodent Inspection,Resolved,7
+SR-102034,2023-12-03,6,Illegal Dumping,Resolved,10
+SR-103168,2023-12-26,8,Trash Collection,closed,15
+SR-101706,2023-04-24,5,Streetlight Out,Resolved,23
+SR-100031,N/A,1,Noise Complaint,closed,2
+SR-100483,2023-10-01,3,Streetlight Out,Closed,5
+SR-103128,2023-10-24,8,Illegal Dumping,Resolved,3
+SR-102896,2023-06-08,7,Noise Complaint,Closed,19
+SR-101951,2023-12-18,,Streetlight Out,Closed,27
+SR-103120,2023-07-28,8,POTHOLE,Resolved,22
+SR-102153,2023-01-10,,Noise Complaint,Closed,24
+SR-100373,2023-09-08,2,Illegal Dumping,Open,29
+SR-102370,2023-01-11,6,pothole,Closed,29
+SR-101966,2023-10-10,6,Illegal Dumping,Resolved,28
+SR-100535,2023-06-28,3,Streetlight Out,Closed,25
+SR-103178,2023-09-07,8,Rodent Inspection,In Progress,16
+SR-102741,2023-12-22,7,Illegal Dumping,closed,29
+SR-102510,2023-05-12,7,Trash Collection,closed,2
+SR-102092,2023-12-18,6,POTHOLE,Resolved,9
+SR-100469,2023-07-05,2,Illegal Dumping,closed,24
+SR-103212,2023-12-26,8,Rodent Inspection,Resolved,17
+SR-103418,2023-06-20,8,Pothole,Open,2
+SR-103220,2023-07-22,8,POTHOLE,Resolved,29
+SR-100254,2023-07-06,2,Noise Complaint,Resolved,16
+SR-103116,2023-10-05,7,Trash Collection,In Progress,16
+SR-102877,2023-03-27,7,Illegal Dumping,Closed,3
+SR-101629,2023-11-02,5,pothole,Closed,28
+SR-102433,2023-07-23,7,Rodent Inspection,Closed,3
+SR-103230,2023-04-12,8,Illegal Dumping,Resolved,7
+SR-100225,2023-08-13,2,Streetlight Out,In Progress,13
+SR-100824,0000-00-00,3,Trash Collection,Resolved,20
+SR-101508,2023-05-12,5,Streetlight Out,Open,20
+SR-103029,2023-12-08,7,Streetlight Out,In Progress,3
+SR-102631,2023-10-03,7,Rodent Inspection,Closed,18
+SR-101204,2023-06-11,4,Illegal Dumping,Closed,11
+SR-102333,2023-04-06,6,Rodent Inspection,Closed,5
+SR-100376,2023-08-23,2,Noise Complaint,closed,4
+SR-100724,2023-09-13,3,Illegal Dumping,In Progress,28
+SR-102994,2023-10-10,7,Noise Complaint,Resolved,7
+SR-102671,2023-11-17,7,POTHOLE,Resolved,30
+SR-102500,2023-08-24,7,pothole,closed,24
+SR-102082,2023-10-20,,Noise Complaint,Resolved,380
+SR-102112,2023-02-12,6,Noise Complaint,Resolved,26
+SR-102758,2023-04-16,7,Illegal Dumping,Closed,8
+SR-103213,2023-11-11,8,pothole,Closed,1
+SR-102864,2023-10-07,7,Noise Complaint,Resolved,1
+SR-100624,2023-01-04,3,Streetlight Out,closed,10
+SR-100896,2023-12-17,3,POTHOLE,Resolved,25
+SR-102157,2023-09-21,6,Streetlight Out,Resolved,21
+SR-101640,2023-03-12,5,Rodent Inspection,Resolved,12
+SR-101310,2023-09-17,5,pothole,Open,17
+SR-102059,2023-01-27,6,Streetlight Out,Resolved,24
+SR-101340,2023-01-19,5,Illegal Dumping,Open,26
+SR-102745,2023-09-06,7,Streetlight Out,Closed,12
+SR-101641,2023-04-13,5,Trash Collection,Closed,30
+SR-101363,2023-11-08,5,Streetlight Out,Resolved,30
+SR-103317,2023-10-15,8,Pothole,Closed,12
+SR-100100,2023-05-14,1,Pothole,Open,8
+SR-100681,2023-07-21,3,Illegal Dumping,Resolved,14
+SR-100694,2023-02-19,3,Trash Collection,Open,13
+SR-101332,2023-04-02,5,Trash Collection,closed,20
+SR-102369,2023-09-14,6,Illegal Dumping,Closed,22
+SR-101180,2023-03-06,4,Rodent Inspection,In Progress,13
+SR-100586,2023-06-27,3,Rodent Inspection,Closed,27
+SR-100968,2023-07-12,4,Streetlight Out,Closed,17
+SR-100084,2023-04-10,1,Pothole,closed,2
+SR-101012,2023-02-13,4,Rodent Inspection,closed,27
+SR-101277,2023-07-14,5,Streetlight Out,In Progress,1
+SR-102907,2023-10-08,7,Noise Complaint,In Progress,401
+SR-103388,2023-07-04,8,Rodent Inspection,Resolved,20
+SR-102433,2023-07-23,7,Rodent Inspection,Closed,3
+SR-102729,2023-12-13,7,POTHOLE,In Progress,5
+SR-102761,2023-04-18,7,Illegal Dumping,Closed,23
+SR-102477,2023-05-23,,Trash Collection,In Progress,1
+SR-101348,2023-11-10,5,POTHOLE,Resolved,712
+SR-101821,2023-11-02,6,Illegal Dumping,closed,3
+SR-100059,2023-01-18,1,Illegal Dumping,closed,4
+SR-102402,2023-04-14,7,Streetlight Out,Resolved,5
+SR-102644,2023-06-25,,Rodent Inspection,Resolved,8
+SR-103002,2023-06-24,7,Illegal Dumping,Closed,28
+SR-101463,2023-08-27,5,Pothole,Open,8
+SR-100363,2023-03-11,2,Streetlight Out,Closed,751
+SR-100600,2023-01-04,3,Pothole,Resolved,27
+SR-100138,2023-10-26,1,Illegal Dumping,Closed,29
+SR-100437,2023-10-09,2,Trash Collection,Resolved,30
+SR-102818,2023-03-04,7,Noise Complaint,Open,23
+SR-102167,2023-03-03,6,Noise Complaint,Resolved,11
+SR-101079,2023-08-27,,POTHOLE,closed,7
+SR-100817,2023-07-08,3,Streetlight Out,Closed,13
+SR-101324,2023-07-04,5,Pothole,In Progress,436
+SR-102035,2023-08-27,6,Streetlight Out,In Progress,29
+SR-101320,2023-03-07,5,Noise Complaint,Open,29
+SR-102717,2023-05-05,7,pothole,Open,1
+SR-100998,2023-11-24,4,Trash Collection,Open,13

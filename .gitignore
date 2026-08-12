@@ -1,0 +1,21 @@
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# generated review output (candidates regenerate this)
+review/ward_chart.png
+
+# os
+.DS_Store
+
+# stray R default plot device
+Rplots.pdf
+
+# grader-only (never ship to candidates)
+_hiring-team/
