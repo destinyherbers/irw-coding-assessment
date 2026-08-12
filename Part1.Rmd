@@ -1,0 +1,19 @@
+---
+title: "Part 1"
+output: html_document
+date: "2026-08-12"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+install.packages("dplyr")
+install.packages("tidyverse")
+library(dplyr)
+library(tidyverse)
+```
+
+
+```{r}
+read_csv()
+```
+
