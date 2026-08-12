@@ -113,8 +113,6 @@ and the packages you used.
 
 ## How we'll evaluate
 
-We're upfront about what we're grading:
-
 - how you explore a dataset and decide what's worth a reader's attention
   (Part 1)
 - denominators, normalization, uncertainty, and knowing what a dataset can and
