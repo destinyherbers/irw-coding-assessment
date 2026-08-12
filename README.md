@@ -42,7 +42,7 @@ review/
 
 Pick any dataset from [opendata.dc.gov](https://opendata.dc.gov) (311 requests,
 building permits, crime, evictions, whatever grabs you) and produce **one
-finding you can actually support**. 
+finding you can support**. 
 
 We also want to see how you got there, how you poke at a dataset and decide
 what's worth a reader's attention.
