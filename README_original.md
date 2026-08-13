@@ -102,12 +102,12 @@ and the packages you used.
 
 ### Checklist
 
-- [ ] Part 1: code + one visualization + `finding.md`
-- [ ] Part 2: `review/code_review.md`
-- [ ] Part 3: `explainer.md`
-- [ ] GitHub repo (public, or private with `aarushisahejpal` added) + commit
+- [X] Part 1: code + one visualization + `finding.md`
+- [X] Part 2: `review/code_review.md`
+- [X] Part 3: `explainer.md`
+- [X] GitHub repo (public, or private with `aarushisahejpal` added) + commit
       history (not one final commit)
-- [ ] Short README (+ one line on where you did and didn't use AI)
+- [X] Short README (+ one line on where you did and didn't use AI)
 
 ---
 

@@ -21,7 +21,7 @@ This is a great start, and looking for areas of DC that have more 311 calls, wha
 
 Calling an area "neglected", though, is editorializing the issue because it's a loaded word that the data can't completely back up. Update the headline to be as factual as possible. We can say something like "Ward X made the most calls to 311 per capita."
 
-Then there are some changes we need to make sure we have the strongest possible case to support the headline. 
+Then there are some changes we need to make sure we have the strongest, most accurate case to support the headline. 
 
 First, the data needs cleaning. At a glance, there's variation in title case in multiple columns, so I would recommend setting the entire data set to uppercase or lowercase, trimming any extra spaces, and making sure the N/A values are consistent. Then rerun the service type count and update your claim. 
 
