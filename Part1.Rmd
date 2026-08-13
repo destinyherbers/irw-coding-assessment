@@ -73,8 +73,31 @@ ggplot(monthly_totals, aes(x = month, y = total_arrests)) +
 
 # I don't see a strong relationship between season and number of juvenile arrests, except for a November/December decrease. I'll move on to looking at counts per year to see if there have been overall changes in the number of arrests over time.
 
+# getting yearly totals
 ```{r}
+yearly_totals <- juvenile_arrests %>%
+  mutate(year = year(arrest_date)) %>%
+  group_by(year) %>%
+  summarize(total_arrests = n(), .groups = "drop") %>%
+  arrange(year)
 
+print(yearly_totals)
+
+#simple chart
+yearly_totals %>%
+  ggplot(aes(year, total_arrests)) +
+  geom_col(fill = "steelblue") +
+  labs(title = "Total Arrests by Year", x = "Year", y = "Number of Arrests")
+```
+
+# adding percent change between all years
+```{r}
+yearly_totals <- yearly_totals %>%
+  mutate(
+    pct_change = (total_arrests - lag(total_arrests)) / lag(total_arrests) * 100)
+
+(last(yearly_totals$total_arrests) - first(yearly_totals$total_arrests)) / first(yearly_totals$total_arrests) * 100
 ```
 
 
+## Juvenile arrests have decreased by 50% between 2011 and 2024. The steepest decrease was between 2019 and 2020. While arrest totals have fluctuated since 2020, they have not returned to pre-pandemic levels.
